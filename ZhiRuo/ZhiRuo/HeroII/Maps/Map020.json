@@ -1,4 +1,4 @@
-{
+锘縶
   "autoplayBgm": false,
   "autoplayBgs": false,
   "battleback1Name": "BT_3",
@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "震远镖局",
+  "displayName": "闇囪繙闀栧眬",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -36,7 +36,7 @@
     null,
     {
       "id": 1,
-      "name": "入口",
+      "name": "鍏ュ彛",
       "note": "",
       "pages": [
         {
@@ -67,7 +67,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:平安镇北,1>" ]
+              "parameters": [ "<Name:骞冲畨闀囧寳,1>" ]
             },
             {
               "code": 201,
@@ -147,7 +147,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name: 反贼, 1>" ]
+              "parameters": [ "<Name: 鍙嶈醇, 1>" ]
             },
             {
               "code": 122,
@@ -261,7 +261,7 @@
     },
     {
       "id": 4,
-      "name": "操作模式",
+      "name": "鎿嶄綔妯″紡",
       "note": "",
       "pages": [
         {
@@ -382,7 +382,7 @@
     },
     {
       "id": 5,
-      "name": "木箱",
+      "name": "鏈ㄧ",
       "note": "",
       "pages": [
         {
@@ -428,7 +428,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<-----------宝物------------>" ]
+              "parameters": [ "<-----------瀹濈墿------------>" ]
             },
             {
               "code": 122,

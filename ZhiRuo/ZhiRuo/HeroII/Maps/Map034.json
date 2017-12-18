@@ -1,4 +1,4 @@
-{
+ï»¿{
   "autoplayBgm": false,
   "autoplayBgs": false,
   "battleback1Name": "BT_5",
@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "áÔÉ½ÅÉ",
+  "displayName": "åµ©å±±æ´¾",
   "encounterList": [],
   "encounterStep": 30,
   "height": 25,
@@ -36,7 +36,7 @@
     null,
     {
       "id": 1,
-      "name": "²Ù×÷Ä£Ê½",
+      "name": "æ“ä½œæ¨¡å¼",
       "note": "",
       "pages": [
         {
@@ -157,7 +157,7 @@
     },
     {
       "id": 2,
-      "name": "Èë¿Ú",
+      "name": "å…¥å£",
       "note": "",
       "pages": [
         {
@@ -188,7 +188,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:·âìøÌ¨,1>" ]
+              "parameters": [ "<Name:å°ç¦…å°,1>" ]
             },
             {
               "code": 117,
@@ -267,7 +267,7 @@
     },
     {
       "id": 3,
-      "name": "Èë¿Ú",
+      "name": "å…¥å£",
       "note": "",
       "pages": [
         {
@@ -298,7 +298,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:áÔÑôµî,1>" ]
+              "parameters": [ "<Name:åµ©é˜³æ®¿,1>" ]
             },
             {
               "code": 201,
@@ -347,7 +347,7 @@
     },
     {
       "id": 4,
-      "name": "Èë¿Ú",
+      "name": "å…¥å£",
       "note": "",
       "pages": [
         {
@@ -378,7 +378,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:áÔÉ½É½½Å,1>" ]
+              "parameters": [ "<Name:åµ©å±±å±±è„š,1>" ]
             },
             {
               "code": 201,
@@ -458,7 +458,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:¶¡Ãã,1>" ]
+              "parameters": [ "<Name:ä¸å‹‰,1>" ]
             },
             {
               "code": 122,
@@ -563,7 +563,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:·Ñ±ò,1>" ]
+              "parameters": [ "<Name:è´¹å½¬,1>" ]
             },
             {
               "code": 122,

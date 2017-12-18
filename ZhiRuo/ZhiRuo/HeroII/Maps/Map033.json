@@ -1,4 +1,4 @@
-{
+ï»¿{
   "autoplayBgm": false,
   "autoplayBgs": false,
   "battleback1Name": "BT_5",
@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "áÔÉ½É½½Å",
+  "displayName": "åµ©å±±å±±è„š",
   "encounterList": [],
   "encounterStep": 30,
   "height": 18,
@@ -36,7 +36,7 @@
     null,
     {
       "id": 1,
-      "name": "²Ù×÷Ä£Ê½",
+      "name": "æ“ä½œæ¨¡å¼",
       "note": "",
       "pages": [
         {
@@ -217,7 +217,7 @@
     },
     {
       "id": 3,
-      "name": "Èë¿Ú",
+      "name": "å…¥å£",
       "note": "",
       "pages": [
         {
@@ -248,7 +248,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:ÖĞÔ­ÎäÁÖ,1>" ]
+              "parameters": [ "<Name:ä¸­åŸæ­¦æ—,1>" ]
             },
             {
               "code": 201,
@@ -297,7 +297,7 @@
     },
     {
       "id": 4,
-      "name": "Èë¿Ú",
+      "name": "å…¥å£",
       "note": "",
       "pages": [
         {
@@ -328,7 +328,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:áÔÉ½ÅÉ,1>" ]
+              "parameters": [ "<Name:åµ©å±±æ´¾,1>" ]
             },
             {
               "code": 201,
@@ -437,7 +437,7 @@
     },
     {
       "id": 6,
-      "name": "µØÍ¼ÒôÀÖ",
+      "name": "åœ°å›¾éŸ³ä¹",
       "note": "",
       "pages": [
         {
@@ -707,7 +707,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:¹ÙÔ±,1>" ]
+              "parameters": [ "<Name:å®˜å‘˜,1>" ]
             },
             {
               "code": 122,
@@ -773,7 +773,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:¶ñÔô,1>" ]
+              "parameters": [ "<Name:æ¶è´¼,1>" ]
             },
             {
               "code": 122,

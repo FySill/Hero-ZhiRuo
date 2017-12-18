@@ -1,4 +1,4 @@
-{
+ï»¿{
   "autoplayBgm": false,
   "autoplayBgs": false,
   "battleback1Name": "BT_3",
@@ -16,7 +16,7 @@
     "volume": 90
   },
   "disableDashing": false,
-  "displayName": "¶Ä³¡",
+  "displayName": "èµŒåœº",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -36,7 +36,7 @@
     null,
     {
       "id": 1,
-      "name": "Èë¿Ú",
+      "name": "å…¥å£",
       "note": "",
       "pages": [
         {
@@ -67,7 +67,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name:ÉÌÒµ½Ö,1>" ]
+              "parameters": [ "<Name:å•†ä¸šè¡—,1>" ]
             },
             {
               "code": 201,
@@ -147,7 +147,7 @@
             {
               "code": 108,
               "indent": 0,
-              "parameters": [ "<Name: ·´Ôô, 1>" ]
+              "parameters": [ "<Name: åè´¼, 1>" ]
             },
             {
               "code": 122,
@@ -261,7 +261,7 @@
     },
     {
       "id": 4,
-      "name": "²Ù×÷Ä£Ê½",
+      "name": "æ“ä½œæ¨¡å¼",
       "note": "",
       "pages": [
         {
