@@ -1,9 +1,9 @@
-[
+ï»¿[
   null,
   {
     "id": 1,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€3%]¡¡[ÃüÖĞ©€5%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢3%]ã€€[å‘½ä¸­ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -28,7 +28,7 @@
       }
     ],
     "iconIndex": 16,
-    "name": "²Ëµ¶",
+    "name": "èœåˆ€",
     "note": "<ici:1>\n<Max Item: 1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 7, 0, 5, 0, 0, 0 ],
     "price": 1500,
@@ -37,7 +37,7 @@
   {
     "id": 2,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€1%]¡¡[ÃüÖĞ©€7%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢1%]ã€€[å‘½ä¸­ï¹¢7%]",
     "etypeId": 1,
     "traits": [
       {
@@ -62,7 +62,7 @@
       }
     ],
     "iconIndex": 17,
-    "name": "Ø°Ê×",
+    "name": "åŒ•é¦–",
     "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 5, 0, 0, 0, 5, 0 ],
     "price": 1400,
@@ -71,7 +71,7 @@
   {
     "id": 3,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€1%]¡¡[ÃüÖĞ©€8%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢1%]ã€€[å‘½ä¸­ï¹¢8%]",
     "etypeId": 1,
     "traits": [
       {
@@ -96,7 +96,7 @@
       }
     ],
     "iconIndex": 18,
-    "name": "ËéÊ¯",
+    "name": "ç¢çŸ³",
     "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 4, 0, 0, 0, 2, 2 ],
     "price": 1200,
@@ -105,7 +105,7 @@
   {
     "id": 4,
     "animationId": 1,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€3%]¡¡[ÃüÖĞ©€6%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢3%]ã€€[å‘½ä¸­ï¹¢6%]",
     "etypeId": 1,
     "traits": [
       {
@@ -130,7 +130,7 @@
       }
     ],
     "iconIndex": 19,
-    "name": "¹ÕÕÈ",
+    "name": "æ‹æ–",
     "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 9, 0, 0, 3, 0, 2 ],
     "price": 1680,
@@ -163,7 +163,7 @@
   {
     "id": 6,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€5%]¡¡[ÃüÖĞ©€8%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢5%]ã€€[å‘½ä¸­ï¹¢8%]",
     "etypeId": 1,
     "traits": [
       {
@@ -188,7 +188,7 @@
       }
     ],
     "iconIndex": 576,
-    "name": "¸Öµ¶",
+    "name": "é’¢åˆ€",
     "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
     "params": [ 0, 0, 27, 0, 2, 2, 2, 0 ],
     "price": 8800,
@@ -197,7 +197,7 @@
   {
     "id": 7,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€3%]¡¡[ÃüÖĞ©€11%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢3%]ã€€[å‘½ä¸­ï¹¢11%]",
     "etypeId": 1,
     "traits": [
       {
@@ -222,7 +222,7 @@
       }
     ],
     "iconIndex": 21,
-    "name": "Ìú½£",
+    "name": "é“å‰‘",
     "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
     "params": [ 0, 0, 25, 0, 2, 2, 2, 0 ],
     "price": 8500,
@@ -231,7 +231,7 @@
   {
     "id": 8,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€3%]¡¡[ÃüÖĞ©€10%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢3%]ã€€[å‘½ä¸­ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -256,7 +256,7 @@
       }
     ],
     "iconIndex": 22,
-    "name": "Ğå»¨Õë",
+    "name": "ç»£èŠ±é’ˆ",
     "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
     "params": [ 0, 0, 23, 0, 2, 2, 2, 0 ],
     "price": 7550,
@@ -265,7 +265,7 @@
   {
     "id": 9,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€2%]¡¡[ÃüÖĞ©€12%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢2%]ã€€[å‘½ä¸­ï¹¢12%]",
     "etypeId": 1,
     "traits": [
       {
@@ -290,7 +290,7 @@
       }
     ],
     "iconIndex": 23,
-    "name": "½ğÇ®ïÚ",
+    "name": "é‡‘é’±é•–",
     "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
     "params": [ 0, 0, 21, 0, 2, 2, 2, 0 ],
     "price": 7600,
@@ -299,7 +299,7 @@
   {
     "id": 10,
     "animationId": 1,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€3%]¡¡[ÃüÖĞ©€9%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢3%]ã€€[å‘½ä¸­ï¹¢9%]",
     "etypeId": 1,
     "traits": [
       {
@@ -324,7 +324,7 @@
       }
     ],
     "iconIndex": 24,
-    "name": "Ä¾¹÷",
+    "name": "æœ¨æ£",
     "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
     "params": [ 0, 0, 29, 0, 2, 2, 2, 0 ],
     "price": 9800,
@@ -357,7 +357,7 @@
   {
     "id": 12,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€9%]¡¡[ÃüÖĞ©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢9%]ã€€[å‘½ä¸­ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -382,8 +382,8 @@
       }
     ],
     "iconIndex": 25,
-    "name": "¹íÍ·µ¶",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>",
+    "name": "é¬¼å¤´åˆ€",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 36, 0, 10, 0, 0, 0 ],
     "price": 15000,
     "wtypeId": 2
@@ -391,7 +391,7 @@
   {
     "id": 13,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€6%]¡¡[ÃüÖĞ©€14%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢6%]ã€€[å‘½ä¸­ï¹¢14%]",
     "etypeId": 1,
     "traits": [
       {
@@ -416,8 +416,8 @@
       }
     ],
     "iconIndex": 586,
-    "name": "Çà·æ½£",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>",
+    "name": "é’é”‹å‰‘",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 34, 0, 0, 0, 10, 0 ],
     "price": 12000,
     "wtypeId": 1
@@ -425,7 +425,7 @@
   {
     "id": 14,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€7%]¡¡[ÃüÖĞ©€12%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢7%]ã€€[å‘½ä¸­ï¹¢12%]",
     "etypeId": 1,
     "traits": [
       {
@@ -450,8 +450,8 @@
       }
     ],
     "iconIndex": 27,
-    "name": "ÁøÒ¶ïÚ",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>",
+    "name": "æŸ³å¶é•–",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 28, 0, 0, 0, 10, 0 ],
     "price": 11000,
     "wtypeId": 4
@@ -459,7 +459,7 @@
   {
     "id": 15,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€5%]¡¡[ÃüÖĞ©€14%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢5%]ã€€[å‘½ä¸­ï¹¢14%]",
     "etypeId": 1,
     "traits": [
       {
@@ -484,8 +484,8 @@
       }
     ],
     "iconIndex": 28,
-    "name": "Ã·»¨ïÚ",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¢…èŠ±é•–",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 25, 0, 10, 0, 0, 0 ],
     "price": 11000,
     "wtypeId": 4
@@ -493,7 +493,7 @@
   {
     "id": 16,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€8%]¡¡[ÃüÖĞ©€12%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢8%]ã€€[å‘½ä¸­ï¹¢12%]",
     "etypeId": 1,
     "traits": [
       {
@@ -518,8 +518,8 @@
       }
     ],
     "iconIndex": 29,
-    "name": "ÆëÃ¼¹÷",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>",
+    "name": "é½çœ‰æ£",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 38, 0, 10, 0, 0, 0 ],
     "price": 18000,
     "wtypeId": 3
@@ -551,7 +551,7 @@
   {
     "id": 18,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€14%]¡¡[ÃüÖĞ©€15%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢14%]ã€€[å‘½ä¸­ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -576,8 +576,8 @@
       }
     ],
     "iconIndex": 30,
-    "name": "×Ï½ğµ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç´«é‡‘åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 66, 0, 15, 0, 15, 0 ],
     "price": 56000,
     "wtypeId": 2
@@ -585,7 +585,7 @@
   {
     "id": 19,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€12%]¡¡[ÃüÖĞ©€18%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢12%]ã€€[å‘½ä¸­ï¹¢18%]",
     "etypeId": 1,
     "traits": [
       {
@@ -610,8 +610,8 @@
       }
     ],
     "iconIndex": 31,
-    "name": "Ô§Ñìµ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é¸³é¸¯åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 67, 0, 15, 15, 0, 0 ],
     "price": 56000,
     "wtypeId": 2
@@ -619,7 +619,7 @@
   {
     "id": 20,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€1%]¡¡[±©»÷©€11%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢1%]ã€€[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -649,8 +649,8 @@
       }
     ],
     "iconIndex": 584,
-    "name": "¾ı×Ó½£",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å›å­å‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 65, 0, 15, 0, 15, 0 ],
     "price": 55000,
     "wtypeId": 1
@@ -658,7 +658,7 @@
   {
     "id": 21,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[»ØÄÚ©€2%]¡¡[±©»÷©€11%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›å†…ï¹¢2%]ã€€[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -688,8 +688,8 @@
       }
     ],
     "iconIndex": 496,
-    "name": "ÊçÅ®½£",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ·‘å¥³å‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 63, 0, 0, 15, 15, 0 ],
     "price": 55000,
     "wtypeId": 1
@@ -697,7 +697,7 @@
   {
     "id": 22,
     "animationId": 255,
-    "description": "\\c[3][ÖĞ¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€11%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[3][ä¸­æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -722,8 +722,8 @@
       }
     ],
     "iconIndex": 498,
-    "name": "Óñ·äÕë",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç‰èœ‚é’ˆ",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 55, 0, 0, 15, 15, 0 ],
     "price": 53000,
     "wtypeId": 4
@@ -731,7 +731,7 @@
   {
     "id": 23,
     "animationId": 255,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€14%]¡¡[ÃüÖĞ©€17%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢14%]ã€€[å‘½ä¸­ï¹¢17%]",
     "etypeId": 1,
     "traits": [
       {
@@ -756,8 +756,8 @@
       }
     ],
     "iconIndex": 499,
-    "name": "±ùÆÇÒøÕë",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å†°é­„é“¶é’ˆ",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 57, 0, 15, 15, 0, 0 ],
     "price": 55000,
     "wtypeId": 4
@@ -765,7 +765,7 @@
   {
     "id": 24,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€11%]¡¡[ÃüÖĞ©€21%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢21%]",
     "etypeId": 1,
     "traits": [
       {
@@ -790,8 +790,8 @@
       }
     ],
     "iconIndex": 501,
-    "name": "ÎŞÓ°ÉñÕë",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ— å½±ç¥é’ˆ",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 61, 0, 15, 0, 15, 0 ],
     "price": 54000,
     "wtypeId": 4
@@ -799,7 +799,7 @@
   {
     "id": 25,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€15%]¡¡[ÃüÖĞ©€12%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢15%]ã€€[å‘½ä¸­ï¹¢12%]",
     "etypeId": 1,
     "traits": [
       {
@@ -824,8 +824,8 @@
       }
     ],
     "iconIndex": 796,
-    "name": "ÌúİğŞ¼",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é“è’ºè—œ",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 57, 0, 15, 0, 15, 0 ],
     "price": 53000,
     "wtypeId": 4
@@ -833,7 +833,7 @@
   {
     "id": 26,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€12%]¡¡[ÃüÖĞ©€18%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢12%]ã€€[å‘½ä¸­ï¹¢18%]",
     "etypeId": 1,
     "traits": [
       {
@@ -858,8 +858,8 @@
       }
     ],
     "iconIndex": 502,
-    "name": "ÅÌÁú¹÷",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç›˜é¾™æ£",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 64, 0, 15, 0, 15, 0 ],
     "price": 57000,
     "wtypeId": 3
@@ -867,7 +867,7 @@
   {
     "id": 27,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€15%]¡¡[ÃüÖĞ©€13%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢15%]ã€€[å‘½ä¸­ï¹¢13%]",
     "etypeId": 1,
     "traits": [
       {
@@ -892,8 +892,8 @@
       }
     ],
     "iconIndex": 503,
-    "name": "·üÄ§¹÷",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ä¼é­”æ£",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 68, 0, 15, 15, 0, 0 ],
     "price": 57000,
     "wtypeId": 3
@@ -925,7 +925,7 @@
   {
     "id": 29,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€3%]¡¡[±©»÷©€16%]¡¡[ÃüÖĞ©€23%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢3%]ã€€[æš´å‡»ï¹¢16%]ã€€[å‘½ä¸­ï¹¢23%]",
     "etypeId": 1,
     "traits": [
       {
@@ -955,8 +955,8 @@
       }
     ],
     "iconIndex": 784,
-    "name": "´³Íõ¾üµ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é—¯ç‹å†›åˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 148, 0, 30, 0, 30, 0 ],
     "price": 0,
     "wtypeId": 2
@@ -964,7 +964,7 @@
   {
     "id": 30,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€5%]¡¡[±©»÷©€22%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢5%]ã€€[æš´å‡»ï¹¢22%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -994,8 +994,8 @@
       }
     ],
     "iconIndex": 786,
-    "name": "Ñªµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è¡€åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 248, 0, 50, 1, 1, 1 ],
     "price": 0,
     "wtypeId": 2
@@ -1003,7 +1003,7 @@
   {
     "id": 31,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€21%]¡¡[ÃüÖĞ©€27%]¡¡[Á÷Ñª©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢21%]ã€€[å‘½ä¸­ï¹¢27%]ã€€[æµè¡€ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1028,8 +1028,8 @@
       }
     ],
     "iconIndex": 787,
-    "name": "ÀäÔÂ±¦µ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å†·æœˆå®åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 255, 0, 1, 1, 50, 1 ],
     "price": 0,
     "wtypeId": 2
@@ -1037,7 +1037,7 @@
   {
     "id": 32,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€18%]¡¡[ÃüÖĞ©€35%]¡¡[Á÷Ñª©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢35%]ã€€[æµè¡€ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1062,8 +1062,8 @@
       }
     ],
     "iconIndex": 785,
-    "name": "²õÒíµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è‰ç¿¼åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 263, 0, 1, 50, 1, 1 ],
     "price": 0,
     "wtypeId": 2
@@ -1071,7 +1071,7 @@
   {
     "id": 33,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€30%]¡¡[±©»÷©€18%]¡¡[ÃüÖĞ©€30%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢30%]ã€€[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢30%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1101,8 +1101,8 @@
       }
     ],
     "iconIndex": 788,
-    "name": "Ô²ÔÂÍäµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "åœ†æœˆå¼¯åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 275, 0, 1, 1, 50, 1 ],
     "price": 0,
     "wtypeId": 2
@@ -1110,7 +1110,7 @@
   {
     "id": 34,
     "animationId": 23,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€50%]¡¡[±©»÷©€25%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢50%]ã€€[æš´å‡»ï¹¢25%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1140,8 +1140,8 @@
       }
     ],
     "iconIndex": 789,
-    "name": "ÍÀÁúµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å± é¾™åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 290, 0, 20, 20, 1, 1 ],
     "price": 0,
     "wtypeId": 2
@@ -1173,7 +1173,7 @@
   {
     "id": 36,
     "animationId": 23,
-    "description": "\\c[24][ÆÆÕÀ]\\c[0]¡¡ÌØĞ§£º[ÄÚÁ¦ºÄËğ©10%]¡¡[±©»÷©€20%]¡¡[ÃüÖĞ©€35%]",
+    "description": "\\c[24][ç ´ç»½]\\c[0]ã€€ç‰¹æ•ˆï¼š[å†…åŠ›è€—æŸï¹£10%]ã€€[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢35%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1203,8 +1203,8 @@
       }
     ],
     "iconIndex": 790,
-    "name": "ÒĞÌì½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å€šå¤©å‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 275, 0, 1, 20, 20, 1 ],
     "price": 0,
     "wtypeId": 1
@@ -1212,7 +1212,7 @@
   {
     "id": 37,
     "animationId": 23,
-    "description": "\\c[3][ÖĞ¶¾]\\c[0]¡¡ÌØĞ§£º[¿¹ÖĞ¶¾©€80%]¡¡[±©»÷©€18%]¡¡[ÃüÖĞ©€35%]",
+    "description": "\\c[3][ä¸­æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æŠ—ä¸­æ¯’ï¹¢80%]ã€€[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢35%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1242,8 +1242,8 @@
       }
     ],
     "iconIndex": 791,
-    "name": "½ğÉß½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘è›‡å‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 245, 0, 1, 1, 50, 1 ],
     "price": 0,
     "wtypeId": 1
@@ -1251,7 +1251,7 @@
   {
     "id": 38,
     "animationId": 23,
-    "description": "\\c[24][ÆÆÕÀ]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€45%]¡¡[±©»÷©€30%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[24][ç ´ç»½]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢45%]ã€€[æš´å‡»ï¹¢30%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1281,8 +1281,8 @@
       }
     ],
     "iconIndex": 782,
-    "name": "ĞşÌú½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç„é“å‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 300, 0, 20, 20, 1, 1 ],
     "price": 0,
     "wtypeId": 1
@@ -1290,7 +1290,7 @@
   {
     "id": 39,
     "animationId": 23,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€2%]¡¡[±©»÷©€16%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢2%]ã€€[æš´å‡»ï¹¢16%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1320,8 +1320,8 @@
       }
     ],
     "iconIndex": 513,
-    "name": "×ÏŞ±Èí½£",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç´«è–‡è½¯å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 146, 0, 0, 30, 30, 0 ],
     "price": 265000,
     "wtypeId": 1
@@ -1329,7 +1329,7 @@
   {
     "id": 40,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€3%]¡¡[Å­Æø»ñµÃ©€30%]¡¡[ÃüÖĞ©€25%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢3%]ã€€[æ€’æ°”è·å¾—ï¹¢30%]ã€€[å‘½ä¸­ï¹¢25%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1359,8 +1359,8 @@
       }
     ],
     "iconIndex": 514,
-    "name": "Äı±Ì½£",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å‡ç¢§å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 137, 0, 30, 30, 0, 0 ],
     "price": 230000,
     "wtypeId": 1
@@ -1368,7 +1368,7 @@
   {
     "id": 41,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€20%]¡¡[±©»÷©€14%]¡¡[ÃüÖĞ©€25%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢20%]ã€€[æš´å‡»ï¹¢14%]ã€€[å‘½ä¸­ï¹¢25%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1398,8 +1398,8 @@
       }
     ],
     "iconIndex": 515,
-    "name": "°×ºç½£",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç™½è™¹å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 129, 0, 30, 0, 30, 0 ],
     "price": 200000,
     "wtypeId": 1
@@ -1431,7 +1431,7 @@
   {
     "id": 43,
     "animationId": 255,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€23%]¡¡[ÃüÖĞ©€30%]¡¡[¾ç¶¾©€10%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢23%]ã€€[å‘½ä¸­ï¹¢30%]ã€€[å‰§æ¯’ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1456,8 +1456,8 @@
       }
     ],
     "iconIndex": 516,
-    "name": "º¬É³ÉäÓ°",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å«æ²™å°„å½±",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 245, 0, 1, 1, 50, 1 ],
     "price": 425000,
     "wtypeId": 4
@@ -1465,7 +1465,7 @@
   {
     "id": 44,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€20%]¡¡[±©»÷©€18%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢20%]ã€€[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1495,8 +1495,8 @@
       }
     ],
     "iconIndex": 648,
-    "name": "Ìì²ÏË¿",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å¤©èš•ä¸",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 225, 0, 20, 1, 20, 1 ],
     "price": 0,
     "wtypeId": 4
@@ -1504,7 +1504,7 @@
   {
     "id": 45,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€18%]¡¡[ÃüÖĞ©€28%]¡¡[µãÑ¨©€10%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢28%]ã€€[ç‚¹ç©´ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1529,8 +1529,8 @@
       }
     ],
     "iconIndex": 518,
-    "name": "±©ÓêÀæ»¨",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æš´é›¨æ¢¨èŠ±",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 140, 0, 0, 30, 30, 0 ],
     "price": 230000,
     "wtypeId": 4
@@ -1538,7 +1538,7 @@
   {
     "id": 46,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€17%]¡¡[ÃüÖĞ©€24%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢17%]ã€€[å‘½ä¸­ï¹¢24%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1563,8 +1563,8 @@
       }
     ],
     "iconIndex": 1089,
-    "name": "Í¸¹Ç¶¤",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é€éª¨é’‰",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 143, 0, 30, 0, 30, 0 ],
     "price": 254000,
     "wtypeId": 4
@@ -1572,7 +1572,7 @@
   {
     "id": 47,
     "animationId": 255,
-    "description": "\\c[12][·âÄÚ]\\c[0]¡¡ÌØĞ§£º[»ØÄÚ©€5%]¡¡[»ØÑª©€3%]¡¡[ÃüÖĞ©€35%]",
+    "description": "\\c[12][å°å†…]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›å†…ï¹¢5%]ã€€[å›è¡€ï¹¢3%]ã€€[å‘½ä¸­ï¹¢35%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1602,8 +1602,8 @@
       }
     ],
     "iconIndex": 795,
-    "name": "ÉúËÀ·û",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç”Ÿæ­»ç¬¦",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 278, 0, 1, 50, 1, 1 ],
     "price": 450000,
     "wtypeId": 4
@@ -1611,7 +1611,7 @@
   {
     "id": 48,
     "animationId": 255,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€2%]¡¡[»ØÄÚ©€2%]¡¡[ÃüÖĞ©€30%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢2%]ã€€[å›å†…ï¹¢2%]ã€€[å‘½ä¸­ï¹¢30%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1641,8 +1641,8 @@
       }
     ],
     "iconIndex": 793,
-    "name": "Áú·ïË«»·",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é¾™å‡¤åŒç¯",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 123, 0, 30, 30, 0, 0 ],
     "price": 230000,
     "wtypeId": 4
@@ -1650,7 +1650,7 @@
   {
     "id": 49,
     "animationId": 255,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€18%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1675,8 +1675,8 @@
       }
     ],
     "iconIndex": 794,
-    "name": "¾«¸Ö·Éµ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç²¾é’¢é£åˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 148, 0, 30, 0, 30, 0 ],
     "price": 250000,
     "wtypeId": 4
@@ -1684,7 +1684,7 @@
   {
     "id": 50,
     "animationId": 255,
-    "description": "\\c[3][ÃÍ¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€16%]¡¡[ÃüÖĞ©€27%]¡¡[ÃÍ¶¾©€10%]",
+    "description": "\\c[3][çŒ›æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢16%]ã€€[å‘½ä¸­ï¹¢27%]ã€€[çŒ›æ¯’ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1709,8 +1709,8 @@
       }
     ],
     "iconIndex": 688,
-    "name": "åĞÒ£É¢",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é€é¥æ•£",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 115, 0, 0, 30, 30, 0 ],
     "price": 210000,
     "wtypeId": 4
@@ -1718,7 +1718,7 @@
   {
     "id": 51,
     "animationId": 255,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€12%]¡¡[ÃüÖĞ©€17%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢12%]ã€€[å‘½ä¸­ï¹¢17%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1743,8 +1743,8 @@
       }
     ],
     "iconIndex": 519,
-    "name": "ºÚÓêÉñÕë",
-    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é»‘é›¨ç¥é’ˆ",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 54, 0, 15, 0, 15, 0 ],
     "price": 51000,
     "wtypeId": 4
@@ -1776,7 +1776,7 @@
   {
     "id": 53,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€30%]¡¡[±©»÷©€25%]¡¡[ÃüÖĞ©€27%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢30%]ã€€[æš´å‡»ï¹¢25%]ã€€[å‘½ä¸­ï¹¢27%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1806,8 +1806,8 @@
       }
     ],
     "iconIndex": 69,
-    "name": "´ò¹·°ô",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ‰“ç‹—æ£’",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 0,
     "wtypeId": 3
@@ -1815,7 +1815,7 @@
   {
     "id": 54,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[ÄÚÁ¦ºÄËğ©12%]¡¡[±©»÷©€23%]¡¡[ÃüÖĞ©€24%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[å†…åŠ›è€—æŸï¹£12%]ã€€[æš´å‡»ï¹¢23%]ã€€[å‘½ä¸­ï¹¢24%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1845,8 +1845,8 @@
       }
     ],
     "iconIndex": 798,
-    "name": "´ïÄ¦ìøÕÈ",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è¾¾æ‘©ç¦…æ–",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 238, 0, 50, 1, 1, 1 ],
     "price": 450000,
     "wtypeId": 3
@@ -1854,7 +1854,7 @@
   {
     "id": 55,
     "animationId": 19,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€30%]¡¡[±©»÷©€18%]¡¡[ÃüÖĞ©€25%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢30%]ã€€[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢25%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1884,8 +1884,8 @@
       }
     ],
     "iconIndex": 799,
-    "name": "ÉßÕÈ",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è›‡æ–",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 148, 0, 30, 0, 30, 0 ],
     "price": 285000,
     "wtypeId": 3
@@ -1893,7 +1893,7 @@
   {
     "id": 56,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€17%]¡¡[ÃüÖĞ©€20%]¡¡[Ñ£ÔÎ©€10%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢17%]ã€€[å‘½ä¸­ï¹¢20%]ã€€[çœ©æ™•ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1918,8 +1918,8 @@
       }
     ],
     "iconIndex": 64,
-    "name": "ÇôÁú°ô",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å›šé¾™æ£’",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 139, 0, 30, 30, 10, 0 ],
     "price": 245000,
     "wtypeId": 3
@@ -1927,7 +1927,7 @@
   {
     "id": 57,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€5%]¡¡[ÃüÖĞ©€26%]¡¡[ÖÎÁÆĞ§¹û©€15%]¡¡",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢5%]ã€€[å‘½ä¸­ï¹¢26%]ã€€[æ²»ç–—æ•ˆæœï¹¢15%]ã€€",
     "etypeId": 1,
     "traits": [
       {
@@ -1957,8 +1957,8 @@
       }
     ],
     "iconIndex": 65,
-    "name": "¿İÈÙìøÕÈ",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¯è£ç¦…æ–",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 121, 0, 0, 30, 0, 30 ],
     "price": 218000,
     "wtypeId": 3
@@ -1966,7 +1966,7 @@
   {
     "id": 58,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€20%]¡¡[Ñ£ÔÎ©€10%]¡¡[Å­Æø»ñµÃ©€30%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[çœ©æ™•ï¹¢10%]ã€€[æ€’æ°”è·å¾—ï¹¢30%]",
     "etypeId": 1,
     "traits": [
       {
@@ -1991,8 +1991,8 @@
       }
     ],
     "iconIndex": 944,
-    "name": "½ğ¹¿°ô",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘ç®æ£’",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 138, 0, 30, 0, 30, 0 ],
     "price": 245000,
     "wtypeId": 3
@@ -2024,7 +2024,7 @@
   {
     "id": 60,
     "animationId": 1,
-    "description": "\\c[24][ÆÆÕÀ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€6%]¡¡[ÃüÖĞ©€10%]",
+    "description": "\\c[24][ç ´ç»½]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢6%]ã€€[å‘½ä¸­ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2049,8 +2049,8 @@
       }
     ],
     "iconIndex": 67,
-    "name": "Ì´ÏãÉÈ",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æª€é¦™æ‰‡",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 8, 0, 5, 5, 5, 0 ],
     "price": 7500,
     "wtypeId": 5
@@ -2058,7 +2058,7 @@
   {
     "id": 61,
     "animationId": 255,
-    "description": "\\c[23][·âÄÚ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€4%]¡¡[ÃüÖĞ©€14%]",
+    "description": "\\c[23][å°å†…]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢4%]ã€€[å‘½ä¸­ï¹¢14%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2083,8 +2083,8 @@
       }
     ],
     "iconIndex": 22,
-    "name": "·ìÒÂÕë",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç¼è¡£é’ˆ",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 6, 0, 0, 0, 10, 0 ],
     "price": 4600,
     "wtypeId": 4
@@ -2092,7 +2092,7 @@
   {
     "id": 62,
     "animationId": 1,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€8%]¡¡[ÃüÖĞ©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢8%]ã€€[å‘½ä¸­ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2117,8 +2117,8 @@
       }
     ],
     "iconIndex": 68,
-    "name": "Ô°¹¤¼ô",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å›­å·¥å‰ª",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 3, 0, 10, 1, 5, 0 ],
     "price": 5200,
     "wtypeId": 5
@@ -2126,7 +2126,7 @@
   {
     "id": 63,
     "animationId": 1,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[ÄÚÁ¦ºÄËğ©4%]¡¡[±©»÷©€7%]¡¡[ÃüÖĞ©€13%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[å†…åŠ›è€—æŸï¹£4%]ã€€[æš´å‡»ï¹¢7%]ã€€[å‘½ä¸­ï¹¢13%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2156,8 +2156,8 @@
       }
     ],
     "iconIndex": 69,
-    "name": "°×Óñóï",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç™½ç‰ç®«",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 11, 0, 5, 5, 20, 5 ],
     "price": 8600,
     "wtypeId": 5
@@ -2165,7 +2165,7 @@
   {
     "id": 64,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€7%]¡¡[ÃüÖĞ©€11%]¡¡[Á÷Ñª©€6%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢7%]ã€€[å‘½ä¸­ï¹¢11%]ã€€[æµè¡€ï¹¢6%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2190,8 +2190,8 @@
       }
     ],
     "iconIndex": 70,
-    "name": "É±Öíµ¶",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ€çŒªåˆ€",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 17, 0, 10, 0, 10, 0 ],
     "price": 5800,
     "wtypeId": 2
@@ -2199,7 +2199,7 @@
   {
     "id": 65,
     "animationId": 1,
-    "description": "\\c[23][·âÄÚ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€5%]¡¡[ÃüÖĞ©€14%]",
+    "description": "\\c[23][å°å†…]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢5%]ã€€[å‘½ä¸­ï¹¢14%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2224,8 +2224,8 @@
       }
     ],
     "iconIndex": 71,
-    "name": "»¨µûÉÈ",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "èŠ±è¶æ‰‡",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 12, 0, 0, 20, 5, 1 ],
     "price": 7200,
     "wtypeId": 5
@@ -2233,7 +2233,7 @@
   {
     "id": 66,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€17%]¡¡[ÃüÖĞ©€25%]¡¡[Á÷Ñª©€15%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢17%]ã€€[å‘½ä¸­ï¹¢25%]ã€€[æµè¡€ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2258,8 +2258,8 @@
       }
     ],
     "iconIndex": 943,
-    "name": "´åÕı",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ‘æ­£",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 180, 0, 20, 0, 20, 0 ],
     "price": 175000,
     "wtypeId": 2
@@ -2267,7 +2267,7 @@
   {
     "id": 67,
     "animationId": 1,
-    "description": "\\c[3][ÖĞ¶¾]\\c[0]¡¡ÌØĞ§£º[ÃüÖĞ©€11%]",
+    "description": "\\c[3][ä¸­æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[å‘½ä¸­ï¹¢11%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2287,8 +2287,8 @@
       }
     ],
     "iconIndex": 73,
-    "name": "³¤±Ş",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é•¿é­",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 4, 0, 0, 10, 10, 0 ],
     "price": 4300,
     "wtypeId": 5
@@ -2296,7 +2296,7 @@
   {
     "id": 68,
     "animationId": 1,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€6%]¡¡[ÃüÖĞ©€9%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢6%]ã€€[å‘½ä¸­ï¹¢9%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2321,8 +2321,8 @@
       }
     ],
     "iconIndex": 74,
-    "name": "Àæ»¨±Ş",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¢¨èŠ±é­",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 21, 0, 10, 10, 20, 0 ],
     "price": 8500,
     "wtypeId": 5
@@ -2330,7 +2330,7 @@
   {
     "id": 69,
     "animationId": 1,
-    "description": "\\c[23][·âÕĞ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€11%]¡¡[ÃüÖĞ©€17%]",
+    "description": "\\c[23][å°æ‹›]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢17%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2355,8 +2355,8 @@
       }
     ],
     "iconIndex": 75,
-    "name": "·÷³¾",
-    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ‹‚å°˜",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 65, 0, 0, 15, 15, 0 ],
     "price": 88000,
     "wtypeId": 5
@@ -2364,7 +2364,7 @@
   {
     "id": 70,
     "animationId": 1,
-    "description": "\\c[2][È¼ÉÕ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€14%]¡¡[ÃüÖĞ©€15%]",
+    "description": "\\c[2][ç‡ƒçƒ§]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢14%]ã€€[å‘½ä¸­ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2389,8 +2389,8 @@
       }
     ],
     "iconIndex": 76,
-    "name": "ºì·÷",
-    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "çº¢æ‹‚",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 50, 0, 15, 15, 15, 0 ],
     "price": 98000,
     "wtypeId": 5
@@ -2398,7 +2398,7 @@
   {
     "id": 71,
     "animationId": 1,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€7%]¡¡[ÃüÖĞ©€10%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢7%]ã€€[å‘½ä¸­ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2423,8 +2423,8 @@
       }
     ],
     "iconIndex": 24,
-    "name": "Ìú¹Õ",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é“æ‹",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 7, 0, 0, 10, 0, 0 ],
     "price": 6500,
     "wtypeId": 3
@@ -2432,7 +2432,7 @@
   {
     "id": 72,
     "animationId": 1,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€5%]¡¡[ÃüÖĞ©€12%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢5%]ã€€[å‘½ä¸­ï¹¢12%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2457,8 +2457,8 @@
       }
     ],
     "iconIndex": 89,
-    "name": "»¤ÊÖ¹³",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æŠ¤æ‰‹é’©",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 14, 0, 10, 0, 0, 10 ],
     "price": 6880,
     "wtypeId": 5
@@ -2466,7 +2466,7 @@
   {
     "id": 73,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€12%]¡¡[ÃüÖĞ©€21%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢12%]ã€€[å‘½ä¸­ï¹¢21%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2491,8 +2491,8 @@
       }
     ],
     "iconIndex": 85,
-    "name": "³şåú½£",
-    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¥šå¦ƒå‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 65, 0, 15, 0, 15, 0 ],
     "price": 54000,
     "wtypeId": 1
@@ -2500,7 +2500,7 @@
   {
     "id": 74,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€9%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢9%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2525,8 +2525,8 @@
       }
     ],
     "iconIndex": 87,
-    "name": "ÁøÓñµ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æŸ³ç‰åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 67, 0, 15, 15, 0, 0 ],
     "price": 64500,
     "wtypeId": 2
@@ -2534,7 +2534,7 @@
   {
     "id": 75,
     "animationId": 1,
-    "description": "ÓÃÓÚ\\c[23]¡¾´¹µö¡¿\\c[0]Ö®ÓÃ£¬ÓĞÒ»¶¨µÄËğ»µ¼¸ÂÊ¡£ ",
+    "description": "ç”¨äº\\c[23]ã€å‚é’“ã€‘\\c[0]ä¹‹ç”¨ï¼Œæœ‰ä¸€å®šçš„æŸåå‡ ç‡ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -2544,8 +2544,8 @@
       }
     ],
     "iconIndex": 86,
-    "name": "µö¸Í",
-    "note": "<ici:1>\n<Upgrade Slots: 5>\n<Random Variance: 5>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\ngold: 200\n</Synthesis Ingredients>\n",
+    "name": "é’“ç«¿",
+    "note": "<ici:1>\n<Upgrade Slots: 5>\n<Random Variance: 5>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\ngold: 200\n</Synthesis Ingredients>\n",
     "params": [ 0, 0, 3, 0, 0, 0, 5, 0 ],
     "price": 800,
     "wtypeId": 5
@@ -2553,7 +2553,7 @@
   {
     "id": 76,
     "animationId": 23,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[Å­Æø»ñµÃ©€50%]¡¡[±©»÷©€22%]¡¡[ÃüÖĞ©€32%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æ€’æ°”è·å¾—ï¹¢50%]ã€€[æš´å‡»ï¹¢22%]ã€€[å‘½ä¸­ï¹¢32%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2583,8 +2583,8 @@
       }
     ],
     "iconIndex": 88,
-    "name": "íàÁú½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç£¬é¾™å‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 255, 0, 20, 1, 20, 1 ],
     "price": 550000,
     "wtypeId": 1
@@ -2592,7 +2592,7 @@
   {
     "id": 77,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€8%]¡¡[ÃüÖĞ©€10%]¡¡[Á÷Ñª©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢8%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æµè¡€ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2617,8 +2617,8 @@
       }
     ],
     "iconIndex": 84,
-    "name": "×æ´«²Ëµ¶",
-    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç¥–ä¼ èœåˆ€",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 25, 0, 20, 0, 0, 0 ],
     "price": 7500,
     "wtypeId": 2
@@ -2626,7 +2626,7 @@
   {
     "id": 78,
     "animationId": 1,
-    "description": "\\c[24][ÆÆÕÀ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€15%]¡¡[ÃüÖĞ©€18%]¡¡[ÆÆÕÀ©€10%]",
+    "description": "\\c[24][ç ´ç»½]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢15%]ã€€[å‘½ä¸­ï¹¢18%]ã€€[ç ´ç»½ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2651,8 +2651,8 @@
       }
     ],
     "iconIndex": 83,
-    "name": "Èı½ÇÌú²æ",
-    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ä¸‰è§’é“å‰",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 68, 0, 0, 0, 30, 0 ],
     "price": 80000,
     "wtypeId": 3
@@ -2660,7 +2660,7 @@
   {
     "id": 79,
     "animationId": 23,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[±©»÷©€21%]¡¡[ÃüÖĞ©€30%]¡¡[ÄÚÁ¦ºÄËğ©15%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢21%]ã€€[å‘½ä¸­ï¹¢30%]ã€€[å†…åŠ›è€—æŸï¹£15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2690,8 +2690,8 @@
       }
     ],
     "iconIndex": 82,
-    "name": "½ğÎÚµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘ä¹Œåˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 242, 0, 50, 1, 1, 1 ],
     "price": 0,
     "wtypeId": 2
@@ -2699,7 +2699,7 @@
   {
     "id": 80,
     "animationId": 255,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[¿¹¾ç¶¾©€80%]¡¡[±©»÷©€23%]¡¡[ÃüÖĞ©€30%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æŠ—å‰§æ¯’ï¹¢80%]ã€€[æš´å‡»ï¹¢23%]ã€€[å‘½ä¸­ï¹¢30%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2734,8 +2734,8 @@
       }
     ],
     "iconIndex": 81,
-    "name": "½ğÉß×¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘è›‡é”¥",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 265, 0, 20, 1, 20, 1 ],
     "price": 0,
     "wtypeId": 4
@@ -2743,7 +2743,7 @@
   {
     "id": 81,
     "animationId": 1,
-    "description": "\\c[3][ÃÍ¶¾]\\c[0]¡¡ÌØĞ§£º[¿¹ÃÍ¶¾©€80%]¡¡[±©»÷©€22%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[3][çŒ›æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æŠ—çŒ›æ¯’ï¹¢80%]ã€€[æš´å‡»ï¹¢22%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2773,8 +2773,8 @@
       }
     ],
     "iconIndex": 77,
-    "name": "ÉñÄ¾Íõ¶¦",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç¥æœ¨ç‹é¼",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 248, 0, 20, 20, 1, 1 ],
     "price": 0,
     "wtypeId": 3
@@ -2782,7 +2782,7 @@
   {
     "id": 82,
     "animationId": 23,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[»ØÑª©€2%]¡¡[±©»÷©€17%]¡¡[ÃüÖĞ©€23%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›è¡€ï¹¢2%]ã€€[æš´å‡»ï¹¢17%]ã€€[å‘½ä¸­ï¹¢23%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2812,8 +2812,8 @@
       }
     ],
     "iconIndex": 78,
-    "name": "Ã÷ÔÂµ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ˜æœˆåˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 115, 0, 30, 30, 0, 0 ],
     "price": 218000,
     "wtypeId": 2
@@ -2821,7 +2821,7 @@
   {
     "id": 83,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[¿¹È¼ÉÕ©€60%]¡¡[±©»÷©€18%]¡¡[ÃüÖĞ©€24%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æŠ—ç‡ƒçƒ§ï¹¢60%]ã€€[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢24%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2851,8 +2851,8 @@
       }
     ],
     "iconIndex": 694,
-    "name": "èóÌì¹÷",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¢µå¤©æ£",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 125, 0, 30, 30, 0, 0 ],
     "price": 220000,
     "wtypeId": 3
@@ -2860,7 +2860,7 @@
   {
     "id": 84,
     "animationId": 19,
-    "description": "\\c[3][ÖĞ¶¾]\\c[0]¡¡ÌØĞ§£º[¿¹ÖĞ¶¾©€60%]¡¡[±©»÷©€16%]¡¡[ÃüÖĞ©€28%]",
+    "description": "\\c[3][ä¸­æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æŠ—ä¸­æ¯’ï¹¢60%]ã€€[æš´å‡»ï¹¢16%]ã€€[å‘½ä¸­ï¹¢28%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2890,8 +2890,8 @@
       }
     ],
     "iconIndex": 80,
-    "name": "ÇàÖñ¹÷",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é’ç«¹æ£",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 138, 0, 30, 0, 30, 0 ],
     "price": 248000,
     "wtypeId": 3
@@ -2923,7 +2923,7 @@
   {
     "id": 86,
     "animationId": 23,
-    "description": "ÌØĞ§£º[ÃüÖĞ©€10%]¡¡[»ØÑª©€3%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[å‘½ä¸­ï¹¢10%]ã€€[å›è¡€ï¹¢3%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -2948,8 +2948,8 @@
       }
     ],
     "iconIndex": 90,
-    "name": "³¤Éú½£",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é•¿ç”Ÿå‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 125, 0, 0, 30, 30, 0 ],
     "price": 225000,
     "wtypeId": 1
@@ -2957,7 +2957,7 @@
   {
     "id": 87,
     "animationId": 23,
-    "description": "ÌØĞ§£º[±©»÷©€15%]¡¡[ÃüÖĞ©€5%]¡¡[ÃâÒß¾ç¶¾]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢15%]ã€€[å‘½ä¸­ï¹¢5%]ã€€[å…ç–«å‰§æ¯’]",
     "etypeId": 1,
     "traits": [
       {
@@ -2982,8 +2982,8 @@
       }
     ],
     "iconIndex": 91,
-    "name": "±ÌÓñµ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç¢§ç‰åˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 150, 0, 30, 0, 30, 0 ],
     "price": 225000,
     "wtypeId": 2
@@ -2991,7 +2991,7 @@
   {
     "id": 88,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€10%]¡¡[ÃüÖĞ©€15%]¡¡[ÃâÒßµãÑ¨]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢10%]ã€€[å‘½ä¸­ï¹¢15%]ã€€[å…ç–«ç‚¹ç©´]",
     "etypeId": 1,
     "traits": [
       {
@@ -3016,8 +3016,8 @@
       }
     ],
     "iconIndex": 92,
-    "name": "°ÔÍõÇ¹",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "éœ¸ç‹æª",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 190, 0, 30, 30, 0, 0 ],
     "price": 225000,
     "wtypeId": 3
@@ -3025,7 +3025,7 @@
   {
     "id": 89,
     "animationId": 1,
-    "description": "ÌØĞ§£º[ÃüÖĞ©€15%]¡¡[»ØÑª©€1%]¡¡[»ØÄÚ©€1%]",
+    "description": "ç‰¹æ•ˆï¼š[å‘½ä¸­ï¹¢15%]ã€€[å›è¡€ï¹¢1%]ã€€[å›å†…ï¹¢1%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3050,8 +3050,8 @@
       }
     ],
     "iconIndex": 93,
-    "name": "¶àÇé»·",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å¤šæƒ…ç¯",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 115, 0, 0, 30, 30, 0 ],
     "price": 225000,
     "wtypeId": 4
@@ -3059,7 +3059,7 @@
   {
     "id": 90,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€15%]¡¡[ÃüÖĞ©€15%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢15%]ã€€[å‘½ä¸­ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3079,8 +3079,8 @@
       }
     ],
     "iconIndex": 94,
-    "name": "Àë±ğ¹³",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç¦»åˆ«é’©",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 125, 0, 30, 0, 30, 0 ],
     "price": 225000,
     "wtypeId": 1
@@ -3088,7 +3088,7 @@
   {
     "id": 91,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€20%]¡¡[ÃâÒßÖĞ¶¾]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢20%]ã€€[å…ç–«ä¸­æ¯’]",
     "etypeId": 1,
     "traits": [
       {
@@ -3113,8 +3113,8 @@
       }
     ],
     "iconIndex": 95,
-    "name": "¿×È¸ôá",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å­”é›€ç¿",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 130, 0, 30, 0, 30, 0 ],
     "price": 225000,
     "wtypeId": 4
@@ -3146,7 +3146,7 @@
   {
     "id": 93,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[»ØÑª©€3%]¡¡[»ØÄÚ©€1%]¡¡[ÃüÖĞ©€8%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å›è¡€ï¹¢3%]ã€€[å›å†…ï¹¢1%]ã€€[å‘½ä¸­ï¹¢8%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3176,8 +3176,8 @@
       }
     ],
     "iconIndex": 96,
-    "name": "èó»Ê¡¤¹÷",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¢µçš‡Â·æ£",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
     "price": 458000,
     "wtypeId": 3
@@ -3185,7 +3185,7 @@
   {
     "id": 94,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[»ØÑª©€3%]¡¡[»ØÄÚ©€1%]¡¡[ÃüÖĞ©€8%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å›è¡€ï¹¢3%]ã€€[å›å†…ï¹¢1%]ã€€[å‘½ä¸­ï¹¢8%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3215,8 +3215,8 @@
       }
     ],
     "iconIndex": 97,
-    "name": "ÌìÔÉ¡¤µ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å¤©é™¨Â·åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
     "price": 458000,
     "wtypeId": 2
@@ -3224,7 +3224,7 @@
   {
     "id": 95,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[»ØÑª©€3%]¡¡[»ØÄÚ©€1%]¡¡[ÃüÖĞ©€8%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å›è¡€ï¹¢3%]ã€€[å›å†…ï¹¢1%]ã€€[å‘½ä¸­ï¹¢8%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3254,8 +3254,8 @@
       }
     ],
     "iconIndex": 98,
-    "name": "²Ôñ·¡¤½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è‹ç©¹Â·å‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
     "price": 458000,
     "wtypeId": 1
@@ -3263,7 +3263,7 @@
   {
     "id": 96,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[»ØÑª©€3%]¡¡[»ØÄÚ©€1%]¡¡[ÃüÖĞ©€8%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å›è¡€ï¹¢3%]ã€€[å›å†…ï¹¢1%]ã€€[å‘½ä¸­ï¹¢8%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3293,8 +3293,8 @@
       }
     ],
     "iconIndex": 99,
-    "name": "ÄÏ¹¬¡¤Õë",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å—å®«Â·é’ˆ",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
     "price": 458000,
     "wtypeId": 4
@@ -3326,7 +3326,7 @@
   {
     "id": 98,
     "animationId": 0,
-    "description": "ÕÅÁÔ»§ÔùËÍµÄÀÏ¾É²»¿°µÄµö¸Í£¬¿´Ñù×Ó¾Í¿ì»µÁË¡£ ",
+    "description": "å¼ çŒæˆ·èµ é€çš„è€æ—§ä¸å ªçš„é’“ç«¿ï¼Œçœ‹æ ·å­å°±å¿«åäº†ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3336,7 +3336,7 @@
       }
     ],
     "iconIndex": 86,
-    "name": "ÀÏ¾ÉµÄµö¸Í",
+    "name": "è€æ—§çš„é’“ç«¿",
     "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 1, 0, 0, 0, 1, 0 ],
     "price": 10,
@@ -3345,7 +3345,7 @@
   {
     "id": 99,
     "animationId": 0,
-    "description": "ÕÅÁÔ»§ÔùËÍµÄÀÏ¾É²»¿°µÄ¸«Í·£¬¿´Ñù×Ó¾Í¿ì»µÁË¡£ ",
+    "description": "å¼ çŒæˆ·èµ é€çš„è€æ—§ä¸å ªçš„æ–§å¤´ï¼Œçœ‹æ ·å­å°±å¿«åäº†ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3355,7 +3355,7 @@
       }
     ],
     "iconIndex": 395,
-    "name": "ÀÏ¾ÉµÄ¸«Í·",
+    "name": "è€æ—§çš„æ–§å¤´",
     "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 1, 0, 1, 0, 0, 0 ],
     "price": 10,
@@ -3364,7 +3364,7 @@
   {
     "id": 100,
     "animationId": 0,
-    "description": "ÕÅÁÔ»§ÔùËÍµÄÀÏ¾É²»¿°µÄÌú¸ä£¬¿´Ñù×Ó¾Í¿ì»µÁË¡£ ",
+    "description": "å¼ çŒæˆ·èµ é€çš„è€æ—§ä¸å ªçš„é“é•ï¼Œçœ‹æ ·å­å°±å¿«åäº†ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3374,7 +3374,7 @@
       }
     ],
     "iconIndex": 408,
-    "name": "ÀÏ¾ÉµÄÌú¸ä",
+    "name": "è€æ—§çš„é“é•",
     "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
     "params": [ 0, 0, 1, 0, 0, 1, 0, 0 ],
     "price": 10,
@@ -3383,7 +3383,7 @@
   {
     "id": 101,
     "animationId": 1,
-    "description": "ÓÃÓÚ\\c[23]¡¾²É¿ó¡¿\\c[0]Ö®ÓÃ£¬ÓĞÒ»¶¨µÄËğ»µ¼¸ÂÊ¡£ ",
+    "description": "ç”¨äº\\c[23]ã€é‡‡çŸ¿ã€‘\\c[0]ä¹‹ç”¨ï¼Œæœ‰ä¸€å®šçš„æŸåå‡ ç‡ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3393,8 +3393,8 @@
       }
     ],
     "iconIndex": 408,
-    "name": "Ìú¸ä",
-    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 1\nitem 30: 2\ngold: 50\n</Synthesis Ingredients>",
+    "name": "é“é•",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 1\nitem 30: 2\ngold: 50\n</Synthesis Ingredients>",
     "params": [ 0, 0, 5, 0, 0, 5, 5, 0 ],
     "price": 300,
     "wtypeId": 5
@@ -3402,7 +3402,7 @@
   {
     "id": 102,
     "animationId": 20,
-    "description": "ÓÃÓÚ\\c[23]¡¾·¥Ä¾¡¿\\c[0]Ö®ÓÃ£¬ÓĞÒ»¶¨µÄËğ»µ¼¸ÂÊ¡£ ",
+    "description": "ç”¨äº\\c[23]ã€ä¼æœ¨ã€‘\\c[0]ä¹‹ç”¨ï¼Œæœ‰ä¸€å®šçš„æŸåå‡ ç‡ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3412,8 +3412,8 @@
       }
     ],
     "iconIndex": 395,
-    "name": "Ìú¸«",
-    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 1\nitem 30: 2\ngold: 50\n</Synthesis Ingredients>",
+    "name": "é“æ–§",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 1\nitem 30: 2\ngold: 50\n</Synthesis Ingredients>",
     "params": [ 0, 0, 5, 0, 5, 0, 0, 0 ],
     "price": 300,
     "wtypeId": 5
@@ -3421,7 +3421,7 @@
   {
     "id": 103,
     "animationId": 1,
-    "description": "ÓÃÓÚ\\c[23]¡¾²É¿ó¡¿\\c[0]Ö®ÓÃ£¬\\c[14][ÓÀ²»Ëğ»µ]\\c[0]¡£ ",
+    "description": "ç”¨äº\\c[23]ã€é‡‡çŸ¿ã€‘\\c[0]ä¹‹ç”¨ï¼Œ\\c[14][æ°¸ä¸æŸå]\\c[0]ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3431,7 +3431,7 @@
       }
     ],
     "iconIndex": 382,
-    "name": "»Æ½ğ¡¤¸ä",
+    "name": "é»„é‡‘Â·é•",
     "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<No Augment Slots>",
     "params": [ 0, 0, 0, 0, 0, 1, 0, 0 ],
     "price": 0,
@@ -3440,7 +3440,7 @@
   {
     "id": 104,
     "animationId": 20,
-    "description": "ÓÃÓÚ\\c[23]¡¾·¥Ä¾¡¿\\c[0]Ö®ÓÃ£¬\\c[14][ÓÀ²»Ëğ»µ]\\c[0]¡£ ",
+    "description": "ç”¨äº\\c[23]ã€ä¼æœ¨ã€‘\\c[0]ä¹‹ç”¨ï¼Œ\\c[14][æ°¸ä¸æŸå]\\c[0]ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3450,7 +3450,7 @@
       }
     ],
     "iconIndex": 381,
-    "name": "»Æ½ğ¡¤¸«",
+    "name": "é»„é‡‘Â·æ–§",
     "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<No Augment Slots>",
     "params": [ 0, 0, 0, 0, 1, 0, 0, 0 ],
     "price": 0,
@@ -3459,7 +3459,7 @@
   {
     "id": 105,
     "animationId": 1,
-    "description": "ÓÃÓÚ\\c[23]¡¾µöÓã¡¿\\c[0]Ö®ÓÃ£¬\\c[14][ÓÀ²»Ëğ»µ]\\c[0]¡£ ",
+    "description": "ç”¨äº\\c[23]ã€é’“é±¼ã€‘\\c[0]ä¹‹ç”¨ï¼Œ\\c[14][æ°¸ä¸æŸå]\\c[0]ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3469,7 +3469,7 @@
       }
     ],
     "iconIndex": 487,
-    "name": "»Æ½ğ¡¤¸Í",
+    "name": "é»„é‡‘Â·ç«¿",
     "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<No Augment Slots>",
     "params": [ 0, 0, 0, 0, 0, 0, 1, 0 ],
     "price": 0,
@@ -3502,7 +3502,7 @@
   {
     "id": 107,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€12%]¡¡[ÃüÖĞ©€11%]¡¡[Á÷Ñª©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢12%]ã€€[å‘½ä¸­ï¹¢11%]ã€€[æµè¡€ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3527,8 +3527,8 @@
       }
     ],
     "iconIndex": 567,
-    "name": "ÆÆ·çµ¶",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\nitem 29: 8\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "name": "ç ´é£åˆ€",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\nitem 29: 8\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 46, 0, 10, 0, 10, 0 ],
     "price": 35000,
     "wtypeId": 2
@@ -3536,7 +3536,7 @@
   {
     "id": 108,
     "animationId": 20,
-    "description": "\\c[24][ÆÆÕÀ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€7%]¡¡[ÃüÖĞ©€17%]¡¡[ÆÆÕÀ©€10%]",
+    "description": "\\c[24][ç ´ç»½]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢7%]ã€€[å‘½ä¸­ï¹¢17%]ã€€[ç ´ç»½ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3561,8 +3561,8 @@
       }
     ],
     "iconIndex": 497,
-    "name": "±ÌË®½£",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 6\nitem 29: 7\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "name": "ç¢§æ°´å‰‘",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 6\nitem 29: 7\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 44, 0, 10, 0, 10, 0 ],
     "price": 32000,
     "wtypeId": 1
@@ -3570,7 +3570,7 @@
   {
     "id": 109,
     "animationId": 255,
-    "description": "\\c[23][·âÄÚ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€9%]¡¡[ÃüÖĞ©€13%]¡¡[·âÄÚ©€5%]",
+    "description": "\\c[23][å°å†…]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢9%]ã€€[å‘½ä¸­ï¹¢13%]ã€€[å°å†…ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3595,8 +3595,8 @@
       }
     ],
     "iconIndex": 501,
-    "name": "Àë»êÕë",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 4\nitem 29: 9\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "name": "ç¦»é­‚é’ˆ",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 4\nitem 29: 9\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 38, 0, 0, 10, 10, 0 ],
     "price": 31000,
     "wtypeId": 4
@@ -3604,7 +3604,7 @@
   {
     "id": 110,
     "animationId": 1,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€11%]¡¡[ÃüÖĞ©€14%]¡¡[Á÷Ñª©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢14%]ã€€[æµè¡€ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3629,8 +3629,8 @@
       }
     ],
     "iconIndex": 83,
-    "name": "¶áÃü²æ",
-    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\nitem 29: 8\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "name": "å¤ºå‘½å‰",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\nitem 29: 8\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 48, 0, 10, 10, 0, 0 ],
     "price": 38000,
     "wtypeId": 3
@@ -3662,7 +3662,7 @@
   {
     "id": 112,
     "animationId": 255,
-    "description": "ÓÃÓÚ\\c[23]¡¾´òÁÔ¡¿\\c[0]Ö®ÓÃ£¬ÓĞÒ»¶¨µÄËğ»µ¼¸ÂÊ¡£ ",
+    "description": "ç”¨äº\\c[23]ã€æ‰“çŒã€‘\\c[0]ä¹‹ç”¨ï¼Œæœ‰ä¸€å®šçš„æŸåå‡ ç‡ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3672,8 +3672,8 @@
       }
     ],
     "iconIndex": 968,
-    "name": "Á¬åó",
-    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 232: 1\nitem 30: 1\ngold: 150\n</Synthesis Ingredients>",
+    "name": "è¿å¼©",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 232: 1\nitem 30: 1\ngold: 150\n</Synthesis Ingredients>",
     "params": [ 0, 0, 5, 0, 0, 0, 5, 0 ],
     "price": 300,
     "wtypeId": 5
@@ -3681,7 +3681,7 @@
   {
     "id": 113,
     "animationId": 1,
-    "description": "ÓÃÓÚ\\c[23]¡¾´òÁÔ¡¿\\c[0]Ö®ÓÃ£¬\\c[14][ÓÀ²»Ëğ»µ]\\c[0]¡£ ",
+    "description": "ç”¨äº\\c[23]ã€æ‰“çŒã€‘\\c[0]ä¹‹ç”¨ï¼Œ\\c[14][æ°¸ä¸æŸå]\\c[0]ã€‚ ",
     "etypeId": 1,
     "traits": [
       {
@@ -3691,8 +3691,8 @@
       }
     ],
     "iconIndex": 647,
-    "name": "Î÷Ñó»ğï¥",
-    "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 232: 1\nitem 30: 1\ngold: 350\n</Synthesis Ingredients>",
+    "name": "è¥¿æ´‹ç«é“³",
+    "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 232: 1\nitem 30: 1\ngold: 350\n</Synthesis Ingredients>",
     "params": [ 0, 0, 55, 0, 0, 0, 5, 0 ],
     "price": 0,
     "wtypeId": 5
@@ -3724,7 +3724,7 @@
   {
     "id": 115,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€16%]¡¡[ÃüÖĞ©€15%]¡¡[Á÷Ñª©€15%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢16%]ã€€[å‘½ä¸­ï¹¢15%]ã€€[æµè¡€ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3749,8 +3749,8 @@
       }
     ],
     "iconIndex": 569,
-    "name": "Õ¶Âíµ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 4\nitem 258: 4\nitem 58: 2\ngold: 8500\n</Synthesis Ingredients>",
+    "name": "æ–©é©¬åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 4\nitem 258: 4\nitem 58: 2\ngold: 8500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 70, 0, 20, 0, 20, 0 ],
     "price": 76000,
     "wtypeId": 2
@@ -3758,7 +3758,7 @@
   {
     "id": 116,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€11%]¡¡[ÃüÖĞ©€23%]¡¡[ÆÆÕÀ©€10%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢23%]ã€€[ç ´ç»½ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3788,8 +3788,8 @@
       }
     ],
     "iconIndex": 582,
-    "name": "ÁúÈª½£",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 4\nitem 258: 5\nitem 60: 1\ngold: 8500\n</Synthesis Ingredients>",
+    "name": "é¾™æ³‰å‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 4\nitem 258: 5\nitem 60: 1\ngold: 8500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 68, 0, 0, 20, 20, 0 ],
     "price": 75000,
     "wtypeId": 1
@@ -3797,7 +3797,7 @@
   {
     "id": 117,
     "animationId": 255,
-    "description": "\\c[2][È¼ÉÕ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€13%]¡¡[ÃüÖĞ©€20%]¡¡[È¼ÉÕ©€10%]",
+    "description": "\\c[2][ç‡ƒçƒ§]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢13%]ã€€[å‘½ä¸­ï¹¢20%]ã€€[ç‡ƒçƒ§ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3822,8 +3822,8 @@
       }
     ],
     "iconIndex": 430,
-    "name": "Åùö¨Öé",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 3\nitem 258: 4\nitem 59: 1\ngold: 8500\n</Synthesis Ingredients>",
+    "name": "éœ¹é›³ç ",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 3\nitem 258: 4\nitem 59: 1\ngold: 8500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 63, 0, 20, 20, 0, 0 ],
     "price": 75000,
     "wtypeId": 4
@@ -3831,7 +3831,7 @@
   {
     "id": 118,
     "animationId": 19,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€14%]¡¡[ÃüÖĞ©€17%]¡¡[Ñ£ÔÎ©€10%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢14%]ã€€[å‘½ä¸­ï¹¢17%]ã€€[çœ©æ™•ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3856,8 +3856,8 @@
       }
     ],
     "iconIndex": 693,
-    "name": "¾«¸Ö¹÷",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 2\nitem 233: 4\nitem 232: 3\nitem 258: 2\nitem 53: 2\ngold: 8500\n</Synthesis Ingredients>",
+    "name": "ç²¾é’¢æ£",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 2\nitem 233: 4\nitem 232: 3\nitem 258: 2\nitem 53: 2\ngold: 8500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 80, 0, 20, 0, 20, 0 ],
     "price": 77000,
     "wtypeId": 3
@@ -3889,7 +3889,7 @@
   {
     "id": 120,
     "animationId": 23,
-    "description": "\\c[2][È¼ÉÕ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€16%]¡¡[ÃüÖĞ©€31%]¡¡[È¼ÉÕ©€15%]",
+    "description": "\\c[2][ç‡ƒçƒ§]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢16%]ã€€[å‘½ä¸­ï¹¢31%]ã€€[ç‡ƒçƒ§ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3914,8 +3914,8 @@
       }
     ],
     "iconIndex": 580,
-    "name": "³àÑæ½£",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 7\nitem 317: 5\nitem 234: 8\nitem 259: 4\nitem 260: 2\ngold: 25500\n</Synthesis Ingredients>",
+    "name": "èµ¤ç„°å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 7\nitem 317: 5\nitem 234: 8\nitem 259: 4\nitem 260: 2\ngold: 25500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 150, 0, 20, 20, 20, 0 ],
     "price": 225000,
     "wtypeId": 1
@@ -3923,7 +3923,7 @@
   {
     "id": 121,
     "animationId": 23,
-    "description": "\\c[3][ÃÍ¶¾]\\c[0]¡¡ÌØĞ§£º[±©»÷©€22%]¡¡[ÃüÖĞ©€20%]¡¡[¿¹ÃÍ¶¾©€65%]",
+    "description": "\\c[3][çŒ›æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢22%]ã€€[å‘½ä¸­ï¹¢20%]ã€€[æŠ—çŒ›æ¯’ï¹¢65%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3953,8 +3953,8 @@
       }
     ],
     "iconIndex": 913,
-    "name": "ÂÌ²¨·Eµ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 8\nitem 316: 5\nitem 234: 7\nitem 259: 3\nitem 260: 3\ngold: 25500\n</Synthesis Ingredients>",
+    "name": "ç»¿æ³¢ç¨¥åˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 8\nitem 316: 5\nitem 234: 7\nitem 259: 3\nitem 260: 3\ngold: 25500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 160, 0, 20, 20, 20, 0 ],
     "price": 225000,
     "wtypeId": 2
@@ -3962,7 +3962,7 @@
   {
     "id": 122,
     "animationId": 19,
-    "description": "\\c[3][¾ç¶¾]\\c[0]¡¡ÌØĞ§£º[»ØÄÚ©€3%]¡¡[±©»÷©€17%]¡¡[ÃüÖĞ©€26%]",
+    "description": "\\c[3][å‰§æ¯’]\\c[0]ã€€ç‰¹æ•ˆï¼š[å›å†…ï¹¢3%]ã€€[æš´å‡»ï¹¢17%]ã€€[å‘½ä¸­ï¹¢26%]",
     "etypeId": 1,
     "traits": [
       {
@@ -3992,8 +3992,8 @@
       }
     ],
     "iconIndex": 587,
-    "name": "¹íÍ·¹ÕÕÈ",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 9\nitem 318: 5\nitem 234: 6\nitem 259: 3\nitem 260: 3\ngold: 25500\n</Synthesis Ingredients>",
+    "name": "é¬¼å¤´æ‹æ–",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 9\nitem 318: 5\nitem 234: 6\nitem 259: 3\nitem 260: 3\ngold: 25500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 180, 0, 20, 20, 20, 0 ],
     "price": 225000,
     "wtypeId": 3
@@ -4001,7 +4001,7 @@
   {
     "id": 123,
     "animationId": 255,
-    "description": "\\c[20][Ñ£ÔÎ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€18%]¡¡[ÃüÖĞ©€28%]¡¡[Ñ£ÔÎ©€10%]",
+    "description": "\\c[20][çœ©æ™•]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢28%]ã€€[çœ©æ™•ï¹¢10%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4031,8 +4031,8 @@
       }
     ],
     "iconIndex": 792,
-    "name": "½ğÒ¶ïÚ",
-    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 5\nitem 59: 4\nitem 234: 5\nitem 259: 2\nitem 260: 2\ngold: 25500\n</Synthesis Ingredients>",
+    "name": "é‡‘å¶é•–",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 5\nitem 59: 4\nitem 234: 5\nitem 259: 2\nitem 260: 2\ngold: 25500\n</Synthesis Ingredients>",
     "params": [ 0, 0, 130, 0, 20, 20, 20, 0 ],
     "price": 225000,
     "wtypeId": 4
@@ -4064,7 +4064,7 @@
   {
     "id": 125,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4089,8 +4089,8 @@
       }
     ],
     "iconIndex": 781,
-    "name": "Óã³¦½£",
-    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é±¼è‚ å‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4098,7 +4098,7 @@
   {
     "id": 126,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4123,8 +4123,8 @@
       }
     ],
     "iconIndex": 581,
-    "name": "¹¤²¼½£",
-    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å·¥å¸ƒå‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4132,7 +4132,7 @@
   {
     "id": 127,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4157,8 +4157,8 @@
       }
     ],
     "iconIndex": 948,
-    "name": "Ì«°¢½£",
-    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å¤ªé˜¿å‰‘",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4166,7 +4166,7 @@
   {
     "id": 128,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4191,8 +4191,8 @@
       }
     ],
     "iconIndex": 761,
-    "name": "Õ¿Â¬½£",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ¹›å¢å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4200,7 +4200,7 @@
   {
     "id": 129,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4225,8 +4225,8 @@
       }
     ],
     "iconIndex": 763,
-    "name": "´¿¾û½£",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "çº¯é’§å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4234,7 +4234,7 @@
   {
     "id": 130,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4259,8 +4259,8 @@
       }
     ],
     "iconIndex": 949,
-    "name": "¾ŞãÚ½£",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å·¨é˜™å‰‘",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4268,7 +4268,7 @@
   {
     "id": 131,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4293,8 +4293,8 @@
       }
     ],
     "iconIndex": 945,
-    "name": "ÁúÔ¨½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "name": "é¾™æ¸Šå‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4326,7 +4326,7 @@
   {
     "id": 133,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4351,8 +4351,8 @@
       }
     ],
     "iconIndex": 780,
-    "name": "ĞşÌúØ°Ê×",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ç„é“åŒ•é¦–",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4384,7 +4384,7 @@
   {
     "id": 135,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4409,8 +4409,8 @@
       }
     ],
     "iconIndex": 759,
-    "name": "¶Ï³¦µ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ–­è‚ åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4418,7 +4418,7 @@
   {
     "id": 136,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4443,8 +4443,8 @@
       }
     ],
     "iconIndex": 774,
-    "name": "½ğ±³´óµ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘èƒŒå¤§åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4452,7 +4452,7 @@
   {
     "id": 137,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4477,8 +4477,8 @@
       }
     ],
     "iconIndex": 570,
-    "name": "½ğ»·´óµ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘ç¯å¤§åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4486,7 +4486,7 @@
   {
     "id": 138,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4511,8 +4511,8 @@
       }
     ],
     "iconIndex": 568,
-    "name": "Ò«ÈÕ½ğµ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è€€æ—¥é‡‘åˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4520,7 +4520,7 @@
   {
     "id": 139,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4545,8 +4545,8 @@
       }
     ],
     "iconIndex": 777,
-    "name": "´ÆĞÛË«µ¶",
-    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é›Œé›„åŒåˆ€",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4554,7 +4554,7 @@
   {
     "id": 140,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4579,8 +4579,8 @@
       }
     ],
     "iconIndex": 757,
-    "name": "÷ëöèµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "éºŸé²¨åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4588,7 +4588,7 @@
   {
     "id": 141,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4613,8 +4613,8 @@
       }
     ],
     "iconIndex": 775,
-    "name": "÷è÷ëµ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "name": "éº’éºŸåˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4646,7 +4646,7 @@
   {
     "id": 143,
     "animationId": 1,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€22%]¡¡[ÖØÉË©€7%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢22%]ã€€[é‡ä¼¤ï¹¢7%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4671,8 +4671,8 @@
       }
     ],
     "iconIndex": 778,
-    "name": "öùÓãÇ¯",
-    "note": "<ici:5>\n<Item 332 Buy Price: 25>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é³„é±¼é’³",
+    "note": "<ici:5>\n<Item 332 Buy Price: 25>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 164, 0, 20, 1, 20, 1 ],
     "price": 180000,
     "wtypeId": 2
@@ -4680,7 +4680,7 @@
   {
     "id": 144,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4705,8 +4705,8 @@
       }
     ],
     "iconIndex": 758,
-    "name": "Îå¶¾Ê¥µ¶",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "äº”æ¯’åœ£åˆ€",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 2
@@ -4738,7 +4738,7 @@
   {
     "id": 146,
     "animationId": 22,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€18%]¡¡[ÃüÖĞ©€26%]¡¡[Á÷Ñª©€15%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢18%]ã€€[å‘½ä¸­ï¹¢26%]ã€€[æµè¡€ï¹¢15%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4763,8 +4763,8 @@
       }
     ],
     "iconIndex": 770,
-    "name": "ºìÓ§Ç¹",
-    "note": "<ici:5>\n<Item 330 Buy Price: 25>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "çº¢ç¼¨æª",
+    "note": "<ici:5>\n<Item 330 Buy Price: 25>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 150, 0, 30, 0, 30, 0 ],
     "price": 180000,
     "wtypeId": 3
@@ -4772,7 +4772,7 @@
   {
     "id": 147,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4797,8 +4797,8 @@
       }
     ],
     "iconIndex": 66,
-    "name": "Èı½Ú¹÷",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ä¸‰èŠ‚æ£",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4806,7 +4806,7 @@
   {
     "id": 148,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4831,8 +4831,8 @@
       }
     ],
     "iconIndex": 699,
-    "name": "³ĞÌìÕÈ",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ‰¿å¤©æ–",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4840,7 +4840,7 @@
   {
     "id": 149,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4865,8 +4865,8 @@
       }
     ],
     "iconIndex": 697,
-    "name": "°ËØÔ¹÷",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "å…«å¦æ£",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4874,7 +4874,7 @@
   {
     "id": 150,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4899,8 +4899,8 @@
       }
     ],
     "iconIndex": 698,
-    "name": "½ğ¸ÕèÆ",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘åˆšæµ",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4908,7 +4908,7 @@
   {
     "id": 151,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4933,8 +4933,8 @@
       }
     ],
     "iconIndex": 694,
-    "name": "ÉÕ»ğ¹÷",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "çƒ§ç«æ£",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4942,7 +4942,7 @@
   {
     "id": 152,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -4967,8 +4967,8 @@
       }
     ],
     "iconIndex": 696,
-    "name": "¾ÅÁú½ğ¹÷",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ä¹é¾™é‡‘æ£",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -4976,7 +4976,7 @@
   {
     "id": 153,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5001,8 +5001,8 @@
       }
     ],
     "iconIndex": 695,
-    "name": "Î¤ÍÓ½ğèÆ",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "éŸ¦é™€é‡‘æµ",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5010,7 +5010,7 @@
   {
     "id": 154,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5035,8 +5035,8 @@
       }
     ],
     "iconIndex": 771,
-    "name": "½ğ¹³Ç¹",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "name": "é‡‘é’©æª",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5044,7 +5044,7 @@
   {
     "id": 155,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5069,8 +5069,8 @@
       }
     ],
     "iconIndex": 772,
-    "name": "Áúµ¨Ç¹",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é¾™èƒ†æª",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5078,7 +5078,7 @@
   {
     "id": 156,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5103,8 +5103,8 @@
       }
     ],
     "iconIndex": 773,
-    "name": "¾ªÑŞÒ»Ç¹",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æƒŠè‰³ä¸€æª",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5136,7 +5136,7 @@
   {
     "id": 158,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5161,8 +5161,8 @@
       }
     ],
     "iconIndex": 762,
-    "name": "ÑªµÎ×Ó",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è¡€æ»´å­",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5170,7 +5170,7 @@
   {
     "id": 159,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5195,8 +5195,8 @@
       }
     ],
     "iconIndex": 797,
-    "name": "ÑÖÍõÁî",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "name": "é˜ç‹ä»¤",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5204,7 +5204,7 @@
   {
     "id": 160,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5229,8 +5229,8 @@
       }
     ],
     "iconIndex": 769,
-    "name": "×·»ê¼ı",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "è¿½é­‚ç®­",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 3
@@ -5238,7 +5238,7 @@
   {
     "id": 161,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5263,8 +5263,8 @@
       }
     ],
     "iconIndex": 589,
-    "name": "½ğÂÖ",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é‡‘è½®",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 4
@@ -5272,7 +5272,7 @@
   {
     "id": 162,
     "animationId": 1,
-    "description": "ÌØĞ§£º[±©»÷©€20%]¡¡[ÃüÖĞ©€10%]¡¡[¿¹±©©€5%]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢20%]ã€€[å‘½ä¸­ï¹¢10%]ã€€[æŠ—æš´ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5297,8 +5297,8 @@
       }
     ],
     "iconIndex": 590,
-    "name": "ÉËĞÄĞ¡¼ı",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "ä¼¤å¿ƒå°ç®­",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
     "price": 480000,
     "wtypeId": 4
@@ -5306,7 +5306,7 @@
   {
     "id": 163,
     "animationId": 1,
-    "description": "\\c[2][È¼ÉÕ]\\c[0]¡¡ÌØĞ§£º[±©»÷©€25%]¡¡[»Ö¸´©€5%]¡¡[Å­Æø»ñµÃ©€45%]",
+    "description": "\\c[2][ç‡ƒçƒ§]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢25%]ã€€[æ¢å¤ï¹¢5%]ã€€[æ€’æ°”è·å¾—ï¹¢45%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5341,8 +5341,8 @@
       }
     ],
     "iconIndex": 402,
-    "name": "Ê¥»ğÁî",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "åœ£ç«ä»¤",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 277, 0, 1, 50, 1, 1 ],
     "price": 480000,
     "wtypeId": 4
@@ -5374,7 +5374,7 @@
   {
     "id": 165,
     "animationId": 20,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€5%]¡¡[Á÷Ñª©€5%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢5%]ã€€[æµè¡€ï¹¢5%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5394,8 +5394,8 @@
       }
     ],
     "iconIndex": 776,
-    "name": "ÎäÊ¿µ¶",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æ­¦å£«åˆ€",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 75, 0, 10, 0, 10, 0 ],
     "price": 56000,
     "wtypeId": 2
@@ -5403,7 +5403,7 @@
   {
     "id": 166,
     "animationId": 19,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[±©»÷©€15%]¡¡[ÃüÖĞ©€17%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢15%]ã€€[å‘½ä¸­ï¹¢17%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5428,8 +5428,8 @@
       }
     ],
     "iconIndex": 593,
-    "name": "Â¹Í·ÕÈ",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é¹¿å¤´æ–",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 68, 0, 15, 0, 15, 0 ],
     "price": 1680,
     "wtypeId": 3
@@ -5437,7 +5437,7 @@
   {
     "id": 167,
     "animationId": 22,
-    "description": "\\c[12][µãÑ¨]\\c[0]¡¡ÌØĞ§£º[±©»÷©€11%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[12][ç‚¹ç©´]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢11%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5462,8 +5462,8 @@
       }
     ],
     "iconIndex": 99,
-    "name": "º××ì±Ê",
-    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "é¹¤å˜´ç¬”",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 65, 0, 15, 15, 0, 0 ],
     "price": 1680,
     "wtypeId": 1
@@ -5471,7 +5471,7 @@
   {
     "id": 168,
     "animationId": 23,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[¿¹Ñ£ÔÎ©€80%]¡¡[±©»÷©€26%]¡¡[ÃüÖĞ©€20%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æŠ—çœ©æ™•ï¹¢80%]ã€€[æš´å‡»ï¹¢26%]ã€€[å‘½ä¸­ï¹¢20%]",
     "etypeId": 1,
     "traits": [
       {
@@ -5501,8 +5501,8 @@
       }
     ],
     "iconIndex": 512,
-    "name": "ÕæÎä½£",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "çœŸæ­¦å‰‘",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 240, 0, 1, 50, 1, 1 ],
     "price": 0,
     "wtypeId": 1
@@ -5514,7 +5514,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "Å£¶¿¡¤[2¼ş]",
+    "name": "ç‰›çŠŠÂ·[2ä»¶]",
     "note": "",
     "params": [ 200, 0, 5, 5, 0, 0, 0, 0 ],
     "price": 0,
@@ -5527,7 +5527,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "Å£¶¿¡¤[3¼ş]",
+    "name": "ç‰›çŠŠÂ·[3ä»¶]",
     "note": "",
     "params": [ 200, 0, 5, 5, 10, 10, 10, 10 ],
     "price": 0,
@@ -5540,7 +5540,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "¹Ù±ø¡¤[2¼ş]",
+    "name": "å®˜å…µÂ·[2ä»¶]",
     "note": "",
     "params": [ 600, 0, 10, 20, 0, 0, 0, 0 ],
     "price": 0,
@@ -5553,7 +5553,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "¹Ù±ø¡¤[3¼ş]",
+    "name": "å®˜å…µÂ·[3ä»¶]",
     "note": "",
     "params": [ 600, 0, 10, 20, 20, 20, 20, 20 ],
     "price": 0,
@@ -5566,7 +5566,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "ÖÒÒå¡¤[2¼ş]",
+    "name": "å¿ ä¹‰Â·[2ä»¶]",
     "note": "",
     "params": [ 2500, 2500, 50, 50, 0, 0, 0, 0 ],
     "price": 0,
@@ -5579,7 +5579,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "ÖÒÒå¡¤[3¼ş]",
+    "name": "å¿ ä¹‰Â·[3ä»¶]",
     "note": "",
     "params": [ 2500, 2500, 50, 50, 50, 50, 50, 50 ],
     "price": 0,
@@ -5592,7 +5592,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "ÔÀ¼Ò¡¤[2¼ş]",
+    "name": "å²³å®¶Â·[2ä»¶]",
     "note": "",
     "params": [ 1000, 0, 30, 50, 0, 0, 0, 0 ],
     "price": 0,
@@ -5605,7 +5605,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "ÔÀ¼Ò¡¤[3¼ş]",
+    "name": "å²³å®¶Â·[3ä»¶]",
     "note": "",
     "params": [ 1000, 500, 30, 50, 30, 30, 30, 30 ],
     "price": 0,
@@ -5618,7 +5618,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "¶ñ°Ô¡¤[2¼ş]",
+    "name": "æ¶éœ¸Â·[2ä»¶]",
     "note": "",
     "params": [ 600, 0, 20, 10, 0, 0, 0, 0 ],
     "price": 0,
@@ -5631,7 +5631,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "¶ñ°Ô¡¤[3¼ş]",
+    "name": "æ¶éœ¸Â·[3ä»¶]",
     "note": "",
     "params": [ 600, 0, 20, 10, 20, 20, 20, 20 ],
     "price": 0,
@@ -5644,7 +5644,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "Î÷ÏÄ¡¤[2¼ş]",
+    "name": "è¥¿å¤Â·[2ä»¶]",
     "note": "",
     "params": [ 1000, 0, 50, 30, 0, 0, 0, 0 ],
     "price": 0,
@@ -5657,7 +5657,7 @@
     "etypeId": 1,
     "traits": [],
     "iconIndex": 0,
-    "name": "Î÷ÏÄ¡¤[3¼ş]",
+    "name": "è¥¿å¤Â·[3ä»¶]",
     "note": "",
     "params": [ 1000, 500, 50, 30, 30, 30, 30, 30 ],
     "price": 0,
@@ -6122,7 +6122,7 @@
   {
     "id": 200,
     "animationId": 1,
-    "description": "\\c[18][Á÷Ñª]\\c[0]¡¡ÌØĞ§£º[±©»÷©€35%]¡¡[ÃüÖĞ©€30%]¡¡[Å­Æø»ñµÃ©€90%]",
+    "description": "\\c[18][æµè¡€]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢35%]ã€€[å‘½ä¸­ï¹¢30%]ã€€[æ€’æ°”è·å¾—ï¹¢90%]",
     "etypeId": 1,
     "traits": [
       {
@@ -6152,8 +6152,8 @@
       }
     ],
     "iconIndex": 948,
-    "name": "¼«º®[¶¨ÖÆ]",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "æå¯’[å®šåˆ¶]",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 300, 0, 150, 150, 1, 1 ],
     "price": 480000,
     "wtypeId": 1
@@ -6161,7 +6161,7 @@
   {
     "id": 201,
     "animationId": 1,
-    "description": "\\c[14][ÖØÉË]\\c[0]¡¡ÌØĞ§£º[±©»÷©€135%]¡¡[ÃüÖĞ©€130%]¡¡[ÄÚÁ¦ºÄËğ©50%]  [Å­Æø»ñµÃ©€190%]",
+    "description": "\\c[14][é‡ä¼¤]\\c[0]ã€€ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢135%]ã€€[å‘½ä¸­ï¹¢130%]ã€€[å†…åŠ›è€—æŸï¹£50%]  [æ€’æ°”è·å¾—ï¹¢190%]",
     "etypeId": 1,
     "traits": [
       {
@@ -6196,8 +6196,8 @@
       }
     ],
     "iconIndex": 949,
-    "name": "ÜÆÈôµÄÍ··¢Ë¿[¶¨ÖÆ]",
-    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n±¦Ê¯\n±¦Ê¯\n±¦Ê¯\n</Augment Slots>",
+    "name": "èŠ·è‹¥çš„å¤´å‘ä¸[å®šåˆ¶]",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\nå®çŸ³\nå®çŸ³\nå®çŸ³\n</Augment Slots>",
     "params": [ 0, 0, 300, 0, 1, 20, 20, 1 ],
     "price": 480000,
     "wtypeId": 1

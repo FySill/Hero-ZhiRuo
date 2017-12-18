@@ -1,4 +1,4 @@
-[
+ï»¿[
   null,
   {
     "id": 1,
@@ -10,7 +10,7 @@
       "type": 1,
       "variance": 5
     },
-    "description": "ÌØĞ§£º[Å­Æø©€15]¡¡\\c[31][Ê¹ÓÃÎäÆ÷½øĞĞ¹¥»÷Ê±»á¸½´øÎäÆ÷ÌØĞ§]\\c[0]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢15]ã€€\\c[31][ä½¿ç”¨æ­¦å™¨è¿›è¡Œæ”»å‡»æ—¶ä¼šé™„å¸¦æ­¦å™¨ç‰¹æ•ˆ]\\c[0]",
     "effects": [
       {
         "code": 21,
@@ -24,7 +24,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¹¥»÷",
+    "name": "æ”»å‡»",
     "note": "<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -47,7 +47,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[Å­Æø©€20]¡¡\\c[31][¼õÉÙÊÜµ½µÄËùÓĞÉËº¦]\\c[0]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢20]ã€€\\c[31][å‡å°‘å—åˆ°çš„æ‰€æœ‰ä¼¤å®³]\\c[0]",
     "effects": [
       {
         "code": 21,
@@ -61,7 +61,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "·ÀÓù",
+    "name": "é˜²å¾¡",
     "note": "<Cooldown: 11>",
     "occasion": 1,
     "repeats": 1,
@@ -84,7 +84,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[Å­Æø©€20]¡¡\\c[31][½Ï´ó¼¸ÂÊÉÁ¶ãµôÏÂÒ»´ÎÊÜµ½µÄ¹¥»÷]\\c[0]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢20]ã€€\\c[31][è¾ƒå¤§å‡ ç‡é—ªèº²æ‰ä¸‹ä¸€æ¬¡å—åˆ°çš„æ”»å‡»]\\c[0]",
     "effects": [
       {
         "code": 21,
@@ -98,7 +98,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÉÁ¶ã",
+    "name": "é—ªèº²",
     "note": "<Cooldown: 16>",
     "occasion": 1,
     "repeats": 1,
@@ -121,7 +121,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "×´Ì¬£º\\c[31][¶ÔµĞÈËÔì³ÉÉËº¦²¢½µµÍ90%ÉÁ±ÜÂÊ]\\c[0]¡¡¡¡ÌØĞ§£º[Å­Æø©€15]",
+    "description": "çŠ¶æ€ï¼š\\c[31][å¯¹æ•Œäººé€ æˆä¼¤å®³å¹¶é™ä½90%é—ªé¿ç‡]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢15]",
     "effects": [
       {
         "code": 21,
@@ -135,7 +135,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "½£ÊÆ",
+    "name": "å‰‘åŠ¿",
     "note": "<MP Cost: 5%>\n<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -158,7 +158,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[³ÖĞø´¥·¢\\c[31]ËĞ¾­\\c[0]Ğ§¹û£¬\\c[23]Ò½Êõ\\c[0]Ó°Ïì¼ÓÑª]¡¡¡¡ÌØĞ§£º[30%½â³ıËùÓĞÒì³£]",
+    "description": "çŠ¶æ€ï¼š[æŒç»­è§¦å‘\\c[31]è¯µç»\\c[0]æ•ˆæœï¼Œ\\c[23]åŒ»æœ¯\\c[0]å½±å“åŠ è¡€]ã€€ã€€ç‰¹æ•ˆï¼š[30%è§£é™¤æ‰€æœ‰å¼‚å¸¸]",
     "effects": [
       {
         "code": 22,
@@ -238,7 +238,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ËĞ¾­",
+    "name": "è¯µç»",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -261,7 +261,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[ÑôÄÚ¹¦ÉËº¦µÖ¿¹©€25%]¡¡¡¡ÌØĞ§£º[Å­Æø©€25]",
+    "description": "çŠ¶æ€ï¼š[é˜³å†…åŠŸä¼¤å®³æŠµæŠ—ï¹¢25%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢25]",
     "effects": [
       {
         "code": 21,
@@ -275,7 +275,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÎòµÀ",
+    "name": "æ‚Ÿé“",
     "note": "<MP Cost: 5%>\n<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -298,14 +298,14 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[µÖ¿¹10%×î´óÄÚÁ¦ÉËº¦©€\\c[23]ÏÈÌìÆø¹¦\\c[0]¼Ó³É]¡¡¡¡ÌØĞ§£º[Å­Æø©€15]",
+    "description": "çŠ¶æ€ï¼š[æŠµæŠ—10%æœ€å¤§å†…åŠ›ä¼¤å®³ï¹¢\\c[23]å…ˆå¤©æ°”åŠŸ\\c[0]åŠ æˆ]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢15]",
     "effects": [],
     "hitType": 0,
     "iconIndex": 183,
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "»¤Ìå",
+    "name": "æŠ¤ä½“",
     "note": "<MP Cost: 22%>\n<Cooldown: 8>\n<Custom User Barrier>\nif(a.mhp>28000){\nvalue = 9500\n}else{\nvalue = $gameVariables.value(141)*950+a.mmp*0.1;\n}\n</Custom User Barrier>",
     "occasion": 1,
     "repeats": 1,
@@ -328,7 +328,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "×´Ì¬£º\\c[31][ÃÅÅÉÎä¹¦¶ÔÓĞ±ê¼ÇµĞÈËÔì³É¸ü¶àÉËº¦]\\c[0]¡¡¡¡ÌØĞ§£º[Å­Æø©€5]",
+    "description": "çŠ¶æ€ï¼š\\c[31][é—¨æ´¾æ­¦åŠŸå¯¹æœ‰æ ‡è®°æ•Œäººé€ æˆæ›´å¤šä¼¤å®³]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢5]",
     "effects": [
       {
         "code": 21,
@@ -342,7 +342,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÓÂÎä",
+    "name": "å‹‡æ­¦",
     "note": "<MP Cost: 5%>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -365,7 +365,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[¹¥»÷Á¦©€50%] [±©»÷©€20%]¡¡¡¡ÌØĞ§£º[Å­Æø©€50]",
+    "description": "çŠ¶æ€ï¼š[æ”»å‡»åŠ›ï¹¢50%] [æš´å‡»ï¹¢20%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢50]",
     "effects": [
       {
         "code": 21,
@@ -379,7 +379,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Ä¥µ¶",
+    "name": "ç£¨åˆ€",
     "note": "<MP Cost: 5%>\n<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -402,7 +402,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[¶¾ÄÚ¹¦ÉËº¦µÖ¿¹©€25%]¡¡¡¡ÌØĞ§£º[Å­Æø©€25]",
+    "description": "çŠ¶æ€ï¼š[æ¯’å†…åŠŸä¼¤å®³æŠµæŠ—ï¹¢25%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢25]",
     "effects": [
       {
         "code": 21,
@@ -416,7 +416,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "º®Ëª",
+    "name": "å¯’éœœ",
     "note": "<MP Cost: 5%>\n<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -439,7 +439,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[³ÖĞø´¥·¢\\c[31]ÄıÉñ\\c[0]Ğ§¹û£¬\\c[23]Ò½Êõ\\c[0]Ó°Ïì¼ÓÑª]¡¡¡¡ÌØĞ§£º[ÄÚÁ¦©€15%]",
+    "description": "çŠ¶æ€ï¼š[æŒç»­è§¦å‘\\c[31]å‡ç¥\\c[0]æ•ˆæœï¼Œ\\c[23]åŒ»æœ¯\\c[0]å½±å“åŠ è¡€]ã€€ã€€ç‰¹æ•ˆï¼š[å†…åŠ›ï¹¢15%]",
     "effects": [
       {
         "code": 21,
@@ -459,7 +459,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÄıÉñ",
+    "name": "å‡ç¥",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -482,7 +482,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[ÃâÒßÑ£ÔÎ] [ÃâÒßµãÑ¨]¡¡¡¡ÌØĞ§£º[Å­Æø©€30] ",
+    "description": "çŠ¶æ€ï¼š[å…ç–«çœ©æ™•] [å…ç–«ç‚¹ç©´]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢30] ",
     "effects": [
       {
         "code": 21,
@@ -496,7 +496,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÇåĞÄ",
+    "name": "æ¸…å¿ƒ",
     "note": "<MP Cost: 5%>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -519,7 +519,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º\\c[31][½â³ıËùÓĞ¶¾]\\c[0]¡¡¡¡ÌØĞ§£º[Å­Æø©€30] [»ØÄÚ©€20%]",
+    "description": "çŠ¶æ€ï¼š\\c[31][è§£é™¤æ‰€æœ‰æ¯’]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢30] [å›å†…ï¹¢20%]",
     "effects": [
       {
         "code": 22,
@@ -551,7 +551,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "±Ü¶¾",
+    "name": "é¿æ¯’",
     "note": "<MP Cost: 5%>\n<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -574,7 +574,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º\\c[31][ÃÅÅÉËùÓĞ¿ÕÊÖÎä¹¦ÍşÁ¦ÌáÉı]\\c[0]¡¡¡¡ÌØĞ§£º[Å­Æø©€10]",
+    "description": "çŠ¶æ€ï¼š\\c[31][é—¨æ´¾æ‰€æœ‰ç©ºæ‰‹æ­¦åŠŸå¨åŠ›æå‡]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10]",
     "effects": [
       {
         "code": 21,
@@ -588,7 +588,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÕÆ·ç",
+    "name": "æŒé£",
     "note": "<MP Cost: 15%>\n<Cooldown: 5>",
     "occasion": 1,
     "repeats": 1,
@@ -611,7 +611,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[ÒõÄÚ¹¦ÉËº¦µÖ¿¹©€25%]¡¡¡¡ÌØĞ§£º[Å­Æø©€25]",
+    "description": "çŠ¶æ€ï¼š[é˜´å†…åŠŸä¼¤å®³æŠµæŠ—ï¹¢25%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢25]",
     "effects": [
       {
         "code": 21,
@@ -625,7 +625,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÎŞÎ·",
+    "name": "æ— ç•",
     "note": "<MP Cost: 5%>\n<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -648,7 +648,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º\\c[31][5%¼¸ÂÊ½â³ıËùÓĞÒì³£×´Ì¬]\\c[0]¡¡¡¡ÌØĞ§£º[»Ö¸´©€5%] [Å­Æø©€10]",
+    "description": "çŠ¶æ€ï¼š\\c[31][5%å‡ ç‡è§£é™¤æ‰€æœ‰å¼‚å¸¸çŠ¶æ€]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ¢å¤ï¹¢5%] [æ€’æ°”ï¹¢10]",
     "effects": [
       {
         "code": 11,
@@ -740,7 +740,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ĞİÏ¢",
+    "name": "ä¼‘æ¯",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -763,7 +763,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[ĞİÏ¢Ò»¸ö»ØºÏ]¡¡¡¡ÌØĞ§£º[»ØÄÚ] [»ØÑª]",
+    "description": "çŠ¶æ€ï¼š[ä¼‘æ¯ä¸€ä¸ªå›åˆ]ã€€ã€€ç‰¹æ•ˆï¼š[å›å†…] [å›è¡€]",
     "effects": [
       {
         "code": 11,
@@ -783,7 +783,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¹éÔª",
+    "name": "å½’å…ƒ",
     "note": "<MP Cost: 7%>\n<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -836,14 +836,14 @@
       "type": 1,
       "variance": 5
     },
-    "description": "ÌØĞ§£º[Å­Æø©€5]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[41] [\\V[42]/\\V[43]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢5]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[41] [\\V[42]/\\V[43]]",
     "effects": [],
     "hitType": 1,
     "iconIndex": 176,
     "message1": "",
     "message2": "",
     "mpCost": 5,
-    "name": "»ù±¾È­½Å",
+    "name": "åŸºæœ¬æ‹³è„š",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(41)*11;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -866,14 +866,14 @@
       "type": 1,
       "variance": 5
     },
-    "description": "ÌØĞ§£º[Å­Æø©€5]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[44] [\\V[45]/\\V[46]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢5]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[44] [\\V[45]/\\V[46]]",
     "effects": [],
     "hitType": 1,
     "iconIndex": 177,
     "message1": "",
     "message2": "",
     "mpCost": 7,
-    "name": "»ù±¾±øÆ÷",
+    "name": "åŸºæœ¬å…µå™¨",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(44)*12;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -896,7 +896,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[Ë²¼äµ½´ïÏëÈ¥µÄµØµã]¡¡¡¡            \\c[14]µÈ¼¶£º\\V[47] [\\V[48]/\\V[49]]",
+    "description": "ç‰¹æ•ˆï¼š[ç¬é—´åˆ°è¾¾æƒ³å»çš„åœ°ç‚¹]ã€€ã€€            \\c[14]ç­‰çº§ï¼š\\V[47] [\\V[48]/\\V[49]]",
     "effects": [
       {
         "code": 44,
@@ -910,7 +910,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 50,
-    "name": "»ù±¾Çá¹¦",
+    "name": "åŸºæœ¬è½»åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(47)*135;\n</Custom MP Cost>",
     "occasion": 2,
     "repeats": 1,
@@ -933,7 +933,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[Õ½¶·Ö®Íâ´ò×ø»ØÑª]¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[50] [\\V[51]/\\V[52]]",
+    "description": "ç‰¹æ•ˆï¼š[æˆ˜æ–—ä¹‹å¤–æ‰“åå›è¡€]ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[50] [\\V[51]/\\V[52]]",
     "effects": [
       {
         "code": 44,
@@ -947,7 +947,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "»ù±¾Íâ¹¦",
+    "name": "åŸºæœ¬å¤–åŠŸ",
     "note": "",
     "occasion": 2,
     "repeats": 1,
@@ -970,7 +970,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[Õ½¶·Ö®Íâ´ò×ø»ØÄÚ]¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[53] [\\V[54]/\\V[55]]",
+    "description": "ç‰¹æ•ˆï¼š[æˆ˜æ–—ä¹‹å¤–æ‰“åå›å†…]ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[53] [\\V[54]/\\V[55]]",
     "effects": [
       {
         "code": 44,
@@ -984,7 +984,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "»ù±¾ÄÚ¹¦",
+    "name": "åŸºæœ¬å†…åŠŸ",
     "note": "",
     "occasion": 2,
     "repeats": 1,
@@ -1018,10 +1018,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----»ªÉ½ÅÉ--------",
+    "name": "-----åå±±æ´¾--------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -1044,7 +1044,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][×İºá]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][çºµæ¨ª]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -1058,7 +1058,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "»ìÔªÕÆ",
+    "name": "æ··å…ƒæŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1081,7 +1081,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[12%Ñ£ÔÎ] \\c[31][ÓñËé]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[12%çœ©æ™•] \\c[31][ç‰ç¢]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -1101,7 +1101,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÅüÊ¯ÆÆÓñÕÆ",
+    "name": "åŠˆçŸ³ç ´ç‰æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1124,7 +1124,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][²ÔËÉ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][è‹æ¾]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -1138,7 +1138,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "»ªÉ½½£·¨",
+    "name": "åå±±å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmove user: target, back base, 5\naction animation\naction effect\nanimation wait: 5\nmove user: target, front base, 5\naction animation\naction effect\nanimation wait: 5\nmotion thrust: user\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1161,7 +1161,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%Á÷Ñª] \\c[31][½£Ó°]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%æµè¡€] \\c[31][å‰‘å½±]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -1181,7 +1181,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "¶áÃüÈıÏÉ½£",
+    "name": "å¤ºå‘½ä¸‰ä»™å‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1204,7 +1204,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€60%] [ÃüÖĞ©€30%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢60%] [å‘½ä¸­ï¹¢30%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -1218,7 +1218,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "ÉñĞĞ°Ù±ä",
+    "name": "ç¥è¡Œç™¾å˜",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -1241,7 +1241,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][Èõµã»÷ÆÆ]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][å¼±ç‚¹å‡»ç ´]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -1255,7 +1255,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "»ªÉ½ĞÄ·¨",
+    "name": "åå±±å¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -1278,7 +1278,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º\\c[31][×ÏÏ¼ÕæÆø]\\c[0] [Å­Æø©€30]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š\\c[31][ç´«éœçœŸæ°”]\\c[0] [æ€’æ°”ï¹¢30]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -1292,7 +1292,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "×ÏÏ¼Éñ¹¦",
+    "name": "ç´«éœç¥åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -1315,7 +1315,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [½â¶¾] \\c[31][ÕæÆø»¤Ìå]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [è§£æ¯’] \\c[31][çœŸæ°”æŠ¤ä½“]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 22,
@@ -1341,7 +1341,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "»ìÔªÆø¹¦",
+    "name": "æ··å…ƒæ°”åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>\n<Custom User Barrier>\nif(a.mhp>28000){\nvalue = 9500\n}else{\nvalue = $gameVariables.value(144)*500\n}\n</Custom User Barrier>",
     "occasion": 1,
     "repeats": 1,
@@ -1364,7 +1364,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%ÆÆÕÀ] \\c[31][ÎäÆ÷×´Ì¬]\\c[0] ¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡  \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[25%ç ´ç»½] \\c[31][æ­¦å™¨çŠ¶æ€]\\c[0] ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€  \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -1384,7 +1384,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "¶À¹Â¾Å½£",
+    "name": "ç‹¬å­¤ä¹å‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1407,7 +1407,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%·âÕĞ] [16%ÖØÉË]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[20%å°æ‹›] [16%é‡ä¼¤]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -1427,7 +1427,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Ì«ÔÀÈıÇà·å",
+    "name": "å¤ªå²³ä¸‰é’å³°",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\naction animation\nanimation wait: 5\naction effect: opponents\nanimation wait: 12\naction effect: opponents\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1461,10 +1461,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----ÉÙÁÖËÂ---------",
+    "name": "-----å°‘æ—å¯º---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -1487,7 +1487,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][·ğÓ¡]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][ä½›å°]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -1501,7 +1501,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "½ğ¸Õ°ãÈôÕÆ",
+    "name": "é‡‘åˆšèˆ¬è‹¥æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1524,7 +1524,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%µãÑ¨] \\c[31][Õª»¨]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[20%ç‚¹ç©´] \\c[31][æ‘˜èŠ±]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -1544,7 +1544,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Äé»¨Ö¸",
+    "name": "æ‹ˆèŠ±æŒ‡",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1567,7 +1567,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][Ï×·ğ]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][çŒ®ä½›]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -1581,7 +1581,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "Î¤ÍÓ¹÷·¨",
+    "name": "éŸ¦é™€æ£æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1604,7 +1604,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%ÖØÉË] \\c[31][ÇıÄ§]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%é‡ä¼¤] \\c[31][é©±é­”]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -1624,7 +1624,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "·üÄ§ÕÈ·¨",
+    "name": "ä¼é­”æ–æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1647,7 +1647,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€40%] [ÃüÖĞ©€40%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢40%] [å‘½ä¸­ï¹¢40%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -1661,7 +1661,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "·­ÌÚÊõ",
+    "name": "ç¿»è…¾æœ¯",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -1684,7 +1684,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][½îÂö¹áÍ¨]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][ç­‹è„‰è´¯é€š]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -1698,7 +1698,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Ï´Ëè¾­",
+    "name": "æ´—é«“ç»",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -1721,7 +1721,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º\\c[31][Ò×½î¶Í¹Ç]\\c[0] [Å­Æø©€65]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š\\c[31][æ˜“ç­‹é”»éª¨]\\c[0] [æ€’æ°”ï¹¢65]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 22,
@@ -1795,7 +1795,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "Ò×½î¾­",
+    "name": "æ˜“ç­‹ç»",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -1818,7 +1818,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [¼õÉË©€35%] \\c[31][¶¾ÄÚ¹¦ÎüÊÕ]\\c[0]¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [å‡ä¼¤ï¹¢35%] \\c[31][æ¯’å†…åŠŸå¸æ”¶]\\c[0]ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -1832,7 +1832,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "½ğÖÓÕÖ",
+    "name": "é‡‘é’Ÿç½©",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -1855,7 +1855,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[35%ÖØÉË] [10%·âÕĞ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[35%é‡ä¼¤] [10%å°æ‹›]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -1875,7 +1875,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "´óÁ¦½ğ¸ÕÕÆ",
+    "name": "å¤§åŠ›é‡‘åˆšæŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 25\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1898,7 +1898,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[40%Ñ£ÔÎ] [10%·âÄÚ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[40%çœ©æ™•] [10%å°å†…]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -1918,7 +1918,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "·ğÃÅÊ¨×Óºğ",
+    "name": "ä½›é—¨ç‹®å­å¼",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 5\naction effect: opponents\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -1952,10 +1952,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----Îäµ±ÅÉ---------",
+    "name": "-----æ­¦å½“æ´¾---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -1978,7 +1978,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ÏËÈá]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][çº¤æŸ”]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -1992,7 +1992,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "ÈáÔÆÃàÕÆ",
+    "name": "æŸ”äº‘ç»µæŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 12\naction effect\nanimation wait: 4\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2015,7 +2015,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[12%Ñ£ÔÎ] \\c[31][¾ªÌì]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[12%çœ©æ™•] \\c[31][æƒŠå¤©]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -2035,7 +2035,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÎŞ¼«Ğş¹¦È­",
+    "name": "æ— æç„åŠŸæ‹³",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2058,7 +2058,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][½£Òâ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][å‰‘æ„]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -2072,7 +2072,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "ÈÆÖ¸Èá½£",
+    "name": "ç»•æŒ‡æŸ”å‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2095,7 +2095,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%µãÑ¨] \\c[31][½£ĞÄ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%ç‚¹ç©´] \\c[31][å‰‘å¿ƒ]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -2115,7 +2115,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÉñÃÅÊ®Èı½£",
+    "name": "ç¥é—¨åä¸‰å‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 6\naction effect: opponents\nanimation wait: 16\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2138,7 +2138,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€50%] [ÃüÖĞ©€30%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢50%] [å‘½ä¸­ï¹¢30%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -2152,7 +2152,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "ÌİÔÆ×İ",
+    "name": "æ¢¯äº‘çºµ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -2175,7 +2175,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][Ç±ÄÜ±¬·¢]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][æ½œèƒ½çˆ†å‘]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -2189,7 +2189,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Îäµ±ĞÄ·¨",
+    "name": "æ­¦å½“å¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -2212,7 +2212,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[¼õÉË©€50%] [Å­Æø©€35]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å‡ä¼¤ï¹¢50%] [æ€’æ°”ï¹¢35]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -2226,7 +2226,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "Ì«¼«Éñ¹¦",
+    "name": "å¤ªæç¥åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -2249,7 +2249,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [½âÔÎ] \\c[31][»ìÔªÄÚ¹¦ÎüÊÕ]\\c[0]¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [è§£æ™•] \\c[31][æ··å…ƒå†…åŠŸå¸æ”¶]\\c[0]ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -2269,7 +2269,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "ĞşÌìÎŞ¼«¹¦",
+    "name": "ç„å¤©æ— æåŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -2292,7 +2292,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[14%Ñ£ÔÎ] [17%ÖØÉË]¡¡\\c[31][»ìÔª]\\c[0]¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[14%çœ©æ™•] [17%é‡ä¼¤]ã€€\\c[31][æ··å…ƒ]\\c[0]ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -2312,7 +2312,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Ì«¼«È­",
+    "name": "å¤ªææ‹³",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2335,7 +2335,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%·âÕĞ] [30%Á÷Ñª]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[25%å°æ‹›] [30%æµè¡€]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -2355,7 +2355,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Ì«¼«½£·¨",
+    "name": "å¤ªæå‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2389,10 +2389,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----È«Õæ½Ì---------",
+    "name": "-----å…¨çœŸæ•™---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -2415,7 +2415,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][¿ÕÚ¤]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][ç©ºå†¥]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -2429,7 +2429,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "ê»ÌìÕÆ",
+    "name": "æ˜Šå¤©æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*25*(1+$gameVariables.value(421));\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 17\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2452,7 +2452,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%·âÕĞ] \\c[31][´¿Ñô]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[10%å°æ‹›] \\c[31][çº¯é˜³]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -2472,7 +2472,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Èı»¨¾Û¶¥ÕÆ",
+    "name": "ä¸‰èŠ±èšé¡¶æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*80*(1+$gameVariables.value(421));\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2495,7 +2495,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ĞûÃü]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][å®£å‘½]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -2509,7 +2509,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "Í¬¹é½£·¨",
+    "name": "åŒå½’å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*20*(1+$gameVariables.value(421));\n</Custom MP Cost>\n<HP Cost: 7%>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 15\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2532,7 +2532,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%ÆÆÕÀ] \\c[31][Á¬Öé]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%ç ´ç»½] \\c[31][è¿ç ]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -2552,7 +2552,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÆßĞÇ½£·¨",
+    "name": "ä¸ƒæ˜Ÿå‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*70*(1+$gameVariables.value(421));\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2575,7 +2575,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[½â·â] [ÃüÖĞ©€70%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[è§£å°] [å‘½ä¸­ï¹¢70%] \\c[31][è½»èº«]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 22,
@@ -2601,7 +2601,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "½ğÑã¹¦",
+    "name": "é‡‘é›åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -2624,7 +2624,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][¹Ì±¾ÊØÔª]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][å›ºæœ¬å®ˆå…ƒ]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -2638,7 +2638,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "È«ÕæĞÄ·¨",
+    "name": "å…¨çœŸå¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -2661,7 +2661,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][ÔË×ªÖÜÌì]\\c[0]¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][è¿è½¬å‘¨å¤©]\\c[0]ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -2675,7 +2675,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "ÏÈÌìÆø¹¦",
+    "name": "å…ˆå¤©æ°”åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -2698,7 +2698,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[ÖÎÉË] [»ØÑª] \\c[31][ÕæÆø»¤Ìå]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[æ²»ä¼¤] [å›è¡€] \\c[31][çœŸæ°”æŠ¤ä½“]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 22,
@@ -2712,7 +2712,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "Ì«ÒÒÉñ¹¦",
+    "name": "å¤ªä¹™ç¥åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>\n<Custom User Barrier>\nif(a.mhp>28000){\nvalue = 9500\n}else{\nvalue = $gameVariables.value(144)*500\n}\n</Custom User Barrier>",
     "occasion": 1,
     "repeats": 1,
@@ -2735,7 +2735,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[14%ÆÆÕÀ] [17%·âÄÚ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[14%ç ´ç»½] [17%å°å†…]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -2761,7 +2761,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "¿ÕÃ÷È­",
+    "name": "ç©ºæ˜æ‹³",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195*(1+$gameVariables.value(421));\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2784,7 +2784,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%ÆÆÕÀ] [16%·âÕĞ]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[20%ç ´ç»½] [16%å°æ‹›]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -2804,7 +2804,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Ò»½£»¯ÈıÇå",
+    "name": "ä¸€å‰‘åŒ–ä¸‰æ¸…",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195*(1+$gameVariables.value(421));\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 12\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2838,10 +2838,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----Ø¤°ï---------",
+    "name": "-----ä¸å¸®---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -2864,7 +2864,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][Ëøºí]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][é”å–‰]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -2878,7 +2878,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "²øË¿ÇÜÄÃÊÖ",
+    "name": "ç¼ ä¸æ“’æ‹¿æ‰‹",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 14\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2901,7 +2901,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[15%ÖØÉË] \\c[31][µşáÖ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[15%é‡ä¼¤] \\c[31][å å¶‚]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -2921,7 +2921,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÒõÉ½¾ÅÊ½ÕÆ",
+    "name": "é˜´å±±ä¹å¼æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 13\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2944,7 +2944,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][¼À×æ]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][ç¥­ç¥–]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -2958,7 +2958,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "Ì«×æ¹÷·¨",
+    "name": "å¤ªç¥–æ£æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 14\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -2981,7 +2981,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%Ñ£ÔÎ] \\c[31][Ë¯Á«]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%çœ©æ™•] \\c[31][ç¡è²]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -3001,7 +3001,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Á«»¨¹÷·¨",
+    "name": "è²èŠ±æ£æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3024,7 +3024,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€30%] [ÃüÖĞ©€50%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢30%] [å‘½ä¸­ï¹¢50%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -3038,7 +3038,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "åĞÒ£ÓÎ",
+    "name": "é€é¥æ¸¸",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -3061,7 +3061,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][Å­Æø³åÌì]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][æ€’æ°”å†²å¤©]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -3075,7 +3075,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÁùºÏ¹¦",
+    "name": "å…­åˆåŠŸ",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -3098,7 +3098,7 @@
       "type": 0,
       "variance": 0
     },
-    "description": "ÌØĞ§£º[¼õÒõÉË©€80%] [Å­Æø©€35]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å‡é˜´ä¼¤ï¹¢80%] [æ€’æ°”ï¹¢35]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -3112,7 +3112,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "»ìÌì¹¦",
+    "name": "æ··å¤©åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -3135,7 +3135,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [¼õÉË©€30%] \\c[31][¶¾ÄÚ¹¦ÎüÊÕ]\\c[0]¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [å‡ä¼¤ï¹¢30%] \\c[31][æ¯’å†…åŠŸå¸æ”¶]\\c[0]ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -3149,7 +3149,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "Ìú²¼ÉÀ",
+    "name": "é“å¸ƒè¡«",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -3172,7 +3172,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%·âÄÚ] [30%ÖØÉË]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[15%å°å†…] [30%é‡ä¼¤]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -3192,7 +3192,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "½µÁúÊ®°ËÕÆ",
+    "name": "é™é¾™åå…«æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 11\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3215,7 +3215,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[17%Ñ£ÔÎ] [14%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[17%çœ©æ™•] [14%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -3235,7 +3235,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "´ò¹·°ô·¨",
+    "name": "æ‰“ç‹—æ£’æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3269,10 +3269,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----Ñªµ¶ÃÅ--------",
+    "name": "-----è¡€åˆ€é—¨--------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -3295,7 +3295,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ËéÁÑ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][ç¢è£‚]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -3309,7 +3309,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "´İĞÄÕÆ",
+    "name": "æ‘§å¿ƒæŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3332,7 +3332,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[12%È¼ÉÕ] \\c[31][ÁÒÑ×]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[12%ç‡ƒçƒ§] \\c[31][çƒˆç‚]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -3352,7 +3352,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÃğÏÉÕÆ",
+    "name": "ç­ä»™æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 4\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3375,7 +3375,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][²ĞÑô]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][æ®‹é˜³]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -3395,7 +3395,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "Ñªµ¶µ¶·¨",
+    "name": "è¡€åˆ€åˆ€æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3418,7 +3418,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[28%ÎüÑª] \\c[31][ÑªºÛ]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[28%å¸è¡€] \\c[31][è¡€ç—•]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -3438,7 +3438,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÒûÑªµ¶·¨",
+    "name": "é¥®è¡€åˆ€æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 9\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>\n<HP Life Steal: 28%>",
     "occasion": 1,
     "repeats": 1,
@@ -3461,7 +3461,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€50%] [±©»÷©€30%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢50%] [æš´å‡»ï¹¢30%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -3475,7 +3475,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "Ñ©¶İ²½ĞĞ",
+    "name": "é›ªéæ­¥è¡Œ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -3498,7 +3498,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][Å­±©¾ªÌì]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][æ€’æš´æƒŠå¤©]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -3512,7 +3512,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Ñªµ¶ĞÄ·¨",
+    "name": "è¡€åˆ€å¿ƒæ³•",
     "note": "<Cooldown: 6>\n<Custom HP Cost>\ncost +=$gameVariables.value(136)*55;\n</Custom HP Cost>",
     "occasion": 1,
     "repeats": 1,
@@ -3535,7 +3535,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[±©»÷©€55%] [Å­Æø©€85]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢55%] [æ€’æ°”ï¹¢85]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -3549,7 +3549,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "Ñªº£Ä§¹¦",
+    "name": "è¡€æµ·é­”åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -3572,7 +3572,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [½â·â] \\c[31][ÃâÒßËÀÍö]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [è§£å°] \\c[31][å…ç–«æ­»äº¡]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 22,
@@ -3592,7 +3592,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "ÉñÕÕ¾­",
+    "name": "ç¥ç…§ç»",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -3615,7 +3615,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%Á÷Ñª] [14%È¼ÉÕ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[25%æµè¡€] [14%ç‡ƒçƒ§]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -3635,7 +3635,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "ÑªÄ§Éñµ¶",
+    "name": "è¡€é­”ç¥åˆ€",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3658,7 +3658,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[30%Á÷Ñª] [25%ÎüÑª]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[30%æµè¡€] [25%å¸è¡€]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -3672,7 +3672,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "ÊÈÑª¹¦",
+    "name": "å—œè¡€åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nanimation wait: 20\n</target action>\n<HP Life Steal: 25%>",
     "occasion": 1,
     "repeats": 1,
@@ -3706,10 +3706,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----Ñ©É½ÅÉ---------",
+    "name": "-----é›ªå±±æ´¾---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -3732,7 +3732,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][Âä»¨]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][è½èŠ±]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -3746,7 +3746,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "Ã·»¨ÕÆ",
+    "name": "æ¢…èŠ±æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3769,7 +3769,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%·âÕĞ] \\c[31][º®Òâ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[15%å°æ‹›] \\c[31][å¯’æ„]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -3789,7 +3789,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "Ñ©Ó°ÇÜÄÃÊÖ",
+    "name": "é›ªå½±æ“’æ‹¿æ‰‹",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3812,7 +3812,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][·ÉÑ©]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][é£é›ª]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -3826,7 +3826,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "Ñ©É½½£·¨",
+    "name": "é›ªå±±å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3849,7 +3849,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%ÆÆÕÀ] \\c[31][ÁôºÛ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%ç ´ç»½] \\c[31][ç•™ç—•]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -3869,7 +3869,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Ñ©Ó°ÎŞ×Ù½£",
+    "name": "é›ªå½±æ— è¸ªå‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 2\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -3892,7 +3892,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€30%] [ÃüÖĞ©€50%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢30%] [å‘½ä¸­ï¹¢50%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -3906,7 +3906,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "Ì¤Ñ©ÎŞºÛ",
+    "name": "è¸é›ªæ— ç—•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -3929,7 +3929,7 @@
       "type": 4,
       "variance": 0
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][º®±ùÕæÆø]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][å¯’å†°çœŸæ°”]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -3943,7 +3943,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "±ùĞÄ¾ö",
+    "name": "å†°å¿ƒå†³",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -3966,7 +3966,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[¼õÑôÉË©€80%] [Å­Æø©€35]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å‡é˜³ä¼¤ï¹¢80%] [æ€’æ°”ï¹¢35]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -3980,7 +3980,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "º®ÓñÉñ¹¦",
+    "name": "å¯’ç‰ç¥åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -4003,7 +4003,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [¼õÉË©€25%] \\c[31][ÑôÄÚ¹¦ÎüÊÕ]\\c[0]¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [å‡ä¼¤ï¹¢25%] \\c[31][é˜³å†…åŠŸå¸æ”¶]\\c[0]ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -4017,7 +4017,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "Óùº®Êõ",
+    "name": "å¾¡å¯’æœ¯",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -4040,7 +4040,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[17%·âÕĞ] [17%·âÄÚ]¡¡\\c[31][»ìÔª]\\c[0]¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[17%å°æ‹›] [17%å°å†…]ã€€\\c[31][æ··å…ƒ]\\c[0]ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -4060,7 +4060,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Á½ÒÇ½£·¨",
+    "name": "ä¸¤ä»ªå‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*195;\n</Custom MP Cost>\n<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect: opponents\nanimation wait: 15\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4083,7 +4083,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[14%ÖØÉË] [18%È¼ÉÕ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[14%é‡ä¼¤] [18%ç‡ƒçƒ§]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -4103,7 +4103,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "½ğÎÚµ¶·¨",
+    "name": "é‡‘ä¹Œåˆ€æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*195;\n</Custom MP Cost>\n<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 8\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4137,10 +4137,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----¶ëÃ¼ÅÉ---------",
+    "name": "-----å³¨çœ‰æ´¾---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -4163,7 +4163,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ÄîÉú]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][å¿µç”Ÿ]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -4177,7 +4177,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "ËÄÏóÕÆ",
+    "name": "å››è±¡æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 12\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4200,7 +4200,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[11%Ñ£ÔÎ] \\c[31][·ğ¹â]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[11%çœ©æ™•] \\c[31][ä½›å…‰]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -4220,7 +4220,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "Æ®Ñ©´©ÔÆÕÆ",
+    "name": "é£˜é›ªç©¿äº‘æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4243,7 +4243,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ÇåĞÄ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][æ¸…å¿ƒ]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -4257,7 +4257,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "»Ø·ç·÷Áø½£",
+    "name": "å›é£æ‹‚æŸ³å‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\naction animation\nanimation wait: 16\njump user: 100, 20 \nanimation wait: 4\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4280,7 +4280,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%µãÑ¨] \\c[31][½£»¨]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%ç‚¹ç©´] \\c[31][å‰‘èŠ±]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -4300,7 +4300,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Íò»¨½£·¨",
+    "name": "ä¸‡èŠ±å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 15\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4323,7 +4323,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€40%] [ÃüÖĞ©€40%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢40%] [å‘½ä¸­ï¹¢40%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -4337,7 +4337,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "¾ªºèÒ»Æ³",
+    "name": "æƒŠé¸¿ä¸€ç¥",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -4360,7 +4360,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][»Ø¹â·µÕÕ]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][å›å…‰è¿”ç…§]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -4374,7 +4374,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¶ëÃ¼ĞÄ·¨",
+    "name": "å³¨çœ‰å¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -4397,7 +4397,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º\\c[31][¾ÅÑôÕæÆø]\\c[0] [Å­Æø©€55]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š\\c[31][ä¹é˜³çœŸæ°”]\\c[0] [æ€’æ°”ï¹¢55]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -4411,7 +4411,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "¾ÅÑô¹¦",
+    "name": "ä¹é˜³åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -4434,14 +4434,14 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[ÈºÌå»ØÑª] \\c[31][ÕæÆøÆÁÕÏ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[ç¾¤ä½“å›è¡€] \\c[31][çœŸæ°”å±éšœ]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [],
     "hitType": 0,
     "iconIndex": 311,
     "message1": "",
     "message2": "",
     "mpCost": 180,
-    "name": "´Èº½ÆÕ¶É",
+    "name": "æ…ˆèˆªæ™®æ¸¡",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*330;\n</Custom MP Cost>\n<Cooldown: 8>\n<Custom User Barrier>\nif(a.mhp>28000){\nvalue = 9500\n}else{\nvalue = $gameVariables.value(144)*500\n}\n</Custom User Barrier>",
     "occasion": 1,
     "repeats": 1,
@@ -4464,7 +4464,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%Á÷Ñª] [14%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[25%æµè¡€] [14%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -4484,7 +4484,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Ãğ¾ø½£·¨",
+    "name": "ç­ç»å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 8\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4507,7 +4507,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%¾ç¶¾] [21%ÎüÑª]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[25%å‰§æ¯’] [21%å¸è¡€]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -4521,7 +4521,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "¾ÅÒõ°×¹Ç×¦",
+    "name": "ä¹é˜´ç™½éª¨çˆª",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 2\naction effect: opponents\nanimation wait: 8\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>\n<HP Life Steal: 21%>",
     "occasion": 1,
     "repeats": 1,
@@ -4555,10 +4555,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----¹ÅÄ¹ÅÉ---------",
+    "name": "-----å¤å¢“æ´¾---------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -4581,7 +4581,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ºìÑÕ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][çº¢é¢œ]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -4595,7 +4595,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "ÃÀÅ®È­·¨",
+    "name": "ç¾å¥³æ‹³æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 12\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4618,7 +4618,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[12%¾ç¶¾] \\c[31][ÑªÓ¡]\\c[0]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[12%å‰§æ¯’] \\c[31][è¡€å°]\\c[0]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -4638,7 +4638,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "³àÁ·ÉñÕÆ",
+    "name": "èµ¤ç»ƒç¥æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*70;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4661,7 +4661,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][Ê´ĞÄ]\\c[0]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][èš€å¿ƒ]\\c[0]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -4681,7 +4681,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "±ùÆÇÒøÕë",
+    "name": "å†°é­„é“¶é’ˆ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\naction animation\nanimation wait: 16\njump user: 190, 35 \nanimation wait: 10\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4704,7 +4704,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%µãÑ¨] \\c[31][Çã³Ç]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[10%ç‚¹ç©´] \\c[31][å€¾åŸ]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -4724,7 +4724,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÓñÅ®ËØĞÄ½£",
+    "name": "ç‰å¥³ç´ å¿ƒå‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 15\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4747,7 +4747,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€30%] [ÃüÖĞ©€50%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢30%] [å‘½ä¸­ï¹¢50%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -4761,7 +4761,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "²¶È¸¹¦",
+    "name": "æ•é›€åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -4784,7 +4784,7 @@
       "type": 4,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][ÓñÅ®´©Ëó]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][ç‰å¥³ç©¿æ¢­]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -4798,7 +4798,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÓñÅ®ĞÄ¾­",
+    "name": "ç‰å¥³å¿ƒç»",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -4821,7 +4821,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[±©»÷©€70%] [Å­Æø©€70]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[æš´å‡»ï¹¢70%] [æ€’æ°”ï¹¢70]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -4841,7 +4841,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "¾ÅÒõÕæ¾­",
+    "name": "ä¹é˜´çœŸç»",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -4864,7 +4864,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [½â¶¾] \\c[31][ÒõÄÚ¹¦ÎüÊÕ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [è§£æ¯’] \\c[31][é˜´å†…åŠŸå¸æ”¶]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 22,
@@ -4896,7 +4896,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "Îå¶¾Ææ¾­",
+    "name": "äº”æ¯’å¥‡ç»",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -4919,7 +4919,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%ÖØÉË] [17%Ñ£ÔÎ]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[15%é‡ä¼¤] [17%çœ©æ™•]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -4939,7 +4939,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "÷öÈ»Ïú»êÕÆ",
+    "name": "é»¯ç„¶é”€é­‚æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 13\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -4962,7 +4962,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%Á÷Ñª] [14%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[20%æµè¡€] [14%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -4982,7 +4982,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "ĞşÌú½£·¨",
+    "name": "ç„é“å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 11\naction effect: opponents\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5016,10 +5016,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----ĞÇËŞÅÉ--------",
+    "name": "-----æ˜Ÿå®¿æ´¾--------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -5042,7 +5042,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][¶¾ÕÆ]\\c[0]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][æ¯’æŒ]\\c[0]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -5062,7 +5062,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "³éËèÕÆ",
+    "name": "æŠ½é«“æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 8\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5085,7 +5085,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%µãÑ¨] \\c[31][¶áÃü]\\c[0]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[10%ç‚¹ç©´] \\c[31][å¤ºå‘½]\\c[0]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -5111,7 +5111,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÈıÒõòÚò¼×¦",
+    "name": "ä¸‰é˜´èœˆèš£çˆª",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 6\naction effect\nanimation wait: 7\naction effect\nanimation wait: 4\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5134,7 +5134,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][¶¾Æø]\\c[0]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][æ¯’æ°”]\\c[0]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -5154,7 +5154,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "ĞÇËŞ¹÷·¨",
+    "name": "æ˜Ÿå®¿æ£æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 12\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5177,7 +5177,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%Ñ£ÔÎ] \\c[31][Òş¶¾]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[15%çœ©æ™•] \\c[31][éšæ¯’]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -5203,7 +5203,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÌìÉ½ÕÈ·¨",
+    "name": "å¤©å±±æ–æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 9\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5226,7 +5226,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€35%] [ÃüÖĞ©€45%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢35%] [å‘½ä¸­ï¹¢45%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -5240,7 +5240,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "ÕªĞÇÊõ",
+    "name": "æ‘˜æ˜Ÿæœ¯",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -5263,7 +5263,7 @@
       "type": 4,
       "variance": 0
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][°Ù¶¾¹¥ĞÄ]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][ç™¾æ¯’æ”»å¿ƒ]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -5277,7 +5277,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ĞÇËŞĞÄ·¨",
+    "name": "æ˜Ÿå®¿å¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -5300,7 +5300,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[¼õ¶¾ÉË©€80%] [Å­Æø©€35]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å‡æ¯’ä¼¤ï¹¢80%] [æ€’æ°”ï¹¢35]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -5314,7 +5314,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 110,
-    "name": "±Ü¶¾·¨",
+    "name": "é¿æ¯’æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(141)*130;\n</Custom MP Cost>\n<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -5337,7 +5337,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[³ÖĞøÈı»ØºÏ¹êÏ¢×´Ì¬]¡¡¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[æŒç»­ä¸‰å›åˆé¾Ÿæ¯çŠ¶æ€]ã€€ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -5351,7 +5351,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "¹êÏ¢¹¦",
+    "name": "é¾Ÿæ¯åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*220;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -5374,7 +5374,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%·âÕĞ] [25%¾ç¶¾]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[20%å°æ‹›] [25%å‰§æ¯’]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -5394,7 +5394,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "»¯¹¦´ó·¨",
+    "name": "åŒ–åŠŸå¤§æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect: opponents\nanimation wait: 10\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5417,7 +5417,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%·âÄÚ] [30%ÃÍ¶¾]¡¡\\c[3][¶¾]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[20%å°å†…] [30%çŒ›æ¯’]ã€€\\c[3][æ¯’]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -5437,7 +5437,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "·Å¶¾·¨",
+    "name": "æ”¾æ¯’æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 11\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5471,10 +5471,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----ÁéğÕ¹¬--------",
+    "name": "-----çµé¹«å®«--------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -5497,7 +5497,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][¹áÈÕ]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][è´¯æ—¥]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -5511,7 +5511,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "°×ºçÕÆ",
+    "name": "ç™½è™¹æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 13\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5534,7 +5534,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[13%·âÕĞ] \\c[31][»¨Ö¦]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[13%å°æ‹›] \\c[31][èŠ±æ]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -5554,7 +5554,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÌìÉ½ÕÛÃ·ÊÖ",
+    "name": "å¤©å±±æŠ˜æ¢…æ‰‹",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 6\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5577,7 +5577,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ÁÙÏÉ]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][ä¸´ä»™]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -5591,7 +5591,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "ÌìÉ½½£·¨",
+    "name": "å¤©å±±å‰‘æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5614,7 +5614,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[12%·âÄÚ] \\c[31][·Éºè]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[12%å°å†…] \\c[31][é£é¸¿]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -5634,7 +5634,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 90,
-    "name": "ÌìÓğÆæ½£",
+    "name": "å¤©ç¾½å¥‡å‰‘",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*70;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5657,7 +5657,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€70%] [ÃüÖĞ©€10%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢70%] [å‘½ä¸­ï¹¢10%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -5671,7 +5671,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "Áè²¨Î¢²½",
+    "name": "å‡Œæ³¢å¾®æ­¥",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -5694,7 +5694,7 @@
       "type": 4,
       "variance": 0
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][ÎŞÏàÈ¼Ãğ]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][æ— ç›¸ç‡ƒç­]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -5708,7 +5708,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Ğ¡ÎŞÏà¹¦",
+    "name": "å°æ— ç›¸åŠŸ",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -5731,7 +5731,7 @@
       "type": 6,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[ÎüÄÚ] [·âÕĞ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å¸å†…] [å°æ‹›]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -5745,7 +5745,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "±±Ú¤Éñ¹¦",
+    "name": "åŒ—å†¥ç¥åŠŸ",
     "note": "<Cooldown: 4>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>\n<MP Life Steal: 21%>",
     "occasion": 1,
     "repeats": 1,
@@ -5768,7 +5768,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] \\c[31][·µÀÏ»¹Í¯]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] \\c[31][è¿”è€è¿˜ç«¥]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -5782,7 +5782,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "´¿ÑôÖÁ×ğ¹¦",
+    "name": "çº¯é˜³è‡³å°ŠåŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -5805,7 +5805,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[12%Ñ£ÔÎ] [10%ÖØÉË]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[12%çœ©æ™•] [10%é‡ä¼¤]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -5825,7 +5825,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "ÌìÉ½ÁùÑôÕÆ",
+    "name": "å¤©å±±å…­é˜³æŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 2\naction effect\nanimation wait: 2\naction effect\nanimation wait: 2\naction effect\nanimation wait: 2\naction effect\nanimation wait: 2\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5848,7 +5848,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[40%·âÄÚ] [10%µãÑ¨]¡¡\\c[31][»ìÔª]\\c[0]¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[40%å°å†…] [10%ç‚¹ç©´]ã€€\\c[31][æ··å…ƒ]\\c[0]ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -5868,7 +5868,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "ÉúËÀ·û",
+    "name": "ç”Ÿæ­»ç¬¦",
     "note": "<Custom HP Cost>\ncost +=$gameVariables.value(150)*65;\n</Custom HP Cost>\n<Custom MP Cost>\ncost +=$gameVariables.value(150)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect: opponents\nanimation wait: 9\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5902,10 +5902,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----ÈÕÔÂÉñ½Ì-------",
+    "name": "-----æ—¥æœˆç¥æ•™-------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -5928,7 +5928,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][´©ĞÄ]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[121] [\\V[122]/\\V[123]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][ç©¿å¿ƒ]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[121] [\\V[122]/\\V[123]]",
     "effects": [
       {
         "code": 21,
@@ -5942,7 +5942,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 10,
-    "name": "ÁÑĞÄÕÆ",
+    "name": "è£‚å¿ƒæŒ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(121)*20;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 12\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -5965,7 +5965,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[13%ÖØÉË] \\c[31][Ëé¹Ç]\\c[0]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[124] [\\V[125]/\\V[126]]",
+    "description": "ç‰¹æ•ˆï¼š[13%é‡ä¼¤] \\c[31][ç¢éª¨]\\c[0]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[124] [\\V[125]/\\V[126]]",
     "effects": [
       {
         "code": 21,
@@ -5985,7 +5985,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "·Ö½î´í¹ÇÊÖ",
+    "name": "åˆ†ç­‹é”™éª¨æ‰‹",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(124)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6008,7 +6008,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[Å­Æø©€10] \\c[31][ÍşÉå]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡¡¡\\c[14]µÈ¼¶£º\\V[127] [\\V[128]/\\V[129]]",
+    "description": "ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10] \\c[31][å¨æ…‘]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[127] [\\V[128]/\\V[129]]",
     "effects": [
       {
         "code": 21,
@@ -6022,7 +6022,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "ÈÕÔÂµ¶·¨",
+    "name": "æ—¥æœˆåˆ€æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(127)*25;\n</Custom MP Cost>\n<Cooldown: 2>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6045,7 +6045,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%Á÷Ñª] \\c[31][É±Â¾]\\c[0]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[130] [\\V[131]/\\V[132]]",
+    "description": "ç‰¹æ•ˆï¼š[15%æµè¡€] \\c[31][æ€æˆ®]\\c[0]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[130] [\\V[131]/\\V[132]]",
     "effects": [
       {
         "code": 21,
@@ -6065,7 +6065,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÍÌÔÆ±ÎÈÕµ¶",
+    "name": "åäº‘è”½æ—¥åˆ€",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*80;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect: opponents\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6088,7 +6088,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€30%] [ÃüÖĞ©€50%] \\c[31][ÇáÉí]\\c[0]¡¡¡¡\\c[14]µÈ¼¶£º\\V[133] [\\V[134]/\\V[135]]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢30%] [å‘½ä¸­ï¹¢50%] \\c[31][è½»èº«]\\c[0]ã€€ã€€\\c[14]ç­‰çº§ï¼š\\V[133] [\\V[134]/\\V[135]]",
     "effects": [
       {
         "code": 21,
@@ -6102,7 +6102,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 70,
-    "name": "²ÉÑà¹¦",
+    "name": "é‡‡ç‡•åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(133)*90;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -6125,7 +6125,7 @@
       "type": 4,
       "variance": 0
     },
-    "description": "ÌØĞ§£º[»ØÄÚ] [Å­Æø©€20] \\c[31][ÈÕÔÂÍ¬»Ô]\\c[0]¡¡ ¡¡¡¡ \\c[14]µÈ¼¶£º\\V[136] [\\V[137]/\\V[138]]",
+    "description": "ç‰¹æ•ˆï¼š[å›å†…] [æ€’æ°”ï¹¢20] \\c[31][æ—¥æœˆåŒè¾‰]\\c[0]ã€€ ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[136] [\\V[137]/\\V[138]]",
     "effects": [
       {
         "code": 21,
@@ -6139,7 +6139,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÈÕÔÂĞÄ·¨",
+    "name": "æ—¥æœˆå¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -6162,7 +6162,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[ÎüÄÚ] [·âÄÚ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[141] [\\V[142]/\\V[143]]",
+    "description": "ç‰¹æ•ˆï¼š[å¸å†…] [å°å†…]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[141] [\\V[142]/\\V[143]]",
     "effects": [
       {
         "code": 21,
@@ -6176,7 +6176,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÎüĞÇ´ó·¨",
+    "name": "å¸æ˜Ÿå¤§æ³•",
     "note": "<Cooldown: 4>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>\n<MP Life Steal: 21%>",
     "occasion": 1,
     "repeats": 1,
@@ -6199,7 +6199,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[»ØÑª] [½âÈ¼] \\c[31][ÕòÆÆ»ìÔª]\\c[0]¡¡¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[144] [\\V[145]/\\V[146]]",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [è§£ç‡ƒ] \\c[31][é•‡ç ´æ··å…ƒ]\\c[0]ã€€ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[144] [\\V[145]/\\V[146]]",
     "effects": [
       {
         "code": 21,
@@ -6219,7 +6219,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 120,
-    "name": "ºÚÓê¹¦",
+    "name": "é»‘é›¨åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(144)*270;\n</Custom MP Cost>\n<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -6242,7 +6242,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%ÖØÉË] [15%Á÷Ñª]¡¡\\c[23][Òõ]\\c[0]¡¡¡¡¡¡¡¡ \\c[14]µÈ¼¶£º\\V[147] [\\V[148]/\\V[149]]",
+    "description": "ç‰¹æ•ˆï¼š[10%é‡ä¼¤] [15%æµè¡€]ã€€\\c[23][é˜´]\\c[0]ã€€ã€€ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[147] [\\V[148]/\\V[149]]",
     "effects": [
       {
         "code": 21,
@@ -6262,7 +6262,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "Ô²ÔÂµ¶·¨",
+    "name": "åœ†æœˆåˆ€æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6285,7 +6285,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[14%µãÑ¨] [14%·âÄÚ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]¡¡¡¡ \\c[14]µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[14%ç‚¹ç©´] [14%å°å†…]ã€€\\c[31][æ— å±æ€§]\\c[0]ã€€ã€€ \\c[14]ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -6305,7 +6305,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "¿û»¨Éñ¹¦",
+    "name": "è‘µèŠ±ç¥åŠŸ",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(130)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\njump user: 170, 60 \nanimation wait: 8\nmotion swing: user\naction animation\naction effect: opponents\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6339,10 +6339,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----åĞÒ£ÅÉ--------",
+    "name": "-----é€é¥æ´¾--------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -6365,7 +6365,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÎŞÊÓ·ÀÓùÁ¦] [50%·âÕĞ] [50%ÖØÉË] [50%µãÑª]",
+    "description": "ç‰¹æ•ˆï¼š[æ— è§†é˜²å¾¡åŠ›] [50%å°æ‹›] [50%é‡ä¼¤] [50%ç‚¹è¡€]",
     "effects": [
       {
         "code": 21,
@@ -6397,7 +6397,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 680,
-    "name": "º®±ù»Ã»êÕÆ",
+    "name": "å¯’å†°å¹»é­‚æŒ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6420,7 +6420,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÎŞÊÓ·ÀÓùÁ¦] [50%Á÷Ñª] [50%¾ç¶¾] [50%È¼ÉÕ]",
+    "description": "ç‰¹æ•ˆï¼š[æ— è§†é˜²å¾¡åŠ›] [50%æµè¡€] [50%å‰§æ¯’] [50%ç‡ƒçƒ§]",
     "effects": [
       {
         "code": 21,
@@ -6458,7 +6458,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 680,
-    "name": "ÔÆÁúÆÆÈı½£",
+    "name": "äº‘é¾™ç ´ä¸‰å‰‘",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6488,7 +6488,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 680,
-    "name": "Ç¬À¤¹éÔª¹¦",
+    "name": "ä¹¾å¤å½’å…ƒåŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6522,10 +6522,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "-----½­ºşÎäÑ§-------",
+    "name": "-----æ±Ÿæ¹–æ­¦å­¦-------",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -6548,7 +6548,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%ÆÆÕÀ] [25%Á÷Ñª]¡¡\\c[23][Òõ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ±ÛÁ¦Ó°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[15%ç ´ç»½] [25%æµè¡€]ã€€\\c[23][é˜´]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—è‡‚åŠ›å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -6568,7 +6568,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 2100,
-    "name": "ºú¼Òµ¶·¨",
+    "name": "èƒ¡å®¶åˆ€æ³•",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect: opponents\nanimation wait: 4\naction effect: opponents\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6591,7 +6591,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[30%µãÑ¨] [30%·âÄÚ]¡¡\\c[14][Ñô]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[30%ç‚¹ç©´] [30%å°å†…]ã€€\\c[14][é˜³]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -6611,7 +6611,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 2500,
-    "name": "Ò»ÑôÖ¸",
+    "name": "ä¸€é˜³æŒ‡",
     "note": "<Cooldown: 6>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6634,7 +6634,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[30%ÖĞ¶¾] [14%¾ç¶¾]¡¡\\c[3][¶¾]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[30%ä¸­æ¯’] [14%å‰§æ¯’]ã€€\\c[3][æ¯’]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -6654,7 +6654,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 2200,
-    "name": "½ğÉß½£·¨",
+    "name": "é‡‘è›‡å‰‘æ³•",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 10\naction effect\nanimation wait: 20\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6677,7 +6677,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[Ëæ»ú³öÏÖ6ÖÖ×´Ì¬]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[éšæœºå‡ºç°6ç§çŠ¶æ€]ã€€\\c[31][æ— å±æ€§]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -6721,7 +6721,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 2800,
-    "name": "ÁùÂöÉñ½£",
+    "name": "å…­è„‰ç¥å‰‘",
     "note": "<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6744,7 +6744,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%Á÷Ñª] [ÎŞÊÓ·ÀÓù]¡¡\\c[23][Òõ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[20%æµè¡€] [æ— è§†é˜²å¾¡]ã€€\\c[23][é˜´]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -6758,7 +6758,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 2400,
-    "name": "±ÙĞ°½£·¨",
+    "name": "è¾Ÿé‚ªå‰‘æ³•",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 2\naction effect\nanimation wait: 2\naction effect\nanimation wait: 2\naction effect\nanimation wait: 15\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6781,14 +6781,14 @@
       "type": 3,
       "variance": 8
     },
-    "description": "×î´óÉËº¦£º[4230]¡¡ÌØĞ§£º[Ëæ»ú³öÏÖ6ÖÖ×´Ì¬][ÎüÑª]",
+    "description": "æœ€å¤§ä¼¤å®³ï¼š[4230]ã€€ç‰¹æ•ˆï¼š[éšæœºå‡ºç°6ç§çŠ¶æ€][å¸è¡€]",
     "effects": [],
     "hitType": 0,
     "iconIndex": 316,
     "message1": "",
     "message2": "",
     "mpCost": 685,
-    "name": "Ç¬À¤´óÅ²ÒÆ",
+    "name": "ä¹¾å¤å¤§æŒªç§»",
     "note": "",
     "occasion": 1,
     "repeats": 3,
@@ -6811,7 +6811,7 @@
       "type": 3,
       "variance": 50
     },
-    "description": "ÌØĞ§£º[²»ËÀÖ®Éí] [²»ÎÈ¶¨»ØÑª] [ÖÎÉË] ",
+    "description": "ç‰¹æ•ˆï¼š[ä¸æ­»ä¹‹èº«] [ä¸ç¨³å®šå›è¡€] [æ²»ä¼¤] ",
     "effects": [
       {
         "code": 22,
@@ -6831,7 +6831,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 1100,
-    "name": "¾ÅÑôÉñ¹¦",
+    "name": "ä¹é˜³ç¥åŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -6861,7 +6861,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¶·×ªĞÇÒÆ",
+    "name": "æ–—è½¬æ˜Ÿç§»",
     "note": "",
     "occasion": 1,
     "repeats": 4,
@@ -6884,7 +6884,7 @@
       "type": 3,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[»ØÑª] [¼õÉË©€35%] \\c[31][»ìÔªÈëÌå]\\c[0]    \\c[14][×îÖÕÖÎÁÆĞ§¹ûÊÜ¶ÁÊéÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[å›è¡€] [å‡ä¼¤ï¹¢35%] \\c[31][æ··å…ƒå…¥ä½“]\\c[0]    \\c[14][æœ€ç»ˆæ²»ç–—æ•ˆæœå—è¯»ä¹¦å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -6898,7 +6898,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 3300,
-    "name": "Ì«ĞşÉñ¹¦",
+    "name": "å¤ªç„ç¥åŠŸ",
     "note": "<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -6921,14 +6921,14 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[ÉúÃüËğÉË] [ÎŞÊÓ·ÀÓùÁ¦]¡¡\\c[31][»ìÔª]\\c[0]      \\c[14][×îÖÕÉËº¦ÊÜ¶ÁÊéÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[ç”Ÿå‘½æŸä¼¤] [æ— è§†é˜²å¾¡åŠ›]ã€€\\c[31][æ··å…ƒ]\\c[0]      \\c[14][æœ€ç»ˆä¼¤å®³å—è¯»ä¹¦å½±å“]ã€€",
     "effects": [],
     "hitType": 1,
     "iconIndex": 221,
     "message1": "",
     "message2": "",
     "mpCost": 2600,
-    "name": "Ì«ĞşÉñÕÆ",
+    "name": "å¤ªç„ç¥æŒ",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 4\naction effect: opponents\nanimation wait: 11\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -6955,7 +6955,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -6981,7 +6981,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[10%È¼ÉÕ] [30%µãÑ¨]¡¡\\c[14][Ñô]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[10%ç‡ƒçƒ§] [30%ç‚¹ç©´]ã€€\\c[14][é˜³]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7001,7 +7001,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "ÎŞÏà½ÙÖ¸",
+    "name": "æ— ç›¸åŠ«æŒ‡",
     "note": "<Cooldown: 4>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7024,7 +7024,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[20%Ñ£ÔÎ] [20%·âÕĞ]¡¡\\c[14][Ñô]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ±ÛÁ¦Ó°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[20%çœ©æ™•] [20%å°æ‹›]ã€€\\c[14][é˜³]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—è‡‚åŠ›å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7044,7 +7044,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "ÈçÀ´ÉñÕÆ",
+    "name": "å¦‚æ¥ç¥æŒ",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 13\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7067,7 +7067,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[10%Á÷Ñª] [30%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[10%æµè¡€] [30%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7087,7 +7087,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "´ïÄ¦½£·¨",
+    "name": "è¾¾æ‘©å‰‘æ³•",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7110,7 +7110,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[30%È¼ÉÕ] [10%ÖØÉË]¡¡\\c[14][Ñô]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[30%ç‡ƒçƒ§] [10%é‡ä¼¤]ã€€\\c[14][é˜³]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7130,7 +7130,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "È¼Ä¾µ¶·¨",
+    "name": "ç‡ƒæœ¨åˆ€æ³•",
     "note": "<Cooldown: 4>\n<target action>\naction animation\nanimation wait: 6\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7153,7 +7153,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[30%Ñ£ÔÎ] [10%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[30%çœ©æ™•] [10%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7173,7 +7173,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "ÆĞÌá¹÷·¨",
+    "name": "è©ææ£æ³•",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7196,7 +7196,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[20%·âÕĞ] [20%Á÷Ñª]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]      \\c[14][×îÖÕÉËº¦ÊÜ¹¥»÷Á¦Ó°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[20%å°æ‹›] [20%æµè¡€]ã€€\\c[31][æ— å±æ€§]\\c[0]      \\c[14][æœ€ç»ˆä¼¤å®³å—æ”»å‡»åŠ›å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7216,7 +7216,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "Áú×¦ÊÖ",
+    "name": "é¾™çˆªæ‰‹",
     "note": "<Cooldown: 4>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7239,7 +7239,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[½â¾ç¶¾] [½âÈ¼ÉÕ]          \\c[14][×îÖÕÖÎÁÆĞ§¹ûÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[è§£å‰§æ¯’] [è§£ç‡ƒçƒ§]          \\c[14][æœ€ç»ˆæ²»ç–—æ•ˆæœå—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 22,
@@ -7259,7 +7259,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "ÉÙÑôÉñ¹¦",
+    "name": "å°‘é˜³ç¥åŠŸ",
     "note": "<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -7282,7 +7282,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[35%ÎüÑª] [20%·âÕĞ]¡¡\\c[31][»ìÔª]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÎòĞÔÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[35%å¸è¡€] [20%å°æ‹›]ã€€\\c[31][æ··å…ƒ]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ‚Ÿæ€§å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7296,7 +7296,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 420,
-    "name": "ôÂôÄ·üÄ§¹¦",
+    "name": "è¢ˆè£Ÿä¼é­”åŠŸ",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>\n<HP Life Steal: 35%>",
     "occasion": 1,
     "repeats": 1,
@@ -7323,7 +7323,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -7360,10 +7360,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹ÓÃÁË%1£¡",
+    "message1": "ä½¿ç”¨äº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¿×È¸ôá",
+    "name": "å­”é›€ç¿",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7400,7 +7400,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "±©ÓêÀæ»¨Õë",
+    "name": "æš´é›¨æ¢¨èŠ±é’ˆ",
     "note": "<Cooldown: 6>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 10\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nanimation wait: 3\naction effect: opponents\nanimation wait: 3\naction effect: opponents\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7434,10 +7434,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "±ÌÇåÕÆ",
+    "name": "ç¢§æ¸…æŒ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7480,7 +7480,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "µ¯Ö¸ÉñÍ¨",
+    "name": "å¼¹æŒ‡ç¥é€š",
     "note": "<Cooldown: 4>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 15\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7514,10 +7514,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ÂäÓ¢Éñ½£ÕÆ",
+    "name": "è½è‹±ç¥å‰‘æŒ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7551,10 +7551,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¸òó¡¹¦",
+    "name": "è›¤èŸ†åŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7577,7 +7577,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%ÖØÉË] [7%Ñ£ÔÎ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]      \\c[14][×îÖÕÉËº¦ÊÜÉúÃüÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[15%é‡ä¼¤] [7%çœ©æ™•]ã€€\\c[31][æ— å±æ€§]\\c[0]      \\c[14][æœ€ç»ˆä¼¤å®³å—ç”Ÿå‘½å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -7597,7 +7597,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 700,
-    "name": "ÆßÉËÈ­",
+    "name": "ä¸ƒä¼¤æ‹³",
     "note": "<Custom HP Cost>\nif(a.mhp>28000){\ncost +=a.mhp*0.01;\n}else{\ncost +=a.mhp*0.03;\n}\n</Custom HP Cost>\n<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 4\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7640,7 +7640,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "¿ñ·çµ¶·¨",
+    "name": "ç‹‚é£åˆ€æ³•",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect: opponents\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 4\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7674,10 +7674,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "Ãç¼Ò½£·¨",
+    "name": "è‹—å®¶å‰‘æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7720,7 +7720,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "ÂşÌì·É»¨",
+    "name": "æ¼«å¤©é£èŠ±",
     "note": "<Cooldown: 6>\n<target action>\njump user: 230, 20 \nanimation wait: 3\naction animation\naction effect\nanimation wait: 3\naction effect: opponents\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -7754,10 +7754,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "Í¨±ÛÈ­",
+    "name": "é€šè‡‚æ‹³",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7791,10 +7791,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¶áÃüÊ®Èı½£",
+    "name": "å¤ºå‘½åä¸‰å‰‘",
     "note": "",
     "occasion": 1,
     "repeats": 3,
@@ -7821,10 +7821,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¶Ï½ğµ¶·¨",
+    "name": "æ–­é‡‘åˆ€æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7851,10 +7851,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¿İÄ¾½£·¨",
+    "name": "æ¯æœ¨å‰‘æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7881,10 +7881,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "µ¯Ë®¹¦",
+    "name": "å¼¹æ°´åŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7911,10 +7911,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "»ğÔÆÕÆ",
+    "name": "ç«äº‘æŒ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7941,10 +7941,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ÁÑÍÁÈ­",
+    "name": "è£‚åœŸæ‹³",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -7978,10 +7978,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "´©ÔÆÖ¸",
+    "name": "ç©¿äº‘æŒ‡",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8015,10 +8015,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "½µÁú·ü»¢È­",
+    "name": "é™é¾™ä¼è™æ‹³",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8052,10 +8052,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¹éÔÆÃàÕÆ",
+    "name": "å½’äº‘ç»µæŒ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8089,10 +8089,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ĞşĞéÕÆ",
+    "name": "ç„è™šæŒ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8126,10 +8126,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "Ğ¡Àî·Éµ¶",
+    "name": "å°æé£åˆ€",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8163,10 +8163,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "Ìì²ÏË¿",
+    "name": "å¤©èš•ä¸",
     "note": "",
     "occasion": 1,
     "repeats": 2,
@@ -8200,10 +8200,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "²õÒíµ¶·¨",
+    "name": "è‰ç¿¼åˆ€æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8237,10 +8237,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ÕòÉ½½£·¨",
+    "name": "é•‡å±±å‰‘æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 3,
@@ -8274,10 +8274,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "°Ù»¨È­",
+    "name": "ç™¾èŠ±æ‹³",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8300,7 +8300,7 @@
       "type": 0,
       "variance": 0
     },
-    "description": "ÌØĞ§£º[¼õÉË+70%][ÉÁ±Ü+30%][±©»÷+30%]",
+    "description": "ç‰¹æ•ˆï¼š[å‡ä¼¤+70%][é—ªé¿+30%][æš´å‡»+30%]",
     "effects": [
       {
         "code": 21,
@@ -8311,10 +8311,10 @@
     ],
     "hitType": 0,
     "iconIndex": 333,
-    "message1": "Ê©Õ¹ÁË%1£¡",
+    "message1": "æ–½å±•äº†%1ï¼",
     "message2": "",
     "mpCost": 2800,
-    "name": "ÂŞºº·üÄ§¹¦",
+    "name": "ç½—æ±‰ä¼é­”åŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8354,10 +8354,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ÆßÏÒÎŞĞÎ½£",
+    "name": "ä¸ƒå¼¦æ— å½¢å‰‘",
     "note": "",
     "occasion": 1,
     "repeats": 3,
@@ -8391,10 +8391,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ĞşÌìÖ¸",
+    "name": "ç„å¤©æŒ‡",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8428,10 +8428,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "¹ÅÌû±Ê·¨",
+    "name": "å¤å¸–ç¬”æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8465,10 +8465,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ÆÃÄ«½£·¨",
+    "name": "æ³¼å¢¨å‰‘æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8495,10 +8495,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ó«òëÈ­",
+    "name": "è³è‚æ‹³",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8525,10 +8525,10 @@
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "ÃÍ»¢È­",
+    "name": "çŒ›è™æ‹³",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8562,10 +8562,10 @@
     ],
     "hitType": 0,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË¾øÕĞ [%1]£¡",
+    "message1": "ä½¿å‡ºäº†ç»æ‹› [%1]ï¼",
     "message2": "",
     "mpCost": 0,
-    "name": "Á÷ĞÇ½£·¨",
+    "name": "æµæ˜Ÿå‰‘æ³•",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8588,7 +8588,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[7%µãÑ¨]¡¡\\c[23][Òõ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[7%ç‚¹ç©´]ã€€\\c[23][é˜´]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -8602,7 +8602,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 200,
-    "name": "»ÃÒõÖ¸",
+    "name": "å¹»é˜´æŒ‡",
     "note": "<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\njump user: 140, 60 \nanimation wait: 8\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8625,7 +8625,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[7%ÆÆÕÀ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÎòĞÔÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[7%ç ´ç»½]ã€€\\c[31][æ— å±æ€§]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ‚Ÿæ€§å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -8639,7 +8639,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 200,
-    "name": "Ô½Å®½£·¨",
+    "name": "è¶Šå¥³å‰‘æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 9\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8662,7 +8662,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[7%¾ç¶¾]¡¡\\c[3][¶¾]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[7%å‰§æ¯’]ã€€\\c[3][æ¯’]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -8676,7 +8676,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 200,
-    "name": "ĞŞÂŞµ¶·¨",
+    "name": "ä¿®ç½—åˆ€æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8699,7 +8699,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%Ñ£ÔÎ] [20%ÆÆÕÀ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]        \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[20%çœ©æ™•] [20%ç ´ç»½]ã€€\\c[31][æ— å±æ€§]\\c[0]        \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -8719,7 +8719,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 700,
-    "name": "¿ñ·ç¿ì½£",
+    "name": "ç‹‚é£å¿«å‰‘",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 7\naction effect\nanimation wait: 7\naction effect\nanimation wait: 6\naction effect: \nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8742,7 +8742,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%ÖØÉË]¡¡\\c[31][»ìÔª]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ±ÛÁ¦Ó°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[10%é‡ä¼¤]ã€€\\c[31][æ··å…ƒ]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—è‡‚åŠ›å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -8756,7 +8756,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 200,
-    "name": "ó´Áú¹÷·¨",
+    "name": "èŸ é¾™æ£æ³•",
     "note": "<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 11\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8779,7 +8779,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[15%·âÕĞ] [15%ÖØÉË]¡¡\\c[3][¶¾]\\c[0]        \\c[14][×îÖÕÉËº¦ÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[15%å°æ‹›] [15%é‡ä¼¤]ã€€\\c[3][æ¯’]\\c[0]        \\c[14][æœ€ç»ˆä¼¤å®³å—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -8805,7 +8805,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 1200,
-    "name": "ĞşÚ¤ÉñÕÆ",
+    "name": "ç„å†¥ç¥æŒ",
     "note": "<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8828,7 +8828,7 @@
       "type": 1,
       "variance": 30
     },
-    "description": "×î´óÉËº¦£º[²»ÎÈ¶¨ÉËº¦]¡¡ÌØĞ§£º[15%ÖØÉË] [15%ÆÆÕÀ]",
+    "description": "æœ€å¤§ä¼¤å®³ï¼š[ä¸ç¨³å®šä¼¤å®³]ã€€ç‰¹æ•ˆï¼š[15%é‡ä¼¤] [15%ç ´ç»½]",
     "effects": [
       {
         "code": 21,
@@ -8845,10 +8845,10 @@
     ],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "Ê¹³öÁË%1£¡",
+    "message1": "ä½¿å‡ºäº†%1ï¼",
     "message2": "",
     "mpCost": 430,
-    "name": "ÎŞÓ°ÍÈ",
+    "name": "æ— å½±è…¿",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -8875,7 +8875,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -8908,7 +8908,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Ò°ÇòÈ­",
+    "name": "é‡çƒæ‹³",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -8938,7 +8938,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÉúÉúÔì»¯µ¤",
+    "name": "ç”Ÿç”Ÿé€ åŒ–ä¸¹",
     "note": "<Cooldown: 10>",
     "occasion": 1,
     "repeats": 1,
@@ -8968,7 +8968,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÆÕÍ¨¹¥»÷",
+    "name": "æ™®é€šæ”»å‡»",
     "note": "<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9005,7 +9005,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "ÃÔ»êµ¯",
+    "name": "è¿·é­‚å¼¹",
     "note": "<Cooldown: 3>\n<target action>\njump user: 230, 20 \nanimation wait: 4\naction animation\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9042,7 +9042,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "°µÆ÷",
+    "name": "æš—å™¨",
     "note": "<Cooldown: 3>\n<target action>\njump user: 230, 20 \nanimation wait: 4\naction animation\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9069,7 +9069,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -9095,7 +9095,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[\\c[31]»ìÔª\\c[0]¡¢\\c[31]ÎŞÊôĞÔ\\c[0]ÉËº¦µÖ¿¹©€80%]¡¡¡¡ÌØĞ§£º[Å­Æø©€25]",
+    "description": "çŠ¶æ€ï¼š[\\c[31]æ··å…ƒ\\c[0]ã€\\c[31]æ— å±æ€§\\c[0]ä¼¤å®³æŠµæŠ—ï¹¢80%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢25]",
     "effects": [
       {
         "code": 21,
@@ -9109,7 +9109,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "ÕæÔªÄı¾Û",
+    "name": "çœŸå…ƒå‡èš",
     "note": "<MP Cost: 7%>\n<Cooldown: 11>",
     "occasion": 1,
     "repeats": 1,
@@ -9132,7 +9132,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[\\c[3]¶¾\\c[0]¡¢\\c[23]Òõ\\c[0]¡¢\\c[14]Ñô\\c[0]ÉËº¦µÖ¿¹©€80%]¡¡¡¡ÌØĞ§£º[Å­Æø©€25]",
+    "description": "çŠ¶æ€ï¼š[\\c[3]æ¯’\\c[0]ã€\\c[23]é˜´\\c[0]ã€\\c[14]é˜³\\c[0]ä¼¤å®³æŠµæŠ—ï¹¢80%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢25]",
     "effects": [
       {
         "code": 21,
@@ -9146,7 +9146,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 15,
-    "name": "Í­Æ¤Ìú¹Ç",
+    "name": "é“œçš®é“éª¨",
     "note": "<MP Cost: 7%>\n<Cooldown: 11>",
     "occasion": 1,
     "repeats": 1,
@@ -9173,7 +9173,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -9213,7 +9213,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "Èı²Å½£·¨",
+    "name": "ä¸‰æ‰å‰‘æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 4\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9250,7 +9250,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "µØÌÃµ¶·¨",
+    "name": "åœ°å ‚åˆ€æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 6\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9280,7 +9280,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "²Î²İÄıÆøµ¤",
+    "name": "å‚è‰å‡æ°”ä¸¹",
     "note": "<Cooldown: 10>",
     "occasion": 1,
     "repeats": 1,
@@ -9329,7 +9329,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "Å£»Æ½â¶¾Íè",
+    "name": "ç‰›é»„è§£æ¯’ä¸¸",
     "note": "<Cooldown: 10>",
     "occasion": 1,
     "repeats": 1,
@@ -9366,7 +9366,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "»ØÌìµ¤",
+    "name": "å›å¤©ä¸¹",
     "note": "<Cooldown: 10>",
     "occasion": 1,
     "repeats": 1,
@@ -9389,7 +9389,7 @@
       "type": 0,
       "variance": 0
     },
-    "description": "×´Ì¬£º\\c[31][×´Ì¬ÖĞ¿ÉÊ¹\\c[23]¿ÕÃ÷È­\\c[31]Á¬Ğø³öÊÖÁ½´Î]\\c[0]¡¡¡¡ÌØĞ§£º[Å­Æø©€35]",
+    "description": "çŠ¶æ€ï¼š\\c[31][çŠ¶æ€ä¸­å¯ä½¿\\c[23]ç©ºæ˜æ‹³\\c[31]è¿ç»­å‡ºæ‰‹ä¸¤æ¬¡]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢35]",
     "effects": [
       {
         "code": 21,
@@ -9403,7 +9403,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "×óÓÒ»¥²«Êõ",
+    "name": "å·¦å³äº’ææœ¯",
     "note": "<MP Cost: 5%>\n<Cooldown: 11>",
     "occasion": 1,
     "repeats": 1,
@@ -9446,7 +9446,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 1000,
-    "name": "ÌìÂŞµØÍøÊÖ",
+    "name": "å¤©ç½—åœ°ç½‘æ‰‹",
     "note": "<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 12\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9513,7 +9513,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "ÁùÂöÉñ½£",
+    "name": "å…­è„‰ç¥å‰‘",
     "note": "<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9536,7 +9536,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[18%¾ç¶¾] [14%ÆÆÕÀ]¡¡\\c[3][¶¾]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ¶¾ÊõÓ°Ïì]¡¡¡¡¡¡¡¡¡¡",
+    "description": "ç‰¹æ•ˆï¼š[18%å‰§æ¯’] [14%ç ´ç»½]ã€€\\c[3][æ¯’]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ¯’æœ¯å½±å“]ã€€ã€€ã€€ã€€ã€€",
     "effects": [
       {
         "code": 21,
@@ -9556,7 +9556,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 2100,
-    "name": "ÈıÎŞÈı²»ÊÖ",
+    "name": "ä¸‰æ— ä¸‰ä¸æ‰‹",
     "note": "<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 4\naction effect\nanimation wait: 4\naction effect\nanimation wait: 12\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9593,7 +9593,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 100,
-    "name": "¿ªÉ½¹÷·¨",
+    "name": "å¼€å±±æ£æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 4\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9630,7 +9630,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 200,
-    "name": "ÃàÕÆ",
+    "name": "ç»µæŒ",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 4\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9657,7 +9657,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -9697,7 +9697,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "Îå¶¾µ¶·¨",
+    "name": "äº”æ¯’åˆ€æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9734,7 +9734,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 200,
-    "name": "Ä¾ÈËÈ­",
+    "name": "æœ¨äººæ‹³",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 40\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9807,7 +9807,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "°ËØÔÓÎÁúÕÆ",
+    "name": "å…«å¦æ¸¸é¾™æŒ",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9850,7 +9850,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "åĞÒ£Ê®Èı½£",
+    "name": "é€é¥åä¸‰å‰‘",
     "note": "<Cooldown: 6>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nanimation wait: 3\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -9967,7 +9967,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -9993,7 +9993,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%ÆÆÕÀ] [25%Á÷Ñª]¡¡\\c[23][Òõ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜ¸ù¹ÇÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[25%ç ´ç»½] [25%æµè¡€]ã€€\\c[23][é˜´]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ ¹éª¨å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -10013,7 +10013,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 880,
-    "name": "ĞşÓ°½£·¨",
+    "name": "ç„å½±å‰‘æ³•",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10036,7 +10036,7 @@
       "type": 3,
       "variance": 10
     },
-    "description": "ÌØĞ§£º[µ¥Ìå»Ö¸´Ê©Õ¹Õß×î´óÉúÃü©€20%]¡¡[Å­Æø©€15]¡¡[½â·âÄÚ]",
+    "description": "ç‰¹æ•ˆï¼š[å•ä½“æ¢å¤æ–½å±•è€…æœ€å¤§ç”Ÿå‘½ï¹¢20%]ã€€[æ€’æ°”ï¹¢15]ã€€[è§£å°å†…]",
     "effects": [
       {
         "code": 22,
@@ -10056,7 +10056,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 580,
-    "name": "Õë¾ÄÊõ",
+    "name": "é’ˆç¸æœ¯",
     "note": "<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -10086,7 +10086,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 580,
-    "name": "±ùÆÇÒøÕë¡¤µØÍ¼",
+    "name": "å†°é­„é“¶é’ˆÂ·åœ°å›¾",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -10129,7 +10129,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "º×Éß°Ë´ò",
+    "name": "é¹¤è›‡å…«æ‰“",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 1\naction effect\nanimation wait: 7\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10166,7 +10166,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÈÌ¡¤ÊÖÀï½£",
+    "name": "å¿Â·æ‰‹é‡Œå‰‘",
     "note": "<Cooldown: 3>\n<target action>\njump user: 230, 20 \nanimation wait: 4\naction animation\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10209,7 +10209,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÈÌ¡¤¶şµ¶Á÷",
+    "name": "å¿Â·äºŒåˆ€æµ",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10264,7 +10264,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 265,
-    "name": "ÁéÏ¬Ò»Ö¸",
+    "name": "çµçŠ€ä¸€æŒ‡",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10291,7 +10291,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -10317,7 +10317,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[20%µãÑ¨] [20%ÆÆÕÀ]¡¡\\c[31][ÎŞÊôĞÔ]\\c[0]        \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[20%ç‚¹ç©´] [20%ç ´ç»½]ã€€\\c[31][æ— å±æ€§]\\c[0]        \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -10337,7 +10337,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 700,
-    "name": "ÎåÔÀ½£·¨",
+    "name": "äº”å²³å‰‘æ³•",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10380,7 +10380,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¾ÅÒõÉñ×¦",
+    "name": "ä¹é˜´ç¥çˆª",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(150)*165;\n</Custom MP Cost>\n<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nanimation wait: 8\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10423,7 +10423,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¾ÅÒõÕæÆø",
+    "name": "ä¹é˜´çœŸæ°”",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10466,7 +10466,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 500,
-    "name": "¾ÅÒõÕæ¾­",
+    "name": "ä¹é˜´çœŸç»",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -10489,7 +10489,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÏûºÄÉúÃüÎªÄ¿±ê»ñµÃÒ»´Î»¤¼İµÄ»ú»á]¡¡[Å­Æø©€10]",
+    "description": "ç‰¹æ•ˆï¼š[æ¶ˆè€—ç”Ÿå‘½ä¸ºç›®æ ‡è·å¾—ä¸€æ¬¡æŠ¤é©¾çš„æœºä¼š]ã€€[æ€’æ°”ï¹¢10]",
     "effects": [
       {
         "code": 21,
@@ -10503,7 +10503,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "»¤¼İ",
+    "name": "æŠ¤é©¾",
     "note": "<HP Cost: 6%>\n<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nmotion standby: user\nwait for movement\nface user: forward\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10530,7 +10530,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -10570,7 +10570,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "Åùö¨ÊÖ",
+    "name": "éœ¹é›³æ‰‹",
     "note": "<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: opponents\nanimation wait: 5\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -10607,7 +10607,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 500,
-    "name": "»ìÔª¹¦",
+    "name": "æ··å…ƒåŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10644,7 +10644,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 500,
-    "name": "»ìÔª¹¦",
+    "name": "æ··å…ƒåŠŸ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -10671,7 +10671,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -10711,7 +10711,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÔæºË¶¤",
+    "name": "æ£æ ¸é’‰",
     "note": "<Cooldown: 3>",
     "occasion": 1,
     "repeats": 1,
@@ -10754,7 +10754,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "¿ÚÍÂÁ«»¨",
+    "name": "å£åè²èŠ±",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -10781,7 +10781,7 @@
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
-    "message1": "µÄ¹¥»÷£¡",
+    "message1": "çš„æ”»å‡»ï¼",
     "message2": "",
     "mpCost": 0,
     "name": "-------------------",
@@ -10814,7 +10814,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤ÖĞ¶¾",
+    "name": "[çŠ¶æ€]Â·ä¸­æ¯’",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -10844,7 +10844,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤¾ç¶¾",
+    "name": "[çŠ¶æ€]Â·å‰§æ¯’",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -10874,7 +10874,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤ÃÍ¶¾",
+    "name": "[çŠ¶æ€]Â·çŒ›æ¯’",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -10904,7 +10904,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤Á÷Ñª",
+    "name": "[çŠ¶æ€]Â·æµè¡€",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -10934,7 +10934,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤È¼ÉÕ",
+    "name": "[çŠ¶æ€]Â·ç‡ƒçƒ§",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -10964,7 +10964,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤ÄÚÁ¦Á÷Ê§",
+    "name": "[çŠ¶æ€]Â·å†…åŠ›æµå¤±",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -10994,7 +10994,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "[×´Ì¬]¡¤³ÖĞø»ØÑª",
+    "name": "[çŠ¶æ€]Â·æŒç»­å›è¡€",
     "note": "",
     "occasion": 0,
     "repeats": 1,
@@ -11127,7 +11127,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 400,
-    "name": "±¯ËÖÇå·ç",
+    "name": "æ‚²é…¥æ¸…é£",
     "note": "<Cooldown: 4>",
     "occasion": 1,
     "repeats": 1,
@@ -11164,7 +11164,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "Ê¨ºğ¹¦",
+    "name": "ç‹®å¼åŠŸ",
     "note": "<Cooldown: 6>\n",
     "occasion": 1,
     "repeats": 1,
@@ -11207,7 +11207,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "ÔÀ¼Ò°ÔÍõÇ¹",
+    "name": "å²³å®¶éœ¸ç‹æª",
     "note": "<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect: opponents\nanimation wait: 4\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11250,7 +11250,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÔÀ¼ÒÈ­",
+    "name": "å²³å®¶æ‹³",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 5\naction effect\nanimation wait: 5\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11293,7 +11293,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "öùÓãÇ¯",
+    "name": "é³„é±¼é’³",
     "note": "<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 1\naction effect\nanimation wait: 9\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11316,7 +11316,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[25%·âÕĞ] \\c[31][½£Æø]\\c[0]¡¡\\c[23][Òõ]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[25%å°æ‹›] \\c[31][å‰‘æ°”]\\c[0]ã€€\\c[23][é˜´]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -11336,7 +11336,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "¶Î¼Ò½£",
+    "name": "æ®µå®¶å‰‘",
     "note": "<Cooldown: 2>\n<target action>\njump user: 230, 20 \nanimation wait: 4\naction animation\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11379,7 +11379,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÁøÒ¶µ¶·¨",
+    "name": "æŸ³å¶åˆ€æ³•",
     "note": "<Cooldown: 3>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nanimation wait: 3\naction effect\nanimation wait: 9\naction effect\nanimation wait: 6\naction effect: opponents\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11416,7 +11416,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 800,
-    "name": "¸¹Óï¹¦",
+    "name": "è…¹è¯­åŠŸ",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -11439,7 +11439,7 @@
       "type": 1,
       "variance": 15
     },
-    "description": "ÌØĞ§£º[20%¾ç¶¾] [20%µãÑ¨]¡¡\\c[3][¶¾]\\c[0]          \\c[14][×îÖÕÉËº¦ÊÜÃô½İÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[20%å‰§æ¯’] [20%ç‚¹ç©´]ã€€\\c[3][æ¯’]\\c[0]          \\c[14][æœ€ç»ˆä¼¤å®³å—æ•æ·å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -11459,7 +11459,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "½ğÉß×¶",
+    "name": "é‡‘è›‡é”¥",
     "note": "<Cooldown: 4>\n<target action>\njump user: 230, 20 \nanimation wait: 4\naction animation\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11482,7 +11482,7 @@
       "type": 3,
       "variance": 5
     },
-    "description": "ÌØĞ§£º[¼õ¶¾ÉË©€85%] [ÈºÌå»ØÑª]         \\c[14][×îÖÕÖÎÁÆĞ§¹ûÊÜÎòĞÔÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[å‡æ¯’ä¼¤ï¹¢85%] [ç¾¤ä½“å›è¡€]         \\c[14][æœ€ç»ˆæ²»ç–—æ•ˆæœå—æ‚Ÿæ€§å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -11496,7 +11496,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 1600,
-    "name": "åĞÒ£»¤ĞÄ·¨",
+    "name": "é€é¥æŠ¤å¿ƒæ³•",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -11579,7 +11579,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "×´Ì¬£º[ÉÁ±ÜÂÊ©10%]  [40%Á÷Ñª]¡¡¡¡ÌØĞ§£º[Å­Æø©€15]",
+    "description": "çŠ¶æ€ï¼š[é—ªé¿ç‡ï¹£10%]  [40%æµè¡€]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢15]",
     "effects": [
       {
         "code": 21,
@@ -11599,7 +11599,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "¼âÇ¹",
+    "name": "å°–æª",
     "note": "<MP Cost: 5%>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11622,7 +11622,7 @@
       "type": 1,
       "variance": 10
     },
-    "description": "×´Ì¬£º[ËùÓĞÊôĞÔ©10%]¡¡¡¡ÌØĞ§£º[Å­Æø©€15]",
+    "description": "çŠ¶æ€ï¼š[æ‰€æœ‰å±æ€§ï¹£10%]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢15]",
     "effects": [
       {
         "code": 21,
@@ -11636,7 +11636,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "ÆÆµ¨",
+    "name": "ç ´èƒ†",
     "note": "<MP Cost: 5%>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11659,7 +11659,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "ÌØĞ§£º[ÉÁ±Ü©€30%] [¼õÒõÉË©€30%]",
+    "description": "ç‰¹æ•ˆï¼š[é—ªé¿ï¹¢30%] [å‡é˜´ä¼¤ï¹¢30%]",
     "effects": [
       {
         "code": 21,
@@ -11673,7 +11673,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 720,
-    "name": "Ë®ÉÏÆ¯",
+    "name": "æ°´ä¸Šæ¼‚",
     "note": "<Cooldown: 8>",
     "occasion": 1,
     "repeats": 1,
@@ -11696,7 +11696,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "×´Ì¬£º\\c[31][¶ÔµĞÈËÔì³ÉÉËº¦²¢¸üÈİÒ×ÃüÖĞ±ê¼ÇµÄÄ¿±ê]\\c[0]¡¡¡¡ÌØĞ§£º[Å­Æø©€10]",
+    "description": "çŠ¶æ€ï¼š\\c[31][å¯¹æ•Œäººé€ æˆä¼¤å®³å¹¶æ›´å®¹æ˜“å‘½ä¸­æ ‡è®°çš„ç›®æ ‡]\\c[0]ã€€ã€€ç‰¹æ•ˆï¼š[æ€’æ°”ï¹¢10]",
     "effects": [
       {
         "code": 21,
@@ -11710,7 +11710,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 850,
-    "name": "»Óµ¶",
+    "name": "æŒ¥åˆ€",
     "note": "<HP Cost: 550>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11733,7 +11733,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[10%·âÕĞ] [10%µãÑ¨]¡¡\\c[31][»ìÔª]\\c[0]        \\c[14][×îÖÕÉËº¦ÊÜÎòĞÔÓ°Ïì]¡¡",
+    "description": "ç‰¹æ•ˆï¼š[10%å°æ‹›] [10%ç‚¹ç©´]ã€€\\c[31][æ··å…ƒ]\\c[0]        \\c[14][æœ€ç»ˆä¼¤å®³å—æ‚Ÿæ€§å½±å“]ã€€",
     "effects": [
       {
         "code": 21,
@@ -11753,7 +11753,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 480,
-    "name": "ÌÆÊ«½£·¨",
+    "name": "å”è¯—å‰‘æ³•",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect: \nanimation wait: 3\naction effect: \nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11776,7 +11776,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[17%Ñ£ÔÎ] [14%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[17%çœ©æ™•] [14%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -11796,7 +11796,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 245,
-    "name": "´ò¹·°ô·¨",
+    "name": "æ‰“ç‹—æ£’æ³•",
     "note": "<Custom MP Cost>\ncost +=$gameVariables.value(147)*195;\n</Custom MP Cost>\n<Cooldown: 6>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 3\naction effect: opponents\nanimation wait: 3\naction effect: opponents\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11819,7 +11819,7 @@
       "type": 1,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[17%Ñ£ÔÎ] [14%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[17%çœ©æ™•] [14%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 21,
@@ -11839,7 +11839,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 1,
-    "name": "°µÉ±",
+    "name": "æš—æ€",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -11862,7 +11862,7 @@
       "type": 3,
       "variance": 8
     },
-    "description": "ÌØĞ§£º[17%Ñ£ÔÎ] [14%ÆÆÕÀ]¡¡\\c[14][Ñô]\\c[0]¡¡¡¡¡¡¡¡µÈ¼¶£º\\V[150] [\\V[151]/\\V[152]]",
+    "description": "ç‰¹æ•ˆï¼š[17%çœ©æ™•] [14%ç ´ç»½]ã€€\\c[14][é˜³]\\c[0]ã€€ã€€ã€€ã€€ç­‰çº§ï¼š\\V[150] [\\V[151]/\\V[152]]",
     "effects": [
       {
         "code": 13,
@@ -11882,7 +11882,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 1,
-    "name": "ÖÎÓú",
+    "name": "æ²»æ„ˆ",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -11925,7 +11925,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "»ğï¥",
+    "name": "ç«é“³",
     "note": "<Cooldown: 3>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11962,7 +11962,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "¿û»¨µãÑ¨ÊÖ",
+    "name": "è‘µèŠ±ç‚¹ç©´æ‰‹",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -11999,7 +11999,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÄıÑªÉñ×¦",
+    "name": "å‡è¡€ç¥çˆª",
     "note": "<Cooldown: 2>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 8\naction effect\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -12042,7 +12042,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "ÃÍ»¢ÇÜÄÃÊÖ",
+    "name": "çŒ›è™æ“’æ‹¿æ‰‹",
     "note": "<Cooldown: 3>\n<target action>\nmove user: target, front base, 20\nwait for movement\nmotion swing: user\naction animation\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -12079,7 +12079,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 0,
-    "name": "×óÓÒ»¥²«Êõ",
+    "name": "å·¦å³äº’ææœ¯",
     "note": "",
     "occasion": 1,
     "repeats": 1,
@@ -12116,7 +12116,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "Ê¥»ğÁî",
+    "name": "åœ£ç«ä»¤",
     "note": "<Cooldown: 6>\n<target action>\njump user: 230, 20 \nanimation wait: 9\naction animation\naction effect\nwait for animation\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -12153,7 +12153,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 800,
-    "name": "Ê¥»ğÉñ¹¦",
+    "name": "åœ£ç«ç¥åŠŸ",
     "note": "<Cooldown: 6>",
     "occasion": 1,
     "repeats": 1,
@@ -12190,7 +12190,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 600,
-    "name": "ÉñÎä´óÅÚ",
+    "name": "ç¥æ­¦å¤§ç‚®",
     "note": "<Cooldown: 6>\n<target action>\nmotion swing: user\naction animation\nanimation wait: 8\naction effect: opponents\nanimation wait: 20\n</target action>",
     "occasion": 1,
     "repeats": 1,
@@ -12227,7 +12227,7 @@
     "message1": "",
     "message2": "",
     "mpCost": 300,
-    "name": "Îäµ±ËÉÏÂ·ç",
+    "name": "æ­¦å½“æ¾ä¸‹é£",
     "note": "<Cooldown: 4>\n<target action>\ncamera focus: user, base, 30\nzoom: 1.1, 10\nwait for zoom\nwait for camera\nmove user: target, front base, 40\nmotion standby: user\nwait for movement\nmotion swing: user\naction animation\nanimation wait: 6\naction effect: opponents\nanimation wait: 13\naction effect\nanimation wait: 3\naction effect\nanimation wait: 3\naction effect\nwait for animation\nmove user: home, 20\nwait for movement\nzoom: 1, 10\nwait for zoom\nreset camera: 30\nwait for camera\n</target action>",
     "occasion": 1,
     "repeats": 1,

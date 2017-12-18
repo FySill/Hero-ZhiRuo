@@ -1,4 +1,4 @@
-[
+ï»¿[
   null,
   {
     "id": 1,
@@ -53,10 +53,10 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Íæ¼Ò[ÄĞ]",
-    "nickname": "¡¾³ÆºÅ¡¿",
+    "name": "ç©å®¶[ç”·]",
+    "nickname": "ã€ç§°å·ã€‘",
     "note": "",
-    "profile": "ÄêÁä£º\\V[15] Ëê"
+    "profile": "å¹´é¾„ï¼š\\V[15] å²"
   },
   {
     "id": 2,
@@ -111,8 +111,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Íæ¼Ò[Å®]",
-    "nickname": "¡¾ÄÑ¶È¡¿",
+    "name": "ç©å®¶[å¥³]",
+    "nickname": "ã€éš¾åº¦ã€‘",
     "note": "",
     "profile": ""
   },
@@ -169,8 +169,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾Ö°Î»¡¿",
-    "nickname": "¡¾Ö°Î»¡¿",
+    "name": "ã€èŒä½ã€‘",
+    "nickname": "ã€èŒä½ã€‘",
     "note": "",
     "profile": ""
   },
@@ -227,8 +227,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾Îä¹¦¡¿",
-    "nickname": "¡¾Îä¹¦¡¿",
+    "name": "ã€æ­¦åŠŸã€‘",
+    "nickname": "ã€æ­¦åŠŸã€‘",
     "note": "",
     "profile": ""
   },
@@ -285,8 +285,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾¼¼ÒÕ¡¿",
-    "nickname": "¡¾¼¼ÒÕ¡¿",
+    "name": "ã€æŠ€è‰ºã€‘",
+    "nickname": "ã€æŠ€è‰ºã€‘",
     "note": "",
     "profile": ""
   },
@@ -343,8 +343,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾ÃÅÅÉ¡¿",
-    "nickname": "¡¾ÃÅÅÉ¡¿",
+    "name": "ã€é—¨æ´¾ã€‘",
+    "nickname": "ã€é—¨æ´¾ã€‘",
     "note": "",
     "profile": ""
   },
@@ -401,8 +401,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾¹Ø¼ü´Ê¡¿",
-    "nickname": "¡¾¹Ø¼ü´Ê¡¿",
+    "name": "ã€å…³é”®è¯ã€‘",
+    "nickname": "ã€å…³é”®è¯ã€‘",
     "note": "",
     "profile": ""
   },
@@ -459,8 +459,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾»ù´¡Îä¹¦¡¿",
-    "nickname": "¡¾»ù´¡Îä¹¦¡¿",
+    "name": "ã€åŸºç¡€æ­¦åŠŸã€‘",
+    "nickname": "ã€åŸºç¡€æ­¦åŠŸã€‘",
     "note": "",
     "profile": ""
   },
@@ -517,8 +517,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾Êı×Ö¡¿",
-    "nickname": "¡¾Êı×Ö¡¿",
+    "name": "ã€æ•°å­—ã€‘",
+    "nickname": "ã€æ•°å­—ã€‘",
     "note": "",
     "profile": ""
   },
@@ -575,8 +575,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾ÊôĞÔ¡¿",
-    "nickname": "¡¾ÊôĞÔ¡¿",
+    "name": "ã€å±æ€§ã€‘",
+    "nickname": "ã€å±æ€§ã€‘",
     "note": "",
     "profile": ""
   },
@@ -633,8 +633,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾ÎÄ±¾¡¿",
-    "nickname": "¡¾ÎÄ±¾¡¿",
+    "name": "ã€æ–‡æœ¬ã€‘",
+    "nickname": "ã€æ–‡æœ¬ã€‘",
     "note": "",
     "profile": ""
   },
@@ -691,8 +691,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¡¾¶Ô»°¡¿",
-    "nickname": "¡¾¶Ô»°¡¿",
+    "name": "ã€å¯¹è¯ã€‘",
+    "nickname": "ã€å¯¹è¯ã€‘",
     "note": "",
     "profile": ""
   },
@@ -749,7 +749,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "ÁéğÕµÜ×Ó",
+    "name": "çµé¹«å¼Ÿå­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -807,7 +807,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "ÈÕÔÂµÜ×Ó",
+    "name": "æ—¥æœˆå¼Ÿå­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -865,7 +865,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "åĞÒ£µÜ×Ó",
+    "name": "é€é¥å¼Ÿå­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -940,10 +940,10 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "»ªÉ½Å®×Ó",
-    "nickname": "[½­ºşĞ¡ÏºÃ×]",
+    "name": "åå±±å¥³å­",
+    "nickname": "[æ±Ÿæ¹–å°è™¾ç±³]",
     "note": "",
-    "profile": "ÄêÁä£º14 Ëê"
+    "profile": "å¹´é¾„ï¼š14 å²"
   },
   {
     "id": 18,
@@ -998,7 +998,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Îäµ±Å®×Ó",
+    "name": "æ­¦å½“å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1056,7 +1056,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "È«ÕæÅ®×Ó",
+    "name": "å…¨çœŸå¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1114,7 +1114,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Ø¤°ïÅ®×Ó",
+    "name": "ä¸å¸®å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1172,7 +1172,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Ñªµ¶Å®×Ó",
+    "name": "è¡€åˆ€å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1230,7 +1230,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Ñ©É½Å®×Ó",
+    "name": "é›ªå±±å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1288,7 +1288,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "¹ÅÄ¹Å®×Ó",
+    "name": "å¤å¢“å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1346,7 +1346,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "ĞÇËŞÅ®×Ó",
+    "name": "æ˜Ÿå®¿å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1404,7 +1404,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "ÁéğÕÅ®×Ó",
+    "name": "çµé¹«å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1462,7 +1462,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "ÈÕÔÂÅ®×Ó",
+    "name": "æ—¥æœˆå¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1520,7 +1520,7 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "åĞÒ£Å®×Ó",
+    "name": "é€é¥å¥³å­",
     "nickname": "",
     "note": "",
     "profile": ""
@@ -1595,8 +1595,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "µûÎè",
-    "nickname": "¶ÓÓÑ",
+    "name": "è¶èˆ",
+    "nickname": "é˜Ÿå‹",
     "note": "",
     "profile": ""
   },
@@ -1653,8 +1653,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Ñà¹Â»ê",
-    "nickname": "¶ÓÓÑ",
+    "name": "ç‡•å­¤é­‚",
+    "nickname": "é˜Ÿå‹",
     "note": "",
     "profile": ""
   },
@@ -1711,8 +1711,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "Â½½£º®",
-    "nickname": "¶ÓÓÑ",
+    "name": "é™†å‰‘å¯’",
+    "nickname": "é˜Ÿå‹",
     "note": "",
     "profile": ""
   },
@@ -1769,8 +1769,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "³ÌæÌ",
-    "nickname": "¶ÓÓÑ",
+    "name": "ç¨‹å«£",
+    "nickname": "é˜Ÿå‹",
     "note": "",
     "profile": ""
   },
@@ -1827,8 +1827,8 @@
     ],
     "initialLevel": 1,
     "maxLevel": 1,
-    "name": "ãåÁ¯Ğ¾",
-    "nickname": "¶ÓÓÑ",
+    "name": "æ²æ€œèŠ¯",
+    "nickname": "é˜Ÿå‹",
     "note": "",
     "profile": ""
   },
