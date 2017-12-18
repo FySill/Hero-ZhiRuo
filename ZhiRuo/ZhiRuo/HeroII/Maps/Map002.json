@@ -1,0 +1,2098 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "BT_1",
+  "battleback2Name": "Brick",
+  "bgm": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "disableDashing": false,
+  "displayName": "家",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "!BG_A1_1_xiao",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": true,
+  "tilesetId": 1,
+  "width": 20,
+  "data": [ 4355, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 4354, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4352, 4356, 4361, 4364, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4356, 4353, 4356, 4361, 4364, 4353, 4356, 4403, 4406, 4353, 4352, 0, 4367, 0, 0, 4353, 4352, 4352, 4352, 4353, 4356, 4352, 4365, 4407, 4407, 4361, 4364, 4401, 4404, 4353, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4361, 4364, 4407, 4405, 4405, 4403, 4406, 4405, 4413, 4353, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4356, 4411, 4414, 4405, 4405, 4413, 4409, 4413, 4413, 4359, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4352, 4355, 4358, 4413, 4413, 4355, 4354, 4354, 4358, 4357, 4352, 4352, 0, 0, 0, 0, 4353, 4352, 4352, 4352, 4353, 4353, 4356, 4355, 4358, 4357, 4353, 4352, 4352, 4352, 4352, 4352, 0, 0, 0, 0, 4361, 4360, 4360, 4360, 4360, 4360, 4360, 4364, 4361, 4364, 4361, 4360, 4360, 4364, 4361, 4360, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "操作模式",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 3,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [ 3, 3, 0 ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [ "A", 0 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 3,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 24 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 2,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 23 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "name": "入口",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name:芦溪村,1>" ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [ 0, 1, 39, 13, 0, 0 ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [ 341, 341, 0 ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "此处偏僻人烟稀少，不知道有没有\\c[14]村长\\c[0]可以打听一下消息。" ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [ "A", 0 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 30 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 41 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name:芦溪村,1>" ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [ 0, 1, 39, 13, 0, 0 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 30 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 41 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 13,
+      "y": 9
+    },
+    {
+      "id": 3,
+      "name": "密码箱",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [ 1, 57, 0, 13, 0 ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [ 1, 6, 0, 800, 4 ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [ 79, 79, 0, 0, 35 ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [ 59 ]
+            },
+            {
+              "code": 108,
+              "indent": 2,
+              "parameters": [ "密码箱的密码提示" ]
+            },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [
+                [ "好", "算了" ],
+                1,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [ 0, "好" ]
+            },
+            {
+              "code": 103,
+              "indent": 3,
+              "parameters": [ 98, 3 ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [ "", 0, 0, 1 ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "                          你输入的密码为【\\V[98]】" ]
+            },
+            {
+              "code": 111,
+              "indent": 3,
+              "parameters": [ 1, 98, 0, 134, 0 ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "Actor2", 5, 0, 1 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "                  \\c[10]密码正确  " ]
+            },
+            {
+              "code": 117,
+              "indent": 4,
+              "parameters": [ 35 ]
+            },
+            {
+              "code": 117,
+              "indent": 4,
+              "parameters": [ 39 ]
+            },
+            {
+              "code": 128,
+              "indent": 4,
+              "parameters": [ 45, 0, 0, 1, false ]
+            },
+            {
+              "code": 126,
+              "indent": 4,
+              "parameters": [ 15, 0, 0, 1 ]
+            },
+            {
+              "code": 126,
+              "indent": 4,
+              "parameters": [ 17, 0, 0, 1 ]
+            },
+            {
+              "code": 126,
+              "indent": 4,
+              "parameters": [ 20, 0, 0, 1 ]
+            },
+            {
+              "code": 126,
+              "indent": 4,
+              "parameters": [ 19, 0, 0, 1 ]
+            },
+            {
+              "code": 127,
+              "indent": 4,
+              "parameters": [ 102, 0, 0, 1, false ]
+            },
+            {
+              "code": 127,
+              "indent": 4,
+              "parameters": [ 101, 0, 0, 1, false ]
+            },
+            {
+              "code": 127,
+              "indent": 4,
+              "parameters": [ 112, 0, 0, 1, false ]
+            },
+            {
+              "code": 126,
+              "indent": 4,
+              "parameters": [ 100, 0, 0, 1000 ]
+            },
+            {
+              "code": 125,
+              "indent": 4,
+              "parameters": [ 0, 0, 1000 ]
+            },
+            {
+              "code": 230,
+              "indent": 4,
+              "parameters": [ 60 ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "即便是新手，我也要加油！" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "有不懂的，我可以去群里问问高手前辈们。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 0, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "           \\c[14]QQ讨论群：\\c[0] 462088639 ，\\c[14]微信公众平台：\\c[0] LairDodox 。" ]
+            },
+            {
+              "code": 123,
+              "indent": 4,
+              "parameters": [ "A", 0 ]
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "Actor2", 5, 0, 1 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "           \\c[10]密码错误，宝箱锁死了！" ]
+            },
+            {
+              "code": 123,
+              "indent": 4,
+              "parameters": [ "B", 0 ]
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [ 1, "算了" ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [ "Actor2", 5, 0, 1 ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "            \\c[10]自毁启动，宝箱锁死了！" ]
+            },
+            {
+              "code": 123,
+              "indent": 3,
+              "parameters": [ "B", 0 ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 2,
+              "parameters": [ "Actor2", 5, 0, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": [ "    你\\c[5]生活经验\\c[0]超过800，已经不属于新手了。" ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [ "Actor2", 5, 0, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [ "    你已经加入\\c[5]门派\\c[0]，此宝箱不适合你使用。" ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 7 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 13,
+      "y": 6
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 11,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "哎呀！这样的出场方式我很喜欢，至少不用担心没地方住了。 " ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "虽然目前破破烂烂，我相信只要努力一定可以在这里扬名立万。 " ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 80, 80, 0, 0, 1 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 1 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 26 ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "Actor2", 5, 0, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "     \\c[8]面对陌生的环境，还是先来熟悉一下。" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "   " ]
+            },
+            {
+              "code": 118,
+              "indent": 0,
+              "parameters": [ "没记住" ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [ 31, "jx_1", 0, 0, 0, 0, 100, 100, 255, 0 ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [ 180 ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [ 31 ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [ 31, "jx_2", 0, 0, 0, 0, 100, 100, 255, 0 ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [ 180 ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [ 31 ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [ 31, "jx_3", 0, 0, 0, 0, 100, 100, 255, 0 ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [ 180 ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [ 31 ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [ 31, "jx_4", 0, 0, 0, 0, 100, 100, 255, 0 ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [ 180 ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [ 31 ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [ 31, "jx_5", 0, 0, 0, 0, 100, 100, 255, 0 ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [ 180 ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [ 31 ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "跟之前的\\c[6]《英雄群侠传》\\c[0]比起来，想不到竟然有这么大的变化啊！ " ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 11 ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [ 31, "JX_aniu", 0, 0, 0, 0, 100, 100, 255, 0 ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [ 600 ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [ 31 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 10 ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "Actor2", 5, 0, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "            \\c[14]这些操作都记住了吗？\\c[0]" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "   " ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [ "没记住", "记住了" ],
+                1,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [ 0, "没记住" ]
+            },
+            {
+              "code": 119,
+              "indent": 1,
+              "parameters": [ "没记住" ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [ 1, "记住了" ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "好的！学会了这些基本操作，我终于可以闯荡江湖去了！ " ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [ "A", 0 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 247, 247, 0, 0, 50 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 244, 244, 0, 0, 50 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 1,
+      "y": 0
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 2,
+            "pattern": 2,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 126,
+              "indent": 0,
+              "parameters": [ 98, 0, 0, 1 ]
+            },
+            {
+              "code": 123,
+              "indent": 0,
+              "parameters": [ "A", 0 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 80, 80, 0, 0, 1 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 1 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 26 ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "这本\\c[6]《江湖宝典》\\c[0]怎么会放在如此显眼之处？" ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "一定是留给我的，看来很重要。" ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "初来此地人生地不熟的，最好还是先阅读一下这本\\c[6]《江湖宝典》\\c[0]！ " ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "正所谓读万卷书行万里路，多读书是可以避免少走弯路的。" ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "我还是先把书放进背包里吧。" ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [ "在菜单中的\\c[14]物品\\c[0]里可以随时打开\\c[6]《江湖宝典》\\c[0]进行阅读。" ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 7
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 32 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 6,
+      "y": 8
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name:床,3>" ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 5,
+      "y": 7
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 2 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 97 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 11,
+      "y": 7
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name:鱼汤,2>" ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 11,
+      "y": 6
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$NPC_B4_Xiao",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name: 反贼, 1>" ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 2 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 89 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 9,
+      "y": 7
+    },
+    {
+      "id": 11,
+      "name": "EV011",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 79, 79, 0, 0, 8 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 91 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 8
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$BUD_C1_Xiao",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 11
+    }
+  ]
+}

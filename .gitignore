@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/save283.rar
+
+/**/.vs/**/
+/**/bin
+/**/*.csproj.user
+/**/obj/Debug
+/**/packages/**/
+/**/obj/Release
+/**/剧本创作工具.exe
+*.pubxml

@@ -1,0 +1,2162 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "BT_3",
+  "battleback2Name": "Brick",
+  "bgm": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "disableDashing": false,
+  "displayName": "药铺",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "!BG_A2_22_xiao",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": true,
+  "tilesetId": 1,
+  "width": 21,
+  "data": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4407, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4367, 4407, 4407, 4405, 4363, 4366, 4403, 4406, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4407, 4405, 4405, 4405, 4403, 4406, 4401, 4404, 4367, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4415, 4405, 4401, 4404, 4405, 4401, 4404, 4401, 4404, 4403, 4406, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4413, 4413, 4405, 4405, 4401, 4400, 4400, 4404, 4409, 4413, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4413, 4413, 4409, 4408, 4408, 4412, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "入口",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 18,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name:平安镇东,1>" ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [ 0, 11, 18, 6, 0, 0 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 30 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 41 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 11
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$NPC_B4_Xiao",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name: 反贼, 1>" ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 2 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 89 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 6,
+      "y": 7
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$NPC_B14_Xiao",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 24, 24, 0, 0, 30 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 57 ]
+            },
+            {
+              "code": 322,
+              "indent": 0,
+              "parameters": [ 28, "", 0, "NPC2", 2, "" ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "自定义的第一次见面对话" ]
+            },
+            {
+              "code": 324,
+              "indent": 0,
+              "parameters": [ 11, "老夫从来是医一人，便杀一人。" ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 2 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 48 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 1,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 1,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$NPC_B14_Xiao",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [ "<Name:平一指,1>" ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 24, 24, 0, 0, 30 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 31, 31, 0, 0, 2 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 57 ]
+            },
+            {
+              "code": 322,
+              "indent": 0,
+              "parameters": [ 28, "", 0, "NPC2", 2, "" ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 56 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 119, 119, 0, 4, "$gameVariables.value(117)-$gameVariables.value(294)" ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [ 1, 119, 1, 300, 3 ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [ 401, 401, 1 ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [ 1, 3, 0, 5, 4 ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [ "提示口渴" ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [ 79, 79, 0, 0, 1 ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [ 59 ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [ "交谈消耗饮水" ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [ 79, 79, 0, 0, 3 ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [ 59 ]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [
+                [ "交谈", "查看", "交易", "传授", "屠杀" ],
+                -2,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [ 0, "交谈" ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [ 1, 223, 0, 30, 0 ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [ "村长拜访任务回复" ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [ 79, 79, 0, 0, 69 ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [ 59 ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 3,
+              "parameters": [ 8, 218 ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "老夫从来是医一人，便杀一人，江湖人都称我“杀人名医”。" ]
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "大夫！救命啊，我流了好多血，再不救我，我就要死了！ " ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "什么人大呼小叫，可知道老夫是谁吗？" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "这个镇子上的人都说这有个平大夫医术了得，可以起死回生。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "没错，我就是“杀人名医”\\c[4]平一指\\c[0],你可知老夫有个脾气？" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "知道，我可是读过书的人，这几部小说都烂熟于心了。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "你从来都是医一人便杀一人，真是太残忍了。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "哈哈！好歹老夫医人，与老夫其名的还有一位\\c[4]胡青牛\\c[0]。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "他外号可是“见死不救”，相较于我他更胜一筹啊！哈哈！哈！" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "你们如此草菅人命，药价又这么高，难道我只能自己救自己了吗？" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "咦！这也是个方法，老夫虽然不愿意救你，但可以教你救人。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "这是我的启蒙典籍\\c[6]《神农本草》\\c[0],你依据上面的药方抓药。" ]
+            },
+            {
+              "code": 126,
+              "indent": 4,
+              "parameters": [ 218, 0, 0, 1 ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "普通的小灾小病必定药到病除，这\\c[6]药材\\c[0]路边都能采到。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "若是我准备好了材料，到什么地方可以制作需要的药品呢？" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "每一个城中必然会有一处提供\\c[14]合成\\c[0]的地方，要仔细寻找。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "看你不是本地人，老夫可怜你，先为你止血，保你一命。" ]
+            },
+            {
+              "code": 212,
+              "indent": 4,
+              "parameters": [ -1, 206, true ]
+            },
+            {
+              "code": 314,
+              "indent": 4,
+              "parameters": [ 0, 0 ]
+            },
+            {
+              "code": 122,
+              "indent": 4,
+              "parameters": [ 80, 80, 0, 0, 1 ]
+            },
+            {
+              "code": 122,
+              "indent": 4,
+              "parameters": [ 78, 78, 0, 0, 1 ]
+            },
+            {
+              "code": 117,
+              "indent": 4,
+              "parameters": [ 26 ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "若要治愈你的伤势，接下来还得靠你自己了。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "多谢平大夫，多谢平大夫！" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "城西\\c[2]铁匠铺\\c[0]的\\c[4]何铁手\\c[0]擅长合成，你若有空就去看看吧。" ]
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [ 1, "查看" ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [ 60 ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [ 2, "交易" ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [ 0, 401, 1 ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "如果你\\c[14]生活经验\\c[0]大于 \\c[10]5000\\c[0] 老夫还能卖你更多的药！" ]
+            },
+            {
+              "code": 111,
+              "indent": 3,
+              "parameters": [ 1, 6, 0, 5000, 4 ]
+            },
+            {
+              "code": 302,
+              "indent": 4,
+              "parameters": [ 0, 1, 0, 0, true ]
+            },
+            {
+              "code": 605,
+              "indent": 4,
+              "parameters": [ 0, 2, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 4,
+              "parameters": [ 0, 3, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 4,
+              "parameters": [ 0, 4, 0, 0 ]
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 4,
+              "parameters": [ 1, 497, 0, 2, 4 ]
+            },
+            {
+              "code": 101,
+              "indent": 5,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "近日雨露滋润，山上到处都是草药，本店药价都便宜了很多！" ]
+            },
+            {
+              "code": 302,
+              "indent": 5,
+              "parameters": [ 0, 1, 0, 0, true ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 2, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 3, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 4, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 5, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 6, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 7, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 8, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 303, 0, 0 ]
+            },
+            {
+              "code": 0,
+              "indent": 5,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 5,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "近日大雨连连，多处山体垮塌，\\c[6]冬虫夏草\\c[0]都很难采到了！" ]
+            },
+            {
+              "code": 302,
+              "indent": 5,
+              "parameters": [ 0, 1, 0, 0, true ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 2, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 3, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 4, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 5, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 6, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 7, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 8, 0, 0 ]
+            },
+            {
+              "code": 605,
+              "indent": 5,
+              "parameters": [ 0, 303, 1, 45000 ]
+            },
+            {
+              "code": 0,
+              "indent": 5,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [ 401, 401, 0 ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [ 294, 294, 0, 4, "Ftime();" ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "铺子里的药品卖得差不多了，老夫还在研制，你晚点再来吧！" ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [ 3, "传授" ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [ 4, 29, 0 ]
+            },
+            {
+              "code": 111,
+              "indent": 3,
+              "parameters": [ 0, 189, 1 ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "老夫正在研究一种丹药，尚缺一种材料和一个试验用的大活人。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC12", 4, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\>\\c[4]蝶舞\\c[0]" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "江湖传言你专门研制害人的\\c[6]丹药\\c[0]，看来此话不假。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "害人？老夫从来都很公平的，医一人便会杀一人。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "而且老夫研制丹药就是为了救人，害人？用刀剑不更好？" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC12", 4, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\>\\c[4]蝶舞\\c[0]" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "我懂了，虽然你会杀人，但是你研究的丹药确是用来救人的。" ]
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC12", 4, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\>\\c[4]蝶舞\\c[0]" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "如果是为了救人而献身，很值得，不如我帮你吧。" ]
+            },
+            {
+              "code": 111,
+              "indent": 4,
+              "parameters": [ 8, 125 ]
+            },
+            {
+              "code": 101,
+              "indent": 5,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "你想好了吗？服下这颗丹药的后果连老夫也不得而知。" ]
+            },
+            {
+              "code": 102,
+              "indent": 5,
+              "parameters": [
+                [ "服药", "算了" ],
+                1,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 5,
+              "parameters": [ 0, "服药" ]
+            },
+            {
+              "code": 126,
+              "indent": 6,
+              "parameters": [ 125, 1, 0, 1 ]
+            },
+            {
+              "code": 250,
+              "indent": 6,
+              "parameters": [
+                {
+                  "name": "102_Magic2",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 224,
+              "indent": 6,
+              "parameters": [
+                [ 255, 255, 255, 170 ],
+                60,
+                true
+              ]
+            },
+            {
+              "code": 317,
+              "indent": 6,
+              "parameters": [ 0, 29, 1, 0, 0, 500 ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "", 0, 0, 1 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "                     \\c[4]蝶舞\\c[0]\\c[10]内力\\c[0]增加了 【 内力﹢500 】" ]
+            },
+            {
+              "code": 250,
+              "indent": 6,
+              "parameters": [
+                {
+                  "name": "25_Nv_VC_5",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "药起作用了，你现在感觉如何？" ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "NPC12", 4, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "\\>\\c[4]蝶舞\\c[0]" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "感觉全身涌现源源不断的真气，就像要爆炸了一样。" ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "这就对了，老夫新研究的\\c[6]参草凝气丹\\c[0]就是这个功效。" ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "看在你为老夫研究的新药这么出力的份上，老夫便传授你一招。" ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "这是老夫看家本领\\c[23]针灸术\\c[0]，兴许闯荡武林能用得上。" ]
+            },
+            {
+              "code": 122,
+              "indent": 6,
+              "parameters": [ 80, 80, 0, 0, 1 ]
+            },
+            {
+              "code": 122,
+              "indent": 6,
+              "parameters": [ 78, 78, 0, 0, 24 ]
+            },
+            {
+              "code": 117,
+              "indent": 6,
+              "parameters": [ 26 ]
+            },
+            {
+              "code": 117,
+              "indent": 6,
+              "parameters": [ 50 ]
+            },
+            {
+              "code": 122,
+              "indent": 6,
+              "parameters": [ 80, 80, 0, 0, 1 ]
+            },
+            {
+              "code": 122,
+              "indent": 6,
+              "parameters": [ 78, 78, 0, 0, 1 ]
+            },
+            {
+              "code": 117,
+              "indent": 6,
+              "parameters": [ 26 ]
+            },
+            {
+              "code": 318,
+              "indent": 6,
+              "parameters": [ 0, 29, 0, 254 ]
+            },
+            {
+              "code": 121,
+              "indent": 6,
+              "parameters": [ 189, 189, 0 ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "", 0, 0, 1 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "                         \\c[4] 蝶舞 \\c[0]学会了 \\c[23]【针灸术】\\c[0]" ]
+            },
+            {
+              "code": 0,
+              "indent": 6,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 5,
+              "parameters": [ 1, "算了" ]
+            },
+            {
+              "code": 101,
+              "indent": 6,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 6,
+              "parameters": [ "哼，原来你也是个怕死鬼！" ]
+            },
+            {
+              "code": 0,
+              "indent": 6,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 5,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 5,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 5,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "很好，不过我还缺一坛\\c[6]黄酒\\c[0],来提高药性。" ]
+            },
+            {
+              "code": 101,
+              "indent": 5,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 5,
+              "parameters": [ "等你带着我需要的东西，再来找我吧。" ]
+            },
+            {
+              "code": 0,
+              "indent": 5,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 4,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 4,
+              "parameters": [ "哈哈，\\c[4]蝶舞\\c[0]果然是能继承了老夫的衣钵人。" ]
+            },
+            {
+              "code": 0,
+              "indent": 4,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [ "NPC13", 0, 1, 2 ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "\\af[28]\\>\\c[4]\\v[25]\\c[0]  \\}[友善度: \\v[500]]\\{" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "" ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [ "想要拜老夫为师，以你的资质，我看你还是等下辈子吧！" ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [ 4, "屠杀" ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [ 1, 6, 0, 2000, 4 ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [ 78, 78, 0, 0, 7 ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [ 46 ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [ 64 ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 1,
+              "parameters": [ 6, null ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 7 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 1,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 1,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "$NPC_B1_Xiao",
+            "direction": 4,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 24, 24, 0, 0, 30 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 57 ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 78, 78, 0, 0, 2 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 46 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 44 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 4,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 11,
+      "y": 8
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!DJ_1_xiao",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [ 79, 79, 0, 0, 8 ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 91 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 7
+    },
+    {
+      "id": 5,
+      "name": "操作模式",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 3,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 24 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 2,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [ 23 ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    null
+  ]
+}

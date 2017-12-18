@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":3,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"回血：[255]","effects":[{"code":11,"dataId":0,"value1":0,"value2":255},{"code":44,"dataId":144,"value1":1,"value2":0}],"hitType":0,"iconIndex":0,"itypeId":1,"name":"金创药","note":"","occasion":1,"price":300,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0}
+]

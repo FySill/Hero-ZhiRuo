@@ -1,0 +1,5569 @@
+[
+  null,
+  {
+    "id": 1,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢2%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.98
+      }
+    ],
+    "iconIndex": 100,
+    "name": "头巾",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 10, 0, 1, 0, 1, 0, 0 ],
+    "price": 350
+  },
+  {
+    "id": 2,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 101,
+    "name": "绸布方巾",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 19, 0, 3, 0, 1, 1, 0 ],
+    "price": 750
+  },
+  {
+    "id": 3,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢2%]　[伤害抵御﹢3%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.98
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.97
+      }
+    ],
+    "iconIndex": 102,
+    "name": "粗布衣",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 35, 0, 0, 2, 0, 0, 0, 1 ],
+    "price": 650
+  },
+  {
+    "id": 4,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢5%]　[伤害抵御﹢7%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.93
+      }
+    ],
+    "iconIndex": 103,
+    "name": "长袍",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 48, 0, 0, 3, 1, 1, 0, 0 ],
+    "price": 800
+  },
+  {
+    "id": 5,
+    "atypeId": 1,
+    "description": "特效：[抗封招﹢2%]　[闪避﹢1%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.98
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.01
+      }
+    ],
+    "iconIndex": 128,
+    "name": "麻鞋",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 10, 0, 0, 1, 0, 0, 0, 1 ],
+    "price": 475
+  },
+  {
+    "id": 6,
+    "atypeId": 1,
+    "description": "特效：[抗封招﹢5%]　[闪避﹢2%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 104,
+    "name": "布鞋",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 25, 0, 0, 3, 0, 0, 1, 1 ],
+    "price": 680
+  },
+  {
+    "id": 7,
+    "atypeId": 1,
+    "description": "特效：[无]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 100,
+    "name": "-----------------",
+    "note": "<Upgrade Slots: 1>\n<Random Variance: 1>\n<No Augment Slots>",
+    "params": [ 5000, 900, 0, 500, 500, 500, 500, 500 ],
+    "price": 150
+  },
+  {
+    "id": 8,
+    "atypeId": 1,
+    "description": "特效：[抗流血﹢10%]　[伤害抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 106,
+    "name": "侠客装",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 230, 0, 0, 8, 0, 0, 4, 0 ],
+    "price": 3500
+  },
+  {
+    "id": 9,
+    "atypeId": 1,
+    "description": "特效：[毒内抵御﹢8%]　[抗封招﹢8%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.92
+      }
+    ],
+    "iconIndex": 359,
+    "name": "斗笠",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 110, 0, 7, 0, 4, 0, 0 ],
+    "price": 2200
+  },
+  {
+    "id": 10,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢6%]　[闪避﹢5%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.94
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.06
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 108,
+    "name": "长靴",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 180, 0, 0, 8, 0, 0, 4, 0 ],
+    "price": 2000
+  },
+  {
+    "id": 11,
+    "atypeId": 1,
+    "description": "特效：[抗封内﹢10%]　[伤害抵御﹢11%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.89
+      }
+    ],
+    "iconIndex": 112,
+    "name": "僧袍",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 230, 0, 0, 9, 0, 4, 0, 1 ],
+    "price": 3800
+  },
+  {
+    "id": 12,
+    "atypeId": 1,
+    "description": "特效：[阳内抵御﹢8%]　[闪避﹢6%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.06
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 366,
+    "name": "僧鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 170, 0, 0, 7, 0, 4, 0, 0 ],
+    "price": 1850
+  },
+  {
+    "id": 13,
+    "atypeId": 1,
+    "description": "特效：[抗封招﹢10%]　[阳内抵御﹢8%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 110,
+    "name": "僧帽",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 175, 0, 7, 4, 0, 0, 0 ],
+    "price": 2100
+  },
+  {
+    "id": 14,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢7%]　[伤害减免﹢9%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.93
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.07
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.91
+      }
+    ],
+    "iconIndex": 111,
+    "name": "道士服",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 220, 110, 0, 7, 0, 4, 0, 1 ],
+    "price": 3700
+  },
+  {
+    "id": 15,
+    "atypeId": 1,
+    "description": "特效：[抗中毒﹢10%]　[毒内抵御﹢8%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.08
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 113,
+    "name": "道钗",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 170, 0, 6, 0, 4, 0, 0 ],
+    "price": 2300
+  },
+  {
+    "id": 16,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢15%]　[伤害减免﹢14%]　[毒内抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.85
+      }
+    ],
+    "iconIndex": 114,
+    "name": "罗汉衣",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 480, 50, 0, 23, 5, 5, 0, 1 ],
+    "price": 37500
+  },
+  {
+    "id": 17,
+    "atypeId": 1,
+    "description": "特效：[伤害减免﹢14%]　[阳内抵御﹢10%]　[抗暴击﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.1
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 117,
+    "name": "官兵·甲",
+    "note": "<ici:3>\n<Item 101 Buy Price: 40>\n<Suit:3,1,171,172>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 495, 50, 0, 25, 10, 0, 0, 0 ],
+    "price": 38500
+  },
+  {
+    "id": 18,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢13%]　[闪避﹢8%]　[无属性抵御﹢10%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.08
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.87
+      }
+    ],
+    "iconIndex": 129,
+    "name": "官兵·靴",
+    "note": "<ici:3>\n<Item 101 Buy Price: 40>\n<Suit:3,1,171,172>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 300, 20, 0, 20, 7, 0, 0, 0 ],
+    "price": 32500
+  },
+  {
+    "id": 19,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢14%]　[抗中毒﹢11%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.86
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.89
+      }
+    ],
+    "iconIndex": 116,
+    "name": "官兵·盔",
+    "note": "<ici:3>\n<Item 101 Buy Price: 40>\n<Suit:3,1,171,172>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 110, 280, 0, 18, 5, 5, 0, 0 ],
+    "price": 33000
+  },
+  {
+    "id": 20,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢13%]　[阴内抵御﹢10%]　[抗暴击﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.87
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 121,
+    "name": "披风",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 380, 200, 0, 18, 0, 13, 0, 1 ],
+    "price": 35800
+  },
+  {
+    "id": 21,
+    "atypeId": 1,
+    "description": "特效：[无]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 100,
+    "name": "-----------------",
+    "note": "<Upgrade Slots: 1>\n<Random Variance: 1>\n<No Augment Slots>",
+    "params": [ 5000, 900, 0, 500, 500, 500, 500, 500 ],
+    "price": 150
+  },
+  {
+    "id": 22,
+    "atypeId": 1,
+    "description": "特效：[抗流血﹢50%]　[阴内抵御﹢20%]　[抗暴击﹢18%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      }
+    ],
+    "iconIndex": 119,
+    "name": "金蚕宝甲",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1350, 750, 0, 95, 12, 12, 1, 1 ],
+    "price": 250000
+  },
+  {
+    "id": 23,
+    "atypeId": 1,
+    "description": "特效：[抗暴击﹢18%]　[抗剧毒﹢50%]　[毒内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      }
+    ],
+    "iconIndex": 141,
+    "name": "软猬甲",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1400, 850, 0, 99, 1, 1, 35, 1 ],
+    "price": 285000
+  },
+  {
+    "id": 24,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢20%]　[抗封内﹢27%]　[抗眩晕﹢30%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.73
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.7
+      }
+    ],
+    "iconIndex": 134,
+    "name": "紫金冠",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 980, 350, 0, 85, 12, 1, 12, 1 ],
+    "price": 235000
+  },
+  {
+    "id": 25,
+    "atypeId": 1,
+    "description": "特效：[内力耗损﹣18%]　[回内﹢5%]　[毒内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.82
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 154,
+    "name": "天师道袍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 750, 1100, 0, 88, 1, 35, 1, 1 ],
+    "price": 268000
+  },
+  {
+    "id": 26,
+    "atypeId": 1,
+    "description": "特效：[治疗效果﹢20%]　[抗重伤﹢50%]　[阳内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 125,
+    "name": "乌锤甲",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1450, 900, 0, 97, 12, 12, 1, 1 ],
+    "price": 245000
+  },
+  {
+    "id": 27,
+    "atypeId": 1,
+    "description": "特效：[恢复﹢4%]　[无属性抵御﹢20%]　[抗燃烧﹢50%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.04
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 126,
+    "name": "青霜袍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1000, 1100, 0, 91, 1, 12, 12, 1 ],
+    "price": 288000
+  },
+  {
+    "id": 28,
+    "atypeId": 1,
+    "description": "特效：[回血﹢5%]　[抗猛毒﹢50%]　[毒内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.05
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 148,
+    "name": "青龙宝甲",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1480, 750, 0, 95, 35, 1, 1, 1 ],
+    "price": 234000
+  },
+  {
+    "id": 29,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢15%]　[抗点穴﹢50%]　[阳内抵御﹢20%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.15
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 127,
+    "name": "飞羽靴",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1100, 350, 0, 72, 1, 1, 35, 1 ],
+    "price": 215000
+  },
+  {
+    "id": 30,
+    "atypeId": 1,
+    "description": "特效：[抗封内﹢50%]　[闪避﹢13%]　[毒内抵御﹢20%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.13
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 365,
+    "name": "天蚕靴",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 980, 450, 0, 75, 1, 12, 12, 1 ],
+    "price": 265000
+  },
+  {
+    "id": 31,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢50%]　[怒气获得﹢20%]　[混元抵御﹢20%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 130,
+    "name": "修罗发结",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 350, 1100, 0, 90, 1, 12, 12, 1 ],
+    "price": 238500
+  },
+  {
+    "id": 32,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢50%]　[治疗效果﹢15%]　[混元抵御﹢20%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.15
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 131,
+    "name": "七宝冠",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 900, 900, 0, 72, 35, 1, 1, 1 ],
+    "price": 235000
+  },
+  {
+    "id": 33,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢20%]　[抗猛毒﹢30%]　[抗眩晕﹢28%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.7
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.72
+      }
+    ],
+    "iconIndex": 132,
+    "name": "白狐裘袄",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1350, 650, 0, 86, 12, 1, 12, 1 ],
+    "price": 248200
+  },
+  {
+    "id": 34,
+    "atypeId": 1,
+    "description": "特效：[无]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 100,
+    "name": "-----------------",
+    "note": "<Upgrade Slots: 1>\n<Random Variance: 1>\n<No Augment Slots>",
+    "params": [ 5000, 900, 0, 1, 1, 1, 1, 1 ],
+    "price": 150
+  },
+  {
+    "id": 35,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢10%]　[伤害抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 133,
+    "name": "黑衣",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 230, 0, 0, 9, 0, 0, 2, 2 ],
+    "price": 2500
+  },
+  {
+    "id": 36,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 136,
+    "name": "老花镜",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 30, 0, 1, 0, 0, 0, 20 ],
+    "price": 800
+  },
+  {
+    "id": 37,
+    "atypeId": 1,
+    "description": "特效：[毒内抵御﹢8%]　[治疗效果﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.08
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 146,
+    "name": "绿牡丹",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 10, 0 ],
+    "price": 2250
+  },
+  {
+    "id": 38,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢10%]　[伤害抵御﹢6%]　[阴内抵御﹢3%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.94
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.97
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.03
+      }
+    ],
+    "iconIndex": 138,
+    "name": "乞丐衣",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 50, 5, 0, 3, 0, 0, 5, 0 ],
+    "price": 650
+  },
+  {
+    "id": 39,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢10%]　[伤害抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 140,
+    "name": "精致布衣",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 10, 80, 0, 5, 0, 0, 0, 20 ],
+    "price": 3500
+  },
+  {
+    "id": 40,
+    "atypeId": 1,
+    "description": "特效：[抗流血﹢10%]　[伤害抵御﹢9%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.91
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 120,
+    "name": "皮背心",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 220, 0, 0, 12, 0, 3, 0, 0 ],
+    "price": 2500
+  },
+  {
+    "id": 41,
+    "atypeId": 1,
+    "description": "特效：[抗封内﹢9%]　[阳内抵御﹢8%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.91
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 142,
+    "name": "粉红绸衫",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 200, 50, 0, 17, 0, 0, 4, 0 ],
+    "price": 2800
+  },
+  {
+    "id": 42,
+    "atypeId": 1,
+    "description": "特效：[阳内抵御﹢8%]　[治疗效果﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 143,
+    "name": "红杜鹃",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 0, 0, 10, 0, 0, 0 ],
+    "price": 2250
+  },
+  {
+    "id": 43,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢5%]　[阴内抵御﹢7%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.93
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.07
+      }
+    ],
+    "iconIndex": 144,
+    "name": "绣花小鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 15, 0, 4, 0, 20, 0, 0 ],
+    "price": 2000
+  },
+  {
+    "id": 44,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢8%]　[治疗效果﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.08
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 137,
+    "name": "白玫瑰",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 10, 0, 0 ],
+    "price": 2250
+  },
+  {
+    "id": 45,
+    "atypeId": 1,
+    "description": "特效：[无属性抵御﹢8%]　[治疗效果﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.08
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 145,
+    "name": "茶花",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 10 ],
+    "price": 2250
+  },
+  {
+    "id": 46,
+    "atypeId": 1,
+    "description": "特效：[抗中毒﹢15%]　[毒内抵御﹢11%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.85
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.11
+      }
+    ],
+    "iconIndex": 372,
+    "name": "轻花绸衫",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 450, 0, 0, 26, 0, 13, 0, 0 ],
+    "price": 35800
+  },
+  {
+    "id": 47,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢4%]　[阳内抵御﹢7%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.93
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.07
+      }
+    ],
+    "iconIndex": 147,
+    "name": "洒花缎鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 120, 20, 0, 7, 0, 0, 4, 0 ],
+    "price": 2100
+  },
+  {
+    "id": 48,
+    "atypeId": 1,
+    "description": "特效：[抗封招﹢12%]　[混元抵御﹢11%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.11
+      }
+    ],
+    "iconIndex": 356,
+    "name": "宝蓝缎衫",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 440, 30, 0, 22, 0, 13, 0, 0 ],
+    "price": 35200
+  },
+  {
+    "id": 49,
+    "atypeId": 1,
+    "description": "特效：[伤害抵御﹢14%]　[抗破绽﹢12%]　[阳内抵御﹢8%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.86
+      },
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 149,
+    "name": "夜行衣",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 420, 100, 0, 23, 0, 0, 13, 0 ],
+    "price": 34000
+  },
+  {
+    "id": 50,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢13%]　[毒内抵御﹢10%]　[无属性抵御﹢8%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 150,
+    "name": "渌水罗衣",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 430, 80, 0, 22, 0, 13, 0, 1 ],
+    "price": 35500
+  },
+  {
+    "id": 51,
+    "atypeId": 1,
+    "description": "特效：[抗封内﹢13%]　[阳内抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 151,
+    "name": "轻纱长裙",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 350, 180, 0, 21, 0, 0, 13, 0 ],
+    "price": 36000
+  },
+  {
+    "id": 52,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢6%]　[混元抵御﹢6%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.94
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.94
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.06
+      }
+    ],
+    "iconIndex": 152,
+    "name": "黑眼罩",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 150, 0, 7, 3, 0, 0, 0 ],
+    "price": 650
+  },
+  {
+    "id": 53,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢18%]　[抗重伤﹢15%]　[毒内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.82
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.85
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 153,
+    "name": "武道披风",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 350, 0, 48, 24, 0, 0, 0 ],
+    "price": 115000
+  },
+  {
+    "id": 54,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢25%]　[阳内抵御﹢13%]　[抗暴击﹢14%]　",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.13
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 139,
+    "name": "武道服",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 900, 200, 0, 45, 23, 0, 0, 0 ],
+    "price": 126000
+  },
+  {
+    "id": 55,
+    "atypeId": 1,
+    "description": "特效：[抗封招﹢16%]　[抗封内﹢19%]　[阴内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.84
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.81
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 154,
+    "name": "八卦道袍",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 430, 700, 0, 41, 0, 20, 0, 0 ],
+    "price": 118000
+  },
+  {
+    "id": 56,
+    "atypeId": 1,
+    "description": "特效：[伤害抵御﹢14%]　[抗燃烧﹢12%]　[无属性抵御﹢11%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.86
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.11
+      }
+    ],
+    "iconIndex": 155,
+    "name": "白罗袍",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 400, 30, 0, 22, 13, 0, 0, 0 ],
+    "price": 35000
+  },
+  {
+    "id": 57,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢13%]　[阴内抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 156,
+    "name": "绸袍",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 380, 40, 0, 21, 0, 0, 13, 0 ],
+    "price": 38000
+  },
+  {
+    "id": 58,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢23%]　[抗暴击﹢11%]　[阳内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.77
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.11
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 157,
+    "name": "金锁子甲",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 930, 260, 0, 43, 23, 0, 0, 0 ],
+    "price": 125000
+  },
+  {
+    "id": 59,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢22%]　[抗暴击﹢12%]　[阳内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.78
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.12
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 158,
+    "name": "降魔袍",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 920, 320, 0, 48, 12, 12, 0, 0 ],
+    "price": 125000
+  },
+  {
+    "id": 60,
+    "atypeId": 1,
+    "description": "特效：[抗猛毒﹢25%]　[抗暴击﹢13%]　[混元抵御﹢12%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.75
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.13
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.12
+      }
+    ],
+    "iconIndex": 159,
+    "name": "霓虹羽衣",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 650, 120, 0, 42, 0, 12, 12, 25 ],
+    "price": 115000
+  },
+  {
+    "id": 61,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢25%]　[抗暴击﹢13%]　[毒内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.75
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.13
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 352,
+    "name": "雪山白袍",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 880, 230, 0, 43, 12, 0, 12, 0 ],
+    "price": 115000
+  },
+  {
+    "id": 62,
+    "atypeId": 1,
+    "description": "特效：[混元抵御﹢12%]　[抗暴击﹢14%]　[阴内抵御﹢13%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.12
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.14
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.13
+      }
+    ],
+    "iconIndex": 353,
+    "name": "亮银甲",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 940, 180, 0, 48, 24, 0, 0, 0 ],
+    "price": 138500
+  },
+  {
+    "id": 63,
+    "atypeId": 1,
+    "description": "特效：[抗猛毒﹢18%]　[抗剧毒﹢16%]　[毒内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.82
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.84
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 118,
+    "name": "雪豹皮",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 0, 30, 0, 35, 0, 35 ],
+    "price": 100000
+  },
+  {
+    "id": 64,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢13%]　[伤害抵御﹢14%]　[阴内抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 354,
+    "name": "牛皮束衣",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 380, 190, 0, 22, 11, 0, 0, 0 ],
+    "price": 32500
+  },
+  {
+    "id": 65,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢50%]　[抗暴击﹢20%]　[阴内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 369,
+    "name": "玄冰战衣",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1450, 980, 0, 96, 1, 12, 12, 1 ],
+    "price": 265000
+  },
+  {
+    "id": 66,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢50%]　[抗暴击﹢18%]　[阳内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 371,
+    "name": "紫金战甲",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1200, 1100, 0, 95, 35, 1, 1, 1 ],
+    "price": 250000
+  },
+  {
+    "id": 67,
+    "atypeId": 1,
+    "description": "特效：[混元抵御﹢20%]　[抗重伤﹢50%]　[治疗效果﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 109,
+    "name": "佛光袈裟",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1350, 980, 0, 89, 1, 35, 1, 10 ],
+    "price": 280000
+  },
+  {
+    "id": 68,
+    "atypeId": 1,
+    "description": "特效：[抗暴击﹢18%]　[抗眩晕﹢50%]　[毒内抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 358,
+    "name": "神丐装",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1250, 750, 0, 91, 12, 1, 12, 1 ],
+    "price": 245000
+  },
+  {
+    "id": 69,
+    "atypeId": 1,
+    "description": "防御：[135]　特效：[伤害减免10%]　[免疫重伤]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 10,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 5000, 5000, 0, 135, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 70,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢50%]　[无属性抵御﹢20%]　[内力耗损﹣15%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.85
+      }
+    ],
+    "iconIndex": 360,
+    "name": "通天羽钗",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 350, 850, 0, 75, 1, 1, 35, 1 ],
+    "price": 285000
+  },
+  {
+    "id": 71,
+    "atypeId": 1,
+    "description": "特效：[毒内抵御﹢13%]　[回内﹢3%]　[抗剧毒﹢24%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.83
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.17
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.03
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.76
+      }
+    ],
+    "iconIndex": 363,
+    "name": "麒麟盔",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 200, 560, 0, 45, 1, 1, 24, 0 ],
+    "price": 120000
+  },
+  {
+    "id": 72,
+    "atypeId": 1,
+    "description": "特效：[伤害抵御﹢17%]　[抗重伤﹢25%]　[抗暴击﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.83
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 115,
+    "name": "岳家·战甲",
+    "note": "<ici:5>\n<Item 330 Buy Price: 10>\n<Suit:4,1,175,176>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 900, 100, 0, 43, 24, 0, 0, 0 ],
+    "price": 120000
+  },
+  {
+    "id": 73,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢22%]　[闪避﹢10%]　[毒内抵御﹢14%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.78
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 367,
+    "name": "岳家·战靴",
+    "note": "<ici:5>\n<Item 330 Buy Price: 10>\n<Suit:4,1,175,176>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 750, 0, 0, 41, 0, 0, 24, 0 ],
+    "price": 116000
+  },
+  {
+    "id": 74,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢24%]　[回血﹢2%]　[混元抵御﹢13%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.76
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.13
+      }
+    ],
+    "iconIndex": 364,
+    "name": "岳家·战盔",
+    "note": "<ici:5>\n<Item 330 Buy Price: 10>\n<Suit:4,1,175,176>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 280, 700, 0, 42, 0, 24, 0, 0 ],
+    "price": 115000
+  },
+  {
+    "id": 75,
+    "atypeId": 1,
+    "description": "特效：[抗剧毒﹢25%]　[怒气获得﹢20%]　[闪避﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 622,
+    "name": "五彩步履",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 120, 0, 44, 0, 20, 0, 0 ],
+    "price": 238000
+  },
+  {
+    "id": 76,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 77,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢10%]　[免疫流血]　[伤害抵御﹢20%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 920,
+    "name": "破军·甲",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 24, 0, 0, 1 ],
+    "price": 5000
+  },
+  {
+    "id": 78,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢3%]　[阳内抵御﹢10%]　[抗暴﹢5%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 672,
+    "name": "破军·靴",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 24, 0, 0, 1 ],
+    "price": 3000
+  },
+  {
+    "id": 79,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢2%]　[毒内抵御﹢10%]　[抗暴﹢5%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 933,
+    "name": "破军·盔",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 600, 0, 50, 24, 0, 0, 1 ],
+    "price": 2000
+  },
+  {
+    "id": 80,
+    "atypeId": 1,
+    "description": "特效：[抗暴﹢10%]　[伤害抵御﹢20%]　[免疫点穴]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 14,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 924,
+    "name": "天罡·甲",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 0, 24, 0, 1 ],
+    "price": 5000
+  },
+  {
+    "id": 81,
+    "atypeId": 1,
+    "description": "特效：[抗暴﹢8%]　[阴内抵御﹢10%]　[闪避+2%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.08
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 957,
+    "name": "天罡·靴",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 0, 24, 0, 1 ],
+    "price": 3000
+  },
+  {
+    "id": 82,
+    "atypeId": 1,
+    "description": "特效：[抗暴﹢7%]　[阳内抵御﹢10%]　[闪避+2%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.07
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 936,
+    "name": "天罡·盔",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 600, 0, 50, 0, 24, 0, 1 ],
+    "price": 2000
+  },
+  {
+    "id": 83,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢10%]　[伤害抵御﹢5%]　[免疫封招]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 923,
+    "name": "腾云·甲",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 0, 0, 24, 1 ],
+    "price": 5000
+  },
+  {
+    "id": 84,
+    "atypeId": 1,
+    "description": "特效：[抗暴﹢5%]　[闪避﹢3%]　[阴内抵御﹢15%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.03
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.85
+      }
+    ],
+    "iconIndex": 959,
+    "name": "腾云·靴",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 0, 0, 24, 1 ],
+    "price": 3000
+  },
+  {
+    "id": 85,
+    "atypeId": 1,
+    "description": "特效：[抗暴﹢5%]　[闪避﹢2%]　[毒内抵御﹢15%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.85
+      }
+    ],
+    "iconIndex": 938,
+    "name": "腾云·盔",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 600, 0, 50, 0, 0, 24, 1 ],
+    "price": 2000
+  },
+  {
+    "id": 86,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢5%]　[伤害抵御﹢10%]　[免疫燃烧]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 14,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 925,
+    "name": "贪狼·甲",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 5, 5, 5, 1 ],
+    "price": 5000
+  },
+  {
+    "id": 87,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢3%]　[抗暴﹢5%]　[毒内抵御﹢15%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 958,
+    "name": "贪狼·靴",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 0, 0, 50, 5, 5, 5, 1 ],
+    "price": 3000
+  },
+  {
+    "id": 88,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢2%]　[闪避﹢2%]　[阳内抵御﹢15%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 937,
+    "name": "贪狼·盔",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 600, 0, 50, 5, 5, 5, 1 ],
+    "price": 2000
+  },
+  {
+    "id": 89,
+    "atypeId": 1,
+    "description": "特效：[抗流血﹢25%]　[抗剧毒﹢25%]　[抗重伤﹢25%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.75
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 922,
+    "name": "忠义·甲",
+    "note": "<ici:6>\n<Suit:2,1,173,174>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 2000, 400, 0, 100, 15, 15, 15, 15 ],
+    "price": 5000
+  },
+  {
+    "id": 90,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢25%]　[抗封内﹢25%]　[抗封招﹢25%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.75
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.75
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 671,
+    "name": "忠义·靴",
+    "note": "<ici:6>\n<Suit:2,1,173,174>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1500, 700, 0, 80, 10, 10, 10, 10 ],
+    "price": 3000
+  },
+  {
+    "id": 91,
+    "atypeId": 1,
+    "description": "特效：[抗猛毒﹢25%]　[抗燃烧﹢25%]　[抗眩晕﹢25%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.75
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.75
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 934,
+    "name": "忠义·盔",
+    "note": "<ici:6>\n<Suit:2,1,173,174>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1000, 1500, 0, 80, 10, 10, 10, 10 ],
+    "price": 2000
+  },
+  {
+    "id": 92,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 93,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢5%]　[阴内抵御﹢7%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.93
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.07
+      }
+    ],
+    "iconIndex": 670,
+    "name": "短绫皮鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 200, 0, 0, 7, 1, 1, 0, 0 ],
+    "price": 2000
+  },
+  {
+    "id": 94,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢6%]　[毒内抵御﹢8%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.06
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 597,
+    "name": "蓝宝布鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 100, 80, 0, 6, 1, 3, 3, 0 ],
+    "price": 2000
+  },
+  {
+    "id": 95,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢5%]　[阳内抵御﹢7%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.93
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.07
+      }
+    ],
+    "iconIndex": 105,
+    "name": "豹皮鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 120, 0, 0, 6, 0, 2, 3, 1 ],
+    "price": 2000
+  },
+  {
+    "id": 96,
+    "atypeId": 1,
+    "description": "特效：[抗流血﹢14%]　[闪避﹢8%]　[阳内抵御﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.86
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.08
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.11
+      }
+    ],
+    "iconIndex": 594,
+    "name": "虎皮长靴",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 300, 50, 0, 22, 13, 0, 0, 0 ],
+    "price": 30000
+  },
+  {
+    "id": 97,
+    "atypeId": 1,
+    "description": "特效：[抗中毒﹢15%]　[闪避﹢7%]　[阴内抵御﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.85
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.07
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.11
+      }
+    ],
+    "iconIndex": 657,
+    "name": "南岳鞋",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 500, 300, 0, 18, 0, 3, 3, 0 ],
+    "price": 30000
+  },
+  {
+    "id": 98,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢13%]　[闪避﹢7%]　[毒内抵御﹢10%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.87
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.07
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 659,
+    "name": "金丝鞋",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 300, 30, 0, 25, 0, 13, 0, 0 ],
+    "price": 30000
+  },
+  {
+    "id": 99,
+    "atypeId": 1,
+    "description": "特效：[抗剧毒﹢15%]　[闪避﹢9%]　[无属性抵御﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.85
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.09
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.11
+      }
+    ],
+    "iconIndex": 596,
+    "name": "彩珠皮靴",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 125, 10, 0, 15, 3, 3, 0, 0 ],
+    "price": 30000
+  },
+  {
+    "id": 100,
+    "atypeId": 1,
+    "description": "特效：[混元抵御﹢10%]　[闪避﹢7%]　[内力耗损﹣8%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.07
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.92
+      }
+    ],
+    "iconIndex": 599,
+    "name": "精钢战靴",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 15, 0, 18, 0, 11, 0, 0 ],
+    "price": 30000
+  },
+  {
+    "id": 101,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢24%]　[内力耗损﹣13%]　[闪避﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.24
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.87
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 656,
+    "name": "寒铁战靴",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 900, 0, 0, 38, 22, 0, 0, 0 ],
+    "price": 120000
+  },
+  {
+    "id": 102,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢14%]　[内力耗损﹣20%]　[闪避﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.14
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 623,
+    "name": "四象靴",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 15, 0, 41, 0, 20, 0, 12 ],
+    "price": 120000
+  },
+  {
+    "id": 103,
+    "atypeId": 1,
+    "description": "特效：[毒内抵御﹢11%]　[无属性抵御﹢12%]　[闪避﹢12%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.11
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.12
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 655,
+    "name": "镶金步履",
+    "note": "<ici:5>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 800, 350, 0, 46, 0, 0, 24, 0 ],
+    "price": 120000
+  },
+  {
+    "id": 104,
+    "atypeId": 1,
+    "description": "特效：[回血﹢2%]　[闪避﹢13%]　[毒内抵御﹢20%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.13
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 654,
+    "name": "帝王金履",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1100, 650, 0, 70, 12, 12, 1, 1 ],
+    "price": 225000
+  },
+  {
+    "id": 105,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢14%]　[回内﹢2%]　[阴内抵御﹢20%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.02
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 658,
+    "name": "火凤羽靴",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1100, 650, 0, 70, 12, 1, 12, 1 ],
+    "price": 225000
+  },
+  {
+    "id": 106,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢12%]　[回内﹢4%]　[阳内抵御﹢20%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.04
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 595,
+    "name": "达摩步履",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 18>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 1100, 650, 0, 70, 1, 12, 1, 12 ],
+    "price": 225000
+  },
+  {
+    "id": 107,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 108,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢1%]　[命中﹢3%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.03
+      }
+    ],
+    "iconIndex": 632,
+    "name": "木爪",
+    "note": "<ici:1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 0, 5, 0, 0, 0, 0, 0 ],
+    "price": 450
+  },
+  {
+    "id": 109,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢2%]　[命中﹢6%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.06
+      }
+    ],
+    "iconIndex": 634,
+    "name": "铁爪",
+    "note": "<ici:1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 0, 8, 0, 0, 5, 0, 0 ],
+    "price": 600
+  },
+  {
+    "id": 110,
+    "atypeId": 1,
+    "description": "特效：[命中﹢3%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.03
+      }
+    ],
+    "iconIndex": 731,
+    "name": "戒指",
+    "note": "<ici:1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 2, 0, 0, 0, 0 ],
+    "price": 450
+  },
+  {
+    "id": 111,
+    "atypeId": 1,
+    "description": "特效：[命中﹢3%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.03
+      }
+    ],
+    "iconIndex": 565,
+    "name": "手镯",
+    "note": "<ici:1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 4, 0, 5, 0, 0 ],
+    "price": 630
+  },
+  {
+    "id": 112,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢2%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.98
+      }
+    ],
+    "iconIndex": 566,
+    "name": "铁手套",
+    "note": "<ici:1>\n<Random Variance: 2>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 8, 0, 5, 0, 0 ],
+    "price": 450
+  },
+  {
+    "id": 113,
+    "atypeId": 1,
+    "description": "特效：[抗中毒﹢4%]　[治疗效果﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.96
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 541,
+    "name": "百草环",
+    "note": "<ici:1>\n<Random Variance: 5>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 292: 4\nitem 293: 2\nitem 294: 3\nitem 295: 4\nitem 296: 1\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 0, 0, 1, 1, 1, 1 ],
+    "price": 680
+  },
+  {
+    "id": 114,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 115,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢3%]　[怒气获得﹢10%]　[命中﹢9%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.09
+      }
+    ],
+    "iconIndex": 633,
+    "name": "秘银爪",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 10, 0, 0, 0, 0, 0 ],
+    "price": 3500
+  },
+  {
+    "id": 116,
+    "atypeId": 1,
+    "description": "特效：[抗暴击﹢2%]　[怒气获得﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.02
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 660,
+    "name": "翡翠玉佩",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 5, 0 ],
+    "price": 3200
+  },
+  {
+    "id": 117,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢2%]　[怒气获得﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 661,
+    "name": "金镶玉饰",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 5, 0, 0, 0 ],
+    "price": 3200
+  },
+  {
+    "id": 118,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢2%]　[怒气获得﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 662,
+    "name": "紫檀挂坠",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 5, 0, 0 ],
+    "price": 3200
+  },
+  {
+    "id": 119,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢2%]　[怒气获得﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 724,
+    "name": "碧玉手镯",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 5 ],
+    "price": 3100
+  },
+  {
+    "id": 120,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢2%]　[内力耗损﹣5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 650,
+    "name": "青玉戒指",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 200, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 3100
+  },
+  {
+    "id": 121,
+    "atypeId": 1,
+    "description": "特效：[命中﹢5%]　[内力耗损﹣5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 649,
+    "name": "玛瑙戒指",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 150, 0, 0, 0, 0, 0, 0 ],
+    "price": 3100
+  },
+  {
+    "id": 122,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 123,
+    "atypeId": 1,
+    "description": "特效：[内力耗损﹣10%]　[怒气获得﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 630,
+    "name": "檀木佛珠",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 300, 120, 0, 0, 0, 0, 0, 0 ],
+    "price": 21000
+  },
+  {
+    "id": 124,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢4%]　[内力耗损﹣5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 733,
+    "name": "陨铁指环",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 10, 0, 0, 0 ],
+    "price": 23000
+  },
+  {
+    "id": 125,
+    "atypeId": 1,
+    "description": "特效：[抗暴击﹢4%]　[内力耗损﹣5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.04
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 732,
+    "name": "寒玉戒指",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 10, 0 ],
+    "price": 28000
+  },
+  {
+    "id": 126,
+    "atypeId": 1,
+    "description": "特效：[抗中毒﹢8%]　[内力耗损﹣5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.92
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 715,
+    "name": "碧玉手环",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 10, 0, 0 ],
+    "price": 28000
+  },
+  {
+    "id": 127,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢8%]　[内力耗损﹣5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.92
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.95
+      }
+    ],
+    "iconIndex": 723,
+    "name": "青玉手环",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 10 ],
+    "price": 24500
+  },
+  {
+    "id": 128,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢3%]　[伤害抵御﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.03
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 563,
+    "name": "玉扳指",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 300, 0, 0, 0, 0, 0, 0 ],
+    "price": 27000
+  },
+  {
+    "id": 129,
+    "atypeId": 1,
+    "description": "特效：[暴击﹢3%]　[阳内抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 722,
+    "name": "精钢手套",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 500, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 23000
+  },
+  {
+    "id": 130,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢3%]　[阴内抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.03
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 725,
+    "name": "轻纱手套",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 500, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 21000
+  },
+  {
+    "id": 131,
+    "atypeId": 1,
+    "description": "特效：[命中﹢7%]　[毒内抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.07
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 726,
+    "name": "阎王护手",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 500, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 28000
+  },
+  {
+    "id": 132,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢8%]　[混元抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 718,
+    "name": "金戒指",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 300, 100, 0, 0, 0, 0, 0, 0 ],
+    "price": 31000
+  },
+  {
+    "id": 133,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 134,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢12%]　[阴内抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 564,
+    "name": "轻纱水袖",
+    "note": "<ici:5>\n<Random Variance: 15>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 31: 6\nitem 32: 7\nitem 235: 7\nitem 62: 4\ngold: 35000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 0, 0, 0, 0, 15, 0 ],
+    "price": 270000
+  },
+  {
+    "id": 135,
+    "atypeId": 1,
+    "description": "特效：[抗封内﹢12%]　[毒内抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 727,
+    "name": "罗刹护手",
+    "note": "<ici:5>\n<Random Variance: 15>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 31: 6\nitem 32: 7\nitem 235: 7\nitem 63: 4\ngold: 35000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 0, 0, 0, 15, 0, 0 ],
+    "price": 270000
+  },
+  {
+    "id": 136,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢12%]　[阳内抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 728,
+    "name": "天韵护手",
+    "note": "<ici:5>\n<Random Variance: 15>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 31: 6\nitem 32: 7\nitem 235: 7\nitem 66: 4\ngold: 35000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 0, 0, 15, 0, 0, 0 ],
+    "price": 270000
+  },
+  {
+    "id": 137,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢12%]　[无属性抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 729,
+    "name": "紫玉扳指",
+    "note": "<ici:5>\n<Random Variance: 15>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 31: 6\nitem 32: 7\nitem 235: 7\nitem 67: 4\ngold: 35000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 15 ],
+    "price": 270000
+  },
+  {
+    "id": 138,
+    "atypeId": 1,
+    "description": "特效：[抗封内﹢12%]　[混元抵御﹢5%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.88
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.05
+      }
+    ],
+    "iconIndex": 730,
+    "name": "桃花护腕",
+    "note": "<ici:5>\n<Random Variance: 15>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 31: 6\nitem 32: 7\nitem 235: 7\nitem 65: 4\ngold: 35000\n</Synthesis Ingredients>",
+    "params": [ 950, 0, 0, 0, 0, 5, 0, 0 ],
+    "price": 270000
+  },
+  {
+    "id": 139,
+    "atypeId": 1,
+    "description": "特效：[内力耗损﹣15%]　[怒气获得﹢30%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.85
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.3
+      }
+    ],
+    "iconIndex": 559,
+    "name": "青龙吊坠",
+    "note": "<ici:5>\n<Random Variance: 15>\n<No Augment Slots>",
+    "params": [ 300, 700, 0, 0, 5, 5, 5, 5 ],
+    "price": 335000
+  },
+  {
+    "id": 140,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 141,
+    "atypeId": 1,
+    "description": "特效：[混元抵御﹢5%]　[阴内抵御﹢5%]　[抗重伤﹢18%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.05
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.05
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.82
+      }
+    ],
+    "iconIndex": 652,
+    "name": "神龙戒指",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>\n",
+    "params": [ 0, 0, 0, 0, 0, 0, 20, 0 ],
+    "price": 580000
+  },
+  {
+    "id": 142,
+    "atypeId": 1,
+    "description": "特效：[无属性抵御﹢5%]　[阳内抵御﹢5%]　[抗燃烧﹢18%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.05
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.05
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.82
+      }
+    ],
+    "iconIndex": 653,
+    "name": "寒冰护手",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 20, 0, 0 ],
+    "price": 580000
+  },
+  {
+    "id": 143,
+    "atypeId": 1,
+    "description": "特效：[阳内抵御﹢5%]　[无属性抵御﹢5%]　[抗眩晕﹢18%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.05
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.05
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.82
+      }
+    ],
+    "iconIndex": 720,
+    "name": "玄寒指戒",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 20 ],
+    "price": 580000
+  },
+  {
+    "id": 144,
+    "atypeId": 1,
+    "description": "特效：[伤害抵御﹢5%]　[阳内抵御﹢5%]　[抗流血﹢18%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.05
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.95
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.82
+      }
+    ],
+    "iconIndex": 719,
+    "name": "嗜血戒指",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>\n",
+    "params": [ 0, 0, 0, 0, 20, 0, 0, 0 ],
+    "price": 580000
+  },
+  {
+    "id": 145,
+    "atypeId": 1,
+    "description": "特效：[怒气获得﹢100%]　\\c[31][接引至门派]\\c[0]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 2
+      }
+    ],
+    "iconIndex": 540,
+    "name": "掌门玉佩",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>",
+    "params": [ 0, 0, 20, 20, 10, 10, 10, 0 ],
+    "price": 580000
+  },
+  {
+    "id": 146,
+    "atypeId": 1,
+    "description": "特效：[阳内抵御﹢5%]　[混元抵御﹢5%]　[抗封招﹢18%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.05
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.95
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.05
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.82
+      }
+    ],
+    "iconIndex": 562,
+    "name": "七宝扳指",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 20, 0, 0 ],
+    "price": 580000
+  },
+  {
+    "id": 147,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 148,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢8%]　[伤害抵御﹢12%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.88
+      }
+    ],
+    "iconIndex": 743,
+    "name": "书生袍",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 270: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 450, 0, 0, 12, 0, 4, 3, 1 ],
+    "price": 3800
+  },
+  {
+    "id": 149,
+    "atypeId": 1,
+    "description": "特效：[阳内抵御﹢8%]　[闪避﹢6%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.06
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 955,
+    "name": "书生鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 270: 1\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 285, 0, 0, 9, 0, 4, 0, 3 ],
+    "price": 1850
+  },
+  {
+    "id": 150,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢8%]　[阳内抵御﹢8%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      }
+    ],
+    "iconIndex": 130,
+    "name": "铁发钗",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 1\nitem 29: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 0, 210, 0, 7, 4, 3, 0, 0 ],
+    "price": 2100
+  },
+  {
+    "id": 151,
+    "atypeId": 1,
+    "description": "特效：[内力耗损﹣2%]　[暴击﹢2%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.98
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 546,
+    "name": "行李包",
+    "note": "<ici:2>\n<Random Variance: 5>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 270: 2\nitem 271: 2\ngold: 3500\n</Synthesis Ingredients>",
+    "params": [ 180, 20, 0, 10, 1, 1, 1, 1 ],
+    "price": 3500
+  },
+  {
+    "id": 152,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 153,
+    "atypeId": 1,
+    "description": "特效：[伤害减免﹢10%]　[阳内抵御﹢8%]　[抗暴﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 741,
+    "name": "玄青衣",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 275: 4\nitem 271: 4\nitem 270: 3\nitem 57: 1\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 720, 110, 0, 35, 15, 5, 0, 0 ],
+    "price": 38500
+  },
+  {
+    "id": 154,
+    "atypeId": 1,
+    "description": "特效：[抗点穴﹢15%]　[闪避﹢9%]　[阴内抵御﹢11%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.09
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.11
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.85
+      }
+    ],
+    "iconIndex": 958,
+    "name": "鎏金靴",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 275: 3\nitem 271: 1\nitem 270: 2\nitem 254: 2\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 420, 60, 0, 30, 7, 0, 7, 0 ],
+    "price": 32500
+  },
+  {
+    "id": 155,
+    "atypeId": 1,
+    "description": "特效：[抗剧毒﹢15%]　[无属性抵御﹢8%]　[毒内抵御﹢8%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.08
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.08
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.85
+      }
+    ],
+    "iconIndex": 933,
+    "name": "御寒帽",
+    "note": "<ici:3>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 276: 2\nitem 270: 5\nitem 254: 1\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 120, 410, 0, 28, 8, 8, 0, 0 ],
+    "price": 33000
+  },
+  {
+    "id": 156,
+    "atypeId": 1,
+    "description": "特效：[内力耗损﹣8%]　[抗暴击﹢6%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.06
+      }
+    ],
+    "iconIndex": 960,
+    "name": "赤铁护手",
+    "note": "<ici:3>\n<Random Variance: 10>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 258: 4\nitem 259: 3\nitem 271: 1\nitem 270: 2\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 10, 50, 10, 0, 0, 0 ],
+    "price": 28000
+  },
+  {
+    "id": 157,
+    "atypeId": 1,
+    "description": "特效：[宝物掉落率﹢200%] [额外受到伤害﹢30%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 64,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.3
+      }
+    ],
+    "iconIndex": 646,
+    "name": "聚宝盆",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>\n<Synthesis Ingredients>\nitem 262: 7\nitem 261: 8\nitem 235: 15\nitem 32: 21\nitem 70: 5\ngold: 3850000\n</Synthesis Ingredients>",
+    "params": [ 1000, 200, 0, 0, 10, 0, 0, 100 ],
+    "price": 850000
+  },
+  {
+    "id": 158,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 159,
+    "atypeId": 1,
+    "description": "特效：[伤害抵御﹢17%]　[回内﹢2%]　[阴内抵御﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.83
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.14
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.02
+      }
+    ],
+    "iconIndex": 355,
+    "name": "豪侠装",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 13>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 277: 4\nitem 272: 5\nitem 270: 9\nitem 271: 6\nitem 66: 2\ngold: 17500\n</Synthesis Ingredients>",
+    "params": [ 1350, 450, 0, 55, 10, 10, 10, 0 ],
+    "price": 288000
+  },
+  {
+    "id": 160,
+    "atypeId": 1,
+    "description": "特效：[阴内抵御﹢11%]　[抗暴击﹢13%]　[抗剧毒﹢25%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.11
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.13
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 361,
+    "name": "翠凤朱钗",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 13>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 260: 2\nitem 234: 8\nitem 31: 9\nitem 276: 2\nitem 54: 3\ngold: 17500\n</Synthesis Ingredients>",
+    "params": [ 360, 720, 0, 50, 9, 9, 9, 0 ],
+    "price": 220000
+  },
+  {
+    "id": 161,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢22%]　[闪避﹢11%]　[无属性抵御﹢13%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.11
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.13
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.78
+      }
+    ],
+    "iconIndex": 670,
+    "name": "御劲鞋",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 13>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 259: 2\nitem 272: 7\nitem 31: 6\nitem 276: 3\nitem 58: 3\ngold: 17500\n</Synthesis Ingredients>",
+    "params": [ 980, 120, 0, 45, 9, 9, 9, 9 ],
+    "price": 210000
+  },
+  {
+    "id": 162,
+    "atypeId": 1,
+    "description": "特效：[金钱获得﹢200%]　[额外受到伤害﹢30%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 64,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.3
+      }
+    ],
+    "iconIndex": 644,
+    "name": "财宝箱",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>",
+    "params": [ 200, 1000, 0, 0, 0, 10, 0, 100 ],
+    "price": 850000
+  },
+  {
+    "id": 163,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 164,
+    "atypeId": 1,
+    "description": "特效：[抗流血﹢10%]　[伤害抵御﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 743,
+    "name": "牛犊·衣",
+    "note": "<ici:2>\n<Suit:1,1,169,170>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 250, 0, 0, 10, 0, 0, 4, 0 ],
+    "price": 500
+  },
+  {
+    "id": 165,
+    "atypeId": 1,
+    "description": "特效：[毒内抵御﹢8%]　[抗封招﹢8%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.92
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.08
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.92
+      }
+    ],
+    "iconIndex": 940,
+    "name": "牛犊·帽",
+    "note": "<ici:2>\n<Suit:1,1,169,170>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 130, 0, 8, 0, 4, 0, 0 ],
+    "price": 400
+  },
+  {
+    "id": 166,
+    "atypeId": 1,
+    "description": "特效：[抗中毒﹢10%]　[闪避﹢5%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 955,
+    "name": "牛犊·鞋",
+    "note": "<ici:2>\n<Suit:1,1,169,170>\n<Upgrade Slots: 2>\n<Random Variance: 3>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 200, 0, 0, 9, 0, 0, 4, 0 ],
+    "price": 300
+  },
+  {
+    "id": 167,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 168,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢4%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.04
+      }
+    ],
+    "iconIndex": 692,
+    "name": "护身符",
+    "note": "<ici:2>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 3000
+  },
+  {
+    "id": 169,
+    "atypeId": 1,
+    "description": "特效：[命中﹢10%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 414,
+    "name": "磨刀石",
+    "note": "<ici:2>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 3200
+  },
+  {
+    "id": 170,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 171,
+    "atypeId": 1,
+    "description": "特效：[伤害减免﹢14%]　[阳内抵御﹢10%]　[抗暴击﹢10%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.1
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 138,
+    "name": "恶霸·装",
+    "note": "<ici:3>\n<Item 102 Buy Price: 40>\n<Suit:5,1,177,178>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 495, 50, 0, 25, 10, 0, 0, 0 ],
+    "price": 38500
+  },
+  {
+    "id": 172,
+    "atypeId": 1,
+    "description": "特效：[抗重伤﹢13%]　[闪避﹢8%]　[混元抵御﹢10%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.08
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 365,
+    "name": "恶霸·履",
+    "note": "<ici:3>\n<Item 102 Buy Price: 40>\n<Suit:5,1,177,178>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 300, 20, 0, 20, 7, 0, 0, 0 ],
+    "price": 32500
+  },
+  {
+    "id": 173,
+    "atypeId": 1,
+    "description": "特效：[抗破绽﹢14%]　[抗眩晕﹢11%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.86
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.89
+      }
+    ],
+    "iconIndex": 101,
+    "name": "恶霸·巾",
+    "note": "<ici:3>\n<Item 102 Buy Price: 40>\n<Suit:5,1,177,178>\n<Upgrade Slots: 3>\n<Random Variance: 7>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 110, 280, 0, 18, 5, 5, 0, 0 ],
+    "price": 33000
+  },
+  {
+    "id": 174,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 175,
+    "atypeId": 1,
+    "description": "特效：[伤害抵御﹢17%]　[抗破绽﹢25%]　[抗暴击﹢14%]",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.83
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 919,
+    "name": "西夏·铠甲",
+    "note": "<ici:5>\n<Item 332 Buy Price: 10>\n<Suit:6,1,179,180>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 900, 100, 0, 43, 24, 0, 0, 0 ],
+    "price": 120000
+  },
+  {
+    "id": 176,
+    "atypeId": 1,
+    "description": "特效：[抗燃烧﹢22%]　[闪避﹢10%]　[阳内抵御﹢14%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.78
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.1
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.86
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.14
+      }
+    ],
+    "iconIndex": 366,
+    "name": "西夏·军靴",
+    "note": "<ici:5>\n<Item 332 Buy Price: 10>\n<Suit:6,1,179,180>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 750, 0, 0, 41, 0, 0, 24, 0 ],
+    "price": 116000
+  },
+  {
+    "id": 177,
+    "atypeId": 1,
+    "description": "特效：[抗眩晕﹢24%]　[回内﹢2%]　[混元抵御﹢13%]",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.76
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.02
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.87
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.13
+      }
+    ],
+    "iconIndex": 628,
+    "name": "西夏·战盔",
+    "note": "<ici:5>\n<Item 332 Buy Price: 10>\n<Suit:6,1,179,180>\n<Upgrade Slots: 4>\n<Random Variance: 11>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 280, 700, 0, 42, 0, 24, 0, 0 ],
+    "price": 115000
+  },
+  {
+    "id": 178,
+    "atypeId": 0,
+    "description": "宝石",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "----------------------",
+    "note": "",
+    "params": [ 0, 0, 100, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 179,
+    "atypeId": 1,
+    "description": "特效：[命中﹢12%]　[混元抵御﹢7%]　[抗眩晕﹢18%]",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.12
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.07
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.82
+      }
+    ],
+    "iconIndex": 939,
+    "name": "七星镜",
+    "note": "<ici:6>\n<Random Variance: 20>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 10, 0, 10 ],
+    "price": 0
+  },
+  {
+    "id": 180,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 181,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 182,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 183,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 184,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 185,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 186,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 187,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 188,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 189,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 190,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 191,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢2%]　[阴内抵御﹢2%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.98
+      }
+    ],
+    "iconIndex": 669,
+    "name": "英雄·鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 15, 0, 4, 0, 20, 0, 0 ],
+    "price": 2000
+  },
+  {
+    "id": 192,
+    "atypeId": 1,
+    "description": "特效：[闪避﹢2%]　[阴内抵御﹢2%]",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.98
+      }
+    ],
+    "iconIndex": 598,
+    "name": "青龙·鞋",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 15, 0, 4, 0, 20, 0, 0 ],
+    "price": 2000
+  },
+  {
+    "id": 193,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 148,
+    "name": "测试1",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 194,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 144,
+    "name": "测试2",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 195,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 110,
+    "name": "测试3",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 196,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 3,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 103,
+    "name": "2",
+    "note": "<Suit:1,1,169,170,171>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 197,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 110,
+    "name": "3",
+    "note": "<Suit:1,1,169,170,171>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 198,
+    "atypeId": 1,
+    "description": "",
+    "etypeId": 4,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 129,
+    "name": "4",
+    "note": "<Suit:1,1,169,170,171>",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 199,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 200,
+    "atypeId": 1,
+    "description": "为\\c[14]英雄群侠传II\\c[0]打造的\\c[31]一周年\\c[0]的纪念龙形头冠，纯纪念！",
+    "etypeId": 5,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.02
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 10,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.9
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 701,
+    "name": "英雄梦",
+    "note": "<ici:6>\n<Random Variance: 1>\n<No Augment Slots>",
+    "params": [ 1, 1, 1, 1, 1, 1, 1, 1 ],
+    "price": 100000
+  },
+  {
+    "id": 201,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  },
+  {
+    "id": 202,
+    "atypeId": 0,
+    "description": "",
+    "etypeId": 2,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0
+  }
+]

@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"autoRemovalTiming":0,"chanceByDamage":100,"iconIndex":0,"maxTurns":1,"message1":"倒在了血泊之中！","message2":"倒在了血泊之中！","message3":"","message4":"站了起来！","minTurns":1,"motion":3,"name":"死亡","note":"当HP为0时，\n将会自动附加1号状态。","overlay":0,"priority":100,"releaseByDamage":false,"removeAtBattleEnd":false,"removeByDamage":false,"removeByRestriction":false,"removeByWalking":false,"restriction":4,"stepsToRemove":100,"traits":[{"code":23,"dataId":9,"value":0}]}
+]

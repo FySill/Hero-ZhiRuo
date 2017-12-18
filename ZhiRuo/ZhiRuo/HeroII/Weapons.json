@@ -1,0 +1,6224 @@
+[
+  null,
+  {
+    "id": 1,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢3%]　[命中﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 16,
+    "name": "菜刀",
+    "note": "<ici:1>\n<Max Item: 1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 7, 0, 5, 0, 0, 0 ],
+    "price": 1500,
+    "wtypeId": 2
+  },
+  {
+    "id": 2,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢1%]　[命中﹢7%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.07
+      }
+    ],
+    "iconIndex": 17,
+    "name": "匕首",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 5, 0, 0, 0, 5, 0 ],
+    "price": 1400,
+    "wtypeId": 1
+  },
+  {
+    "id": 3,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢1%]　[命中﹢8%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 18,
+    "name": "碎石",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 4, 0, 0, 0, 2, 2 ],
+    "price": 1200,
+    "wtypeId": 4
+  },
+  {
+    "id": 4,
+    "animationId": 1,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢3%]　[命中﹢6%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.06
+      }
+    ],
+    "iconIndex": 19,
+    "name": "拐杖",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 9, 0, 0, 3, 0, 2 ],
+    "price": 1680,
+    "wtypeId": 3
+  },
+  {
+    "id": 5,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 6,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢5%]　[命中﹢8%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 576,
+    "name": "钢刀",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 27, 0, 2, 2, 2, 0 ],
+    "price": 8800,
+    "wtypeId": 2
+  },
+  {
+    "id": 7,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢3%]　[命中﹢11%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 21,
+    "name": "铁剑",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 25, 0, 2, 2, 2, 0 ],
+    "price": 8500,
+    "wtypeId": 1
+  },
+  {
+    "id": 8,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢3%]　[命中﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 22,
+    "name": "绣花针",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 23, 0, 2, 2, 2, 0 ],
+    "price": 7550,
+    "wtypeId": 4
+  },
+  {
+    "id": 9,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢2%]　[命中﹢12%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 23,
+    "name": "金钱镖",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 21, 0, 2, 2, 2, 0 ],
+    "price": 7600,
+    "wtypeId": 4
+  },
+  {
+    "id": 10,
+    "animationId": 1,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢3%]　[命中﹢9%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.09
+      }
+    ],
+    "iconIndex": 24,
+    "name": "木棍",
+    "note": "<ici:2>\n<Upgrade Slots: 2>\n<Random Variance: 10>\n<No Augment Slots>",
+    "params": [ 0, 0, 29, 0, 2, 2, 2, 0 ],
+    "price": 9800,
+    "wtypeId": 3
+  },
+  {
+    "id": 11,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 12,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢9%]　[命中﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.09
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 25,
+    "name": "鬼头刀",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 36, 0, 10, 0, 0, 0 ],
+    "price": 15000,
+    "wtypeId": 2
+  },
+  {
+    "id": 13,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢6%]　[命中﹢14%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.06
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 586,
+    "name": "青锋剑",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 34, 0, 0, 0, 10, 0 ],
+    "price": 12000,
+    "wtypeId": 1
+  },
+  {
+    "id": 14,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢7%]　[命中﹢12%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 27,
+    "name": "柳叶镖",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 28, 0, 0, 0, 10, 0 ],
+    "price": 11000,
+    "wtypeId": 4
+  },
+  {
+    "id": 15,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢5%]　[命中﹢14%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 28,
+    "name": "梅花镖",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 25, 0, 10, 0, 0, 0 ],
+    "price": 11000,
+    "wtypeId": 4
+  },
+  {
+    "id": 16,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢8%]　[命中﹢12%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 29,
+    "name": "齐眉棍",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 38, 0, 10, 0, 0, 0 ],
+    "price": 18000,
+    "wtypeId": 3
+  },
+  {
+    "id": 17,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 18,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢14%]　[命中﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 30,
+    "name": "紫金刀",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 66, 0, 15, 0, 15, 0 ],
+    "price": 56000,
+    "wtypeId": 2
+  },
+  {
+    "id": 19,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢12%]　[命中﹢18%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.18
+      }
+    ],
+    "iconIndex": 31,
+    "name": "鸳鸯刀",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 67, 0, 15, 15, 0, 0 ],
+    "price": 56000,
+    "wtypeId": 2
+  },
+  {
+    "id": 20,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[回血﹢1%]　[暴击﹢11%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 584,
+    "name": "君子剑",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 65, 0, 15, 0, 15, 0 ],
+    "price": 55000,
+    "wtypeId": 1
+  },
+  {
+    "id": 21,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[回内﹢2%]　[暴击﹢11%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 496,
+    "name": "淑女剑",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 63, 0, 0, 15, 15, 0 ],
+    "price": 55000,
+    "wtypeId": 1
+  },
+  {
+    "id": 22,
+    "animationId": 255,
+    "description": "\\c[3][中毒]\\c[0]　特效：[暴击﹢11%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 5,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 498,
+    "name": "玉蜂针",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 55, 0, 0, 15, 15, 0 ],
+    "price": 53000,
+    "wtypeId": 4
+  },
+  {
+    "id": 23,
+    "animationId": 255,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[暴击﹢14%]　[命中﹢17%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 499,
+    "name": "冰魄银针",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 57, 0, 15, 15, 0, 0 ],
+    "price": 55000,
+    "wtypeId": 4
+  },
+  {
+    "id": 24,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢11%]　[命中﹢21%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.21
+      }
+    ],
+    "iconIndex": 501,
+    "name": "无影神针",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 61, 0, 15, 0, 15, 0 ],
+    "price": 54000,
+    "wtypeId": 4
+  },
+  {
+    "id": 25,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢15%]　[命中﹢12%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 796,
+    "name": "铁蒺藜",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 57, 0, 15, 0, 15, 0 ],
+    "price": 53000,
+    "wtypeId": 4
+  },
+  {
+    "id": 26,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢12%]　[命中﹢18%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.18
+      }
+    ],
+    "iconIndex": 502,
+    "name": "盘龙棍",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 64, 0, 15, 0, 15, 0 ],
+    "price": 57000,
+    "wtypeId": 3
+  },
+  {
+    "id": 27,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢15%]　[命中﹢13%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.13
+      }
+    ],
+    "iconIndex": 503,
+    "name": "伏魔棍",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 68, 0, 15, 15, 0, 0 ],
+    "price": 57000,
+    "wtypeId": 3
+  },
+  {
+    "id": 28,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 29,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[回血﹢3%]　[暴击﹢16%]　[命中﹢23%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.16
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.23
+      }
+    ],
+    "iconIndex": 784,
+    "name": "闯王军刀",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 148, 0, 30, 0, 30, 0 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 30,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[回血﹢5%]　[暴击﹢22%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 786,
+    "name": "血刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 248, 0, 50, 1, 1, 1 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 31,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢21%]　[命中﹢27%]　[流血﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.21
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.27
+      }
+    ],
+    "iconIndex": 787,
+    "name": "冷月宝刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 255, 0, 1, 1, 50, 1 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 32,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢18%]　[命中﹢35%]　[流血﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.35
+      }
+    ],
+    "iconIndex": 785,
+    "name": "蝉翼刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 263, 0, 1, 50, 1, 1 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 33,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[怒气获得﹢30%]　[暴击﹢18%]　[命中﹢30%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 788,
+    "name": "圆月弯刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 275, 0, 1, 1, 50, 1 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 34,
+    "animationId": 23,
+    "description": "\\c[14][重伤]\\c[0]　特效：[怒气获得﹢50%]　[暴击﹢25%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 13,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 789,
+    "name": "屠龙刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 290, 0, 20, 20, 1, 1 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 35,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 36,
+    "animationId": 23,
+    "description": "\\c[24][破绽]\\c[0]　特效：[内力耗损﹣10%]　[暴击﹢20%]　[命中﹢35%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 9,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.35
+      }
+    ],
+    "iconIndex": 790,
+    "name": "倚天剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 275, 0, 1, 20, 20, 1 ],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 37,
+    "animationId": 23,
+    "description": "\\c[3][中毒]\\c[0]　特效：[抗中毒﹢80%]　[暴击﹢18%]　[命中﹢35%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 5,
+        "value": 0.1
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.35
+      }
+    ],
+    "iconIndex": 791,
+    "name": "金蛇剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 245, 0, 1, 1, 50, 1 ],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 38,
+    "animationId": 23,
+    "description": "\\c[24][破绽]\\c[0]　特效：[怒气获得﹢45%]　[暴击﹢30%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 9,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.45
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 782,
+    "name": "玄铁剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 300, 0, 20, 20, 1, 1 ],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 39,
+    "animationId": 23,
+    "description": "\\c[12][点穴]\\c[0]　特效：[回血﹢2%]　[暴击﹢16%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.16
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 513,
+    "name": "紫薇软剑",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 146, 0, 0, 30, 30, 0 ],
+    "price": 265000,
+    "wtypeId": 1
+  },
+  {
+    "id": 40,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[回血﹢3%]　[怒气获得﹢30%]　[命中﹢25%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.25
+      }
+    ],
+    "iconIndex": 514,
+    "name": "凝碧剑",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 137, 0, 30, 30, 0, 0 ],
+    "price": 230000,
+    "wtypeId": 1
+  },
+  {
+    "id": 41,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[怒气获得﹢20%]　[暴击﹢14%]　[命中﹢25%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.07
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.25
+      }
+    ],
+    "iconIndex": 515,
+    "name": "白虹剑",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 129, 0, 30, 0, 30, 0 ],
+    "price": 200000,
+    "wtypeId": 1
+  },
+  {
+    "id": 42,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 43,
+    "animationId": 255,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[暴击﹢23%]　[命中﹢30%]　[剧毒﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.23
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 516,
+    "name": "含沙射影",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 245, 0, 1, 1, 50, 1 ],
+    "price": 425000,
+    "wtypeId": 4
+  },
+  {
+    "id": 44,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[怒气获得﹢20%]　[暴击﹢18%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 648,
+    "name": "天蚕丝",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 225, 0, 20, 1, 20, 1 ],
+    "price": 0,
+    "wtypeId": 4
+  },
+  {
+    "id": 45,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢18%]　[命中﹢28%]　[点穴﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 518,
+    "name": "暴雨梨花",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 140, 0, 0, 30, 30, 0 ],
+    "price": 230000,
+    "wtypeId": 4
+  },
+  {
+    "id": 46,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢17%]　[命中﹢24%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.24
+      }
+    ],
+    "iconIndex": 1089,
+    "name": "透骨钉",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 143, 0, 30, 0, 30, 0 ],
+    "price": 254000,
+    "wtypeId": 4
+  },
+  {
+    "id": 47,
+    "animationId": 255,
+    "description": "\\c[12][封内]\\c[0]　特效：[回内﹢5%]　[回血﹢3%]　[命中﹢35%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 12,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.35
+      }
+    ],
+    "iconIndex": 795,
+    "name": "生死符",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 278, 0, 1, 50, 1, 1 ],
+    "price": 450000,
+    "wtypeId": 4
+  },
+  {
+    "id": 48,
+    "animationId": 255,
+    "description": "\\c[12][点穴]\\c[0]　特效：[回血﹢2%]　[回内﹢2%]　[命中﹢30%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 793,
+    "name": "龙凤双环",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 123, 0, 30, 30, 0, 0 ],
+    "price": 230000,
+    "wtypeId": 4
+  },
+  {
+    "id": 49,
+    "animationId": 255,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢18%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 794,
+    "name": "精钢飞刀",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 148, 0, 30, 0, 30, 0 ],
+    "price": 250000,
+    "wtypeId": 4
+  },
+  {
+    "id": 50,
+    "animationId": 255,
+    "description": "\\c[3][猛毒]\\c[0]　特效：[暴击﹢16%]　[命中﹢27%]　[猛毒﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 7,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.16
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.27
+      }
+    ],
+    "iconIndex": 688,
+    "name": "逍遥散",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 115, 0, 0, 30, 30, 0 ],
+    "price": 210000,
+    "wtypeId": 4
+  },
+  {
+    "id": 51,
+    "animationId": 255,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[暴击﹢12%]　[命中﹢17%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 519,
+    "name": "黑雨神针",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 54, 0, 15, 0, 15, 0 ],
+    "price": 51000,
+    "wtypeId": 4
+  },
+  {
+    "id": 52,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 53,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[怒气获得﹢30%]　[暴击﹢25%]　[命中﹢27%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.27
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.3
+      }
+    ],
+    "iconIndex": 69,
+    "name": "打狗棒",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 0,
+    "wtypeId": 3
+  },
+  {
+    "id": 54,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[内力耗损﹣12%]　[暴击﹢23%]　[命中﹢24%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.88
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.24
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 798,
+    "name": "达摩禅杖",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 238, 0, 50, 1, 1, 1 ],
+    "price": 450000,
+    "wtypeId": 3
+  },
+  {
+    "id": 55,
+    "animationId": 19,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[怒气获得﹢30%]　[暴击﹢18%]　[命中﹢25%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.07
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.25
+      }
+    ],
+    "iconIndex": 799,
+    "name": "蛇杖",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 148, 0, 30, 0, 30, 0 ],
+    "price": 285000,
+    "wtypeId": 3
+  },
+  {
+    "id": 56,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢17%]　[命中﹢20%]　[眩晕﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 64,
+    "name": "囚龙棒",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 139, 0, 30, 30, 10, 0 ],
+    "price": 245000,
+    "wtypeId": 3
+  },
+  {
+    "id": 57,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[回血﹢5%]　[命中﹢26%]　[治疗效果﹢15%]　",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.26
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 1.15
+      }
+    ],
+    "iconIndex": 65,
+    "name": "枯荣禅杖",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 121, 0, 0, 30, 0, 30 ],
+    "price": 218000,
+    "wtypeId": 3
+  },
+  {
+    "id": 58,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢20%]　[眩晕﹢10%]　[怒气获得﹢30%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.17
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 944,
+    "name": "金箍棒",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 138, 0, 30, 0, 30, 0 ],
+    "price": 245000,
+    "wtypeId": 3
+  },
+  {
+    "id": 59,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 60,
+    "animationId": 1,
+    "description": "\\c[24][破绽]\\c[0]　特效：[暴击﹢6%]　[命中﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 9,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.06
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 67,
+    "name": "檀香扇",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 8, 0, 5, 5, 5, 0 ],
+    "price": 7500,
+    "wtypeId": 5
+  },
+  {
+    "id": 61,
+    "animationId": 255,
+    "description": "\\c[23][封内]\\c[0]　特效：[暴击﹢4%]　[命中﹢14%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 12,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 22,
+    "name": "缝衣针",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 6, 0, 0, 0, 10, 0 ],
+    "price": 4600,
+    "wtypeId": 4
+  },
+  {
+    "id": 62,
+    "animationId": 1,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢8%]　[命中﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 68,
+    "name": "园工剪",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 3, 0, 10, 1, 5, 0 ],
+    "price": 5200,
+    "wtypeId": 5
+  },
+  {
+    "id": 63,
+    "animationId": 1,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[内力耗损﹣4%]　[暴击﹢7%]　[命中﹢13%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.13
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.96
+      }
+    ],
+    "iconIndex": 69,
+    "name": "白玉箫",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 11, 0, 5, 5, 20, 5 ],
+    "price": 8600,
+    "wtypeId": 5
+  },
+  {
+    "id": 64,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢7%]　[命中﹢11%]　[流血﹢6%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 70,
+    "name": "杀猪刀",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 17, 0, 10, 0, 10, 0 ],
+    "price": 5800,
+    "wtypeId": 2
+  },
+  {
+    "id": 65,
+    "animationId": 1,
+    "description": "\\c[23][封内]\\c[0]　特效：[暴击﹢5%]　[命中﹢14%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 12,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 71,
+    "name": "花蝶扇",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 12, 0, 0, 20, 5, 1 ],
+    "price": 7200,
+    "wtypeId": 5
+  },
+  {
+    "id": 66,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢17%]　[命中﹢25%]　[流血﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.25
+      }
+    ],
+    "iconIndex": 943,
+    "name": "村正",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 180, 0, 20, 0, 20, 0 ],
+    "price": 175000,
+    "wtypeId": 2
+  },
+  {
+    "id": 67,
+    "animationId": 1,
+    "description": "\\c[3][中毒]\\c[0]　特效：[命中﹢11%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 5,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 73,
+    "name": "长鞭",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 4, 0, 0, 10, 10, 0 ],
+    "price": 4300,
+    "wtypeId": 5
+  },
+  {
+    "id": 68,
+    "animationId": 1,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[暴击﹢6%]　[命中﹢9%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.06
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.09
+      }
+    ],
+    "iconIndex": 74,
+    "name": "梨花鞭",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 21, 0, 10, 10, 20, 0 ],
+    "price": 8500,
+    "wtypeId": 5
+  },
+  {
+    "id": 69,
+    "animationId": 1,
+    "description": "\\c[23][封招]\\c[0]　特效：[暴击﹢11%]　[命中﹢17%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 11,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 75,
+    "name": "拂尘",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 65, 0, 0, 15, 15, 0 ],
+    "price": 88000,
+    "wtypeId": 5
+  },
+  {
+    "id": 70,
+    "animationId": 1,
+    "description": "\\c[2][燃烧]\\c[0]　特效：[暴击﹢14%]　[命中﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 8,
+        "value": 0.04
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 76,
+    "name": "红拂",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 50, 0, 15, 15, 15, 0 ],
+    "price": 98000,
+    "wtypeId": 5
+  },
+  {
+    "id": 71,
+    "animationId": 1,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢7%]　[命中﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 24,
+    "name": "铁拐",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 7, 0, 0, 10, 0, 0 ],
+    "price": 6500,
+    "wtypeId": 3
+  },
+  {
+    "id": 72,
+    "animationId": 1,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢5%]　[命中﹢12%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.12
+      }
+    ],
+    "iconIndex": 89,
+    "name": "护手钩",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 14, 0, 10, 0, 0, 10 ],
+    "price": 6880,
+    "wtypeId": 5
+  },
+  {
+    "id": 73,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢12%]　[命中﹢21%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.21
+      }
+    ],
+    "iconIndex": 85,
+    "name": "楚妃剑",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 65, 0, 15, 0, 15, 0 ],
+    "price": 54000,
+    "wtypeId": 1
+  },
+  {
+    "id": 74,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢9%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.09
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 87,
+    "name": "柳玉刀",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 67, 0, 15, 15, 0, 0 ],
+    "price": 64500,
+    "wtypeId": 2
+  },
+  {
+    "id": 75,
+    "animationId": 1,
+    "description": "用于\\c[23]【垂钓】\\c[0]之用，有一定的损坏几率。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 86,
+    "name": "钓竿",
+    "note": "<ici:1>\n<Upgrade Slots: 5>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\ngold: 200\n</Synthesis Ingredients>\n",
+    "params": [ 0, 0, 3, 0, 0, 0, 5, 0 ],
+    "price": 800,
+    "wtypeId": 5
+  },
+  {
+    "id": 76,
+    "animationId": 23,
+    "description": "\\c[14][重伤]\\c[0]　特效：[怒气获得﹢50%]　[暴击﹢22%]　[命中﹢32%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 13,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.32
+      }
+    ],
+    "iconIndex": 88,
+    "name": "磬龙剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 255, 0, 20, 1, 20, 1 ],
+    "price": 550000,
+    "wtypeId": 1
+  },
+  {
+    "id": 77,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢8%]　[命中﹢10%]　[流血﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.13
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 84,
+    "name": "祖传菜刀",
+    "note": "<ici:2>\n<Upgrade Slots: 5>\n<Random Variance: 10>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 25, 0, 20, 0, 0, 0 ],
+    "price": 7500,
+    "wtypeId": 2
+  },
+  {
+    "id": 78,
+    "animationId": 1,
+    "description": "\\c[24][破绽]\\c[0]　特效：[暴击﹢15%]　[命中﹢18%]　[破绽﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 9,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.18
+      }
+    ],
+    "iconIndex": 83,
+    "name": "三角铁叉",
+    "note": "<ici:3>\n<Upgrade Slots: 5>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 68, 0, 0, 0, 30, 0 ],
+    "price": 80000,
+    "wtypeId": 3
+  },
+  {
+    "id": 79,
+    "animationId": 23,
+    "description": "\\c[14][重伤]\\c[0]　特效：[暴击﹢21%]　[命中﹢30%]　[内力耗损﹣15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 13,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.85
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.21
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 82,
+    "name": "金乌刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 242, 0, 50, 1, 1, 1 ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 80,
+    "animationId": 255,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[抗剧毒﹢80%]　[暴击﹢23%]　[命中﹢30%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.23
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      },
+      {
+        "code": 43,
+        "dataId": 292,
+        "value": 1
+      }
+    ],
+    "iconIndex": 81,
+    "name": "金蛇锥",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 265, 0, 20, 1, 20, 1 ],
+    "price": 0,
+    "wtypeId": 4
+  },
+  {
+    "id": 81,
+    "animationId": 1,
+    "description": "\\c[3][猛毒]\\c[0]　特效：[抗猛毒﹢80%]　[暴击﹢22%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 7,
+        "value": 0.1
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 77,
+    "name": "神木王鼎",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 248, 0, 20, 20, 1, 1 ],
+    "price": 0,
+    "wtypeId": 3
+  },
+  {
+    "id": 82,
+    "animationId": 23,
+    "description": "\\c[18][流血]\\c[0]　特效：[回血﹢2%]　[暴击﹢17%]　[命中﹢23%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.02
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.23
+      }
+    ],
+    "iconIndex": 78,
+    "name": "明月刀",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 115, 0, 30, 30, 0, 0 ],
+    "price": 218000,
+    "wtypeId": 2
+  },
+  {
+    "id": 83,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[抗燃烧﹢60%]　[暴击﹢18%]　[命中﹢24%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.07
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.4
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.24
+      }
+    ],
+    "iconIndex": 694,
+    "name": "梵天棍",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 125, 0, 30, 30, 0, 0 ],
+    "price": 220000,
+    "wtypeId": 3
+  },
+  {
+    "id": 84,
+    "animationId": 19,
+    "description": "\\c[3][中毒]\\c[0]　特效：[抗中毒﹢60%]　[暴击﹢16%]　[命中﹢28%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 5,
+        "value": 0.07
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.16
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 80,
+    "name": "青竹棍",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 138, 0, 30, 0, 30, 0 ],
+    "price": 248000,
+    "wtypeId": 3
+  },
+  {
+    "id": 85,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 86,
+    "animationId": 23,
+    "description": "特效：[命中﹢10%]　[回血﹢3%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 90,
+    "name": "长生剑",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 125, 0, 0, 30, 30, 0 ],
+    "price": 225000,
+    "wtypeId": 1
+  },
+  {
+    "id": 87,
+    "animationId": 23,
+    "description": "特效：[暴击﹢15%]　[命中﹢5%]　[免疫剧毒]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 14,
+        "dataId": 22,
+        "value": 1
+      }
+    ],
+    "iconIndex": 91,
+    "name": "碧玉刀",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 150, 0, 30, 0, 30, 0 ],
+    "price": 225000,
+    "wtypeId": 2
+  },
+  {
+    "id": 88,
+    "animationId": 1,
+    "description": "特效：[暴击﹢10%]　[命中﹢15%]　[免疫点穴]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      },
+      {
+        "code": 14,
+        "dataId": 11,
+        "value": 1
+      }
+    ],
+    "iconIndex": 92,
+    "name": "霸王枪",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 190, 0, 30, 30, 0, 0 ],
+    "price": 225000,
+    "wtypeId": 3
+  },
+  {
+    "id": 89,
+    "animationId": 1,
+    "description": "特效：[命中﹢15%]　[回血﹢1%]　[回内﹢1%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      }
+    ],
+    "iconIndex": 93,
+    "name": "多情环",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 115, 0, 0, 30, 30, 0 ],
+    "price": 225000,
+    "wtypeId": 4
+  },
+  {
+    "id": 90,
+    "animationId": 1,
+    "description": "特效：[暴击﹢15%]　[命中﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 94,
+    "name": "离别钩",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 125, 0, 30, 0, 30, 0 ],
+    "price": 225000,
+    "wtypeId": 1
+  },
+  {
+    "id": 91,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢20%]　[免疫中毒]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      }
+    ],
+    "iconIndex": 95,
+    "name": "孔雀翎",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 130, 0, 30, 0, 30, 0 ],
+    "price": 225000,
+    "wtypeId": 4
+  },
+  {
+    "id": 92,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 93,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[回血﹢3%]　[回内﹢1%]　[命中﹢8%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 96,
+    "name": "梵皇·棍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
+    "price": 458000,
+    "wtypeId": 3
+  },
+  {
+    "id": 94,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[回血﹢3%]　[回内﹢1%]　[命中﹢8%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 97,
+    "name": "天陨·刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
+    "price": 458000,
+    "wtypeId": 2
+  },
+  {
+    "id": 95,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[回血﹢3%]　[回内﹢1%]　[命中﹢8%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 98,
+    "name": "苍穹·剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
+    "price": 458000,
+    "wtypeId": 1
+  },
+  {
+    "id": 96,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[回血﹢3%]　[回内﹢1%]　[命中﹢8%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.01
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 99,
+    "name": "南宫·针",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 280, 0, 70, 70, 70, 70 ],
+    "price": 458000,
+    "wtypeId": 4
+  },
+  {
+    "id": 97,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 98,
+    "animationId": 0,
+    "description": "张猎户赠送的老旧不堪的钓竿，看样子就快坏了。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 86,
+    "name": "老旧的钓竿",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 1, 0, 0, 0, 1, 0 ],
+    "price": 10,
+    "wtypeId": 5
+  },
+  {
+    "id": 99,
+    "animationId": 0,
+    "description": "张猎户赠送的老旧不堪的斧头，看样子就快坏了。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 395,
+    "name": "老旧的斧头",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 1, 0, 1, 0, 0, 0 ],
+    "price": 10,
+    "wtypeId": 5
+  },
+  {
+    "id": 100,
+    "animationId": 0,
+    "description": "张猎户赠送的老旧不堪的铁镐，看样子就快坏了。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 408,
+    "name": "老旧的铁镐",
+    "note": "<ici:1>\n<Upgrade Slots: 1>\n<Random Variance: 5>\n<No Augment Slots>",
+    "params": [ 0, 0, 1, 0, 0, 1, 0, 0 ],
+    "price": 10,
+    "wtypeId": 5
+  },
+  {
+    "id": 101,
+    "animationId": 1,
+    "description": "用于\\c[23]【采矿】\\c[0]之用，有一定的损坏几率。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 408,
+    "name": "铁镐",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 1\nitem 30: 2\ngold: 50\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 5, 0, 0, 5, 5, 0 ],
+    "price": 300,
+    "wtypeId": 5
+  },
+  {
+    "id": 102,
+    "animationId": 20,
+    "description": "用于\\c[23]【伐木】\\c[0]之用，有一定的损坏几率。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 395,
+    "name": "铁斧",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 1\nitem 30: 2\ngold: 50\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 5, 0, 5, 0, 0, 0 ],
+    "price": 300,
+    "wtypeId": 5
+  },
+  {
+    "id": 103,
+    "animationId": 1,
+    "description": "用于\\c[23]【采矿】\\c[0]之用，\\c[14][永不损坏]\\c[0]。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 382,
+    "name": "黄金·镐",
+    "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 1, 0, 0 ],
+    "price": 0,
+    "wtypeId": 5
+  },
+  {
+    "id": 104,
+    "animationId": 20,
+    "description": "用于\\c[23]【伐木】\\c[0]之用，\\c[14][永不损坏]\\c[0]。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 381,
+    "name": "黄金·斧",
+    "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 1, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 5
+  },
+  {
+    "id": 105,
+    "animationId": 1,
+    "description": "用于\\c[23]【钓鱼】\\c[0]之用，\\c[14][永不损坏]\\c[0]。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 487,
+    "name": "黄金·竿",
+    "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 0, 1, 0 ],
+    "price": 0,
+    "wtypeId": 5
+  },
+  {
+    "id": 106,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 107,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢12%]　[命中﹢11%]　[流血﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.13
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.12
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.11
+      }
+    ],
+    "iconIndex": 567,
+    "name": "破风刀",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\nitem 29: 8\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 46, 0, 10, 0, 10, 0 ],
+    "price": 35000,
+    "wtypeId": 2
+  },
+  {
+    "id": 108,
+    "animationId": 20,
+    "description": "\\c[24][破绽]\\c[0]　特效：[暴击﹢7%]　[命中﹢17%]　[破绽﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 9,
+        "value": 0.13
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 497,
+    "name": "碧水剑",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 6\nitem 29: 7\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 44, 0, 10, 0, 10, 0 ],
+    "price": 32000,
+    "wtypeId": 1
+  },
+  {
+    "id": 109,
+    "animationId": 255,
+    "description": "\\c[23][封内]\\c[0]　特效：[暴击﹢9%]　[命中﹢13%]　[封内﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 12,
+        "value": 0.08
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.09
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.13
+      }
+    ],
+    "iconIndex": 501,
+    "name": "离魂针",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 4\nitem 29: 9\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 38, 0, 0, 10, 10, 0 ],
+    "price": 31000,
+    "wtypeId": 4
+  },
+  {
+    "id": 110,
+    "animationId": 1,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢11%]　[命中﹢14%]　[流血﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.13
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.14
+      }
+    ],
+    "iconIndex": 83,
+    "name": "夺命叉",
+    "note": "<ici:2>\n<Upgrade Slots: 3>\n<Random Variance: 15>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 28: 5\nitem 29: 8\nitem 30: 2\ngold: 2000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 48, 0, 10, 10, 0, 0 ],
+    "price": 38000,
+    "wtypeId": 3
+  },
+  {
+    "id": 111,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 112,
+    "animationId": 255,
+    "description": "用于\\c[23]【打猎】\\c[0]之用，有一定的损坏几率。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 968,
+    "name": "连弩",
+    "note": "<ici:1>\n<Upgrade Slots: 3>\n<Random Variance: 5>\n<Augment Slots>\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 232: 1\nitem 30: 1\ngold: 150\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 5, 0, 0, 0, 5, 0 ],
+    "price": 300,
+    "wtypeId": 5
+  },
+  {
+    "id": 113,
+    "animationId": 1,
+    "description": "用于\\c[23]【打猎】\\c[0]之用，\\c[14][永不损坏]\\c[0]。 ",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "iconIndex": 647,
+    "name": "西洋火铳",
+    "note": "<ici:6>\n<Upgrade Slots: 3>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 232: 1\nitem 30: 1\ngold: 350\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 55, 0, 0, 0, 5, 0 ],
+    "price": 0,
+    "wtypeId": 5
+  },
+  {
+    "id": 114,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 115,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢16%]　[命中﹢15%]　[流血﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.16
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 569,
+    "name": "斩马刀",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 4\nitem 258: 4\nitem 58: 2\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 70, 0, 20, 0, 20, 0 ],
+    "price": 76000,
+    "wtypeId": 2
+  },
+  {
+    "id": 116,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢11%]　[命中﹢23%]　[破绽﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 32,
+        "dataId": 9,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.23
+      }
+    ],
+    "iconIndex": 582,
+    "name": "龙泉剑",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 4\nitem 258: 5\nitem 60: 1\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 68, 0, 0, 20, 20, 0 ],
+    "price": 75000,
+    "wtypeId": 1
+  },
+  {
+    "id": 117,
+    "animationId": 255,
+    "description": "\\c[2][燃烧]\\c[0]　特效：[暴击﹢13%]　[命中﹢20%]　[燃烧﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 8,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.13
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 430,
+    "name": "霹雳珠",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 6\nitem 233: 3\nitem 258: 4\nitem 59: 1\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 63, 0, 20, 20, 0, 0 ],
+    "price": 75000,
+    "wtypeId": 4
+  },
+  {
+    "id": 118,
+    "animationId": 19,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢14%]　[命中﹢17%]　[眩晕﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 693,
+    "name": "精钢棍",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 25>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 30: 2\nitem 233: 4\nitem 232: 3\nitem 258: 2\nitem 53: 2\ngold: 8500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 80, 0, 20, 0, 20, 0 ],
+    "price": 77000,
+    "wtypeId": 3
+  },
+  {
+    "id": 119,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 120,
+    "animationId": 23,
+    "description": "\\c[2][燃烧]\\c[0]　特效：[暴击﹢16%]　[命中﹢31%]　[燃烧﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 8,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.16
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.31
+      }
+    ],
+    "iconIndex": 580,
+    "name": "赤焰剑",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 7\nitem 317: 5\nitem 234: 8\nitem 259: 4\nitem 260: 2\ngold: 25500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 150, 0, 20, 20, 20, 0 ],
+    "price": 225000,
+    "wtypeId": 1
+  },
+  {
+    "id": 121,
+    "animationId": 23,
+    "description": "\\c[3][猛毒]\\c[0]　特效：[暴击﹢22%]　[命中﹢20%]　[抗猛毒﹢65%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 7,
+        "value": 0.07
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.35
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 913,
+    "name": "绿波稥刀",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 8\nitem 316: 5\nitem 234: 7\nitem 259: 3\nitem 260: 3\ngold: 25500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 160, 0, 20, 20, 20, 0 ],
+    "price": 225000,
+    "wtypeId": 2
+  },
+  {
+    "id": 122,
+    "animationId": 19,
+    "description": "\\c[3][剧毒]\\c[0]　特效：[回内﹢3%]　[暴击﹢17%]　[命中﹢26%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 6,
+        "value": 0.07
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.26
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.03
+      }
+    ],
+    "iconIndex": 587,
+    "name": "鬼头拐杖",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 9\nitem 318: 5\nitem 234: 6\nitem 259: 3\nitem 260: 3\ngold: 25500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 180, 0, 20, 20, 20, 0 ],
+    "price": 225000,
+    "wtypeId": 3
+  },
+  {
+    "id": 123,
+    "animationId": 255,
+    "description": "\\c[20][眩晕]\\c[0]　特效：[暴击﹢18%]　[命中﹢28%]　[眩晕﹢10%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 32,
+        "dataId": 15,
+        "value": 0.17
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.28
+      }
+    ],
+    "iconIndex": 792,
+    "name": "金叶镖",
+    "note": "<ici:5>\n<Upgrade Slots: 5>\n<Random Variance: 40>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 31: 5\nitem 59: 4\nitem 234: 5\nitem 259: 2\nitem 260: 2\ngold: 25500\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 130, 0, 20, 20, 20, 0 ],
+    "price": 225000,
+    "wtypeId": 4
+  },
+  {
+    "id": 124,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 125,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 781,
+    "name": "鱼肠剑",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 126,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 581,
+    "name": "工布剑",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 127,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 948,
+    "name": "太阿剑",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 128,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 761,
+    "name": "湛卢剑",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 129,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 763,
+    "name": "纯钧剑",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 130,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 949,
+    "name": "巨阙剑",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 131,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 945,
+    "name": "龙渊剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 132,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 133,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 780,
+    "name": "玄铁匕首",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 134,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 135,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 759,
+    "name": "断肠刀",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 136,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 774,
+    "name": "金背大刀",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 137,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 570,
+    "name": "金环大刀",
+    "note": "<ici:3>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 138,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 568,
+    "name": "耀日金刀",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 139,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 777,
+    "name": "雌雄双刀",
+    "note": "<ici:5>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 140,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 757,
+    "name": "麟鲨刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 141,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 775,
+    "name": "麒麟刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 142,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 143,
+    "animationId": 1,
+    "description": "\\c[14][重伤]\\c[0]　特效：[暴击﹢20%]　[命中﹢22%]　[重伤﹢7%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 13,
+        "value": 0.14
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.22
+      }
+    ],
+    "iconIndex": 778,
+    "name": "鳄鱼钳",
+    "note": "<ici:5>\n<Item 332 Buy Price: 25>\n<Upgrade Slots: 5>\n<Random Variance: 35>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 164, 0, 20, 1, 20, 1 ],
+    "price": 180000,
+    "wtypeId": 2
+  },
+  {
+    "id": 144,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 758,
+    "name": "五毒圣刀",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 2
+  },
+  {
+    "id": 145,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 146,
+    "animationId": 22,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢18%]　[命中﹢26%]　[流血﹢15%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.22
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.18
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.26
+      }
+    ],
+    "iconIndex": 770,
+    "name": "红缨枪",
+    "note": "<ici:5>\n<Item 330 Buy Price: 25>\n<Upgrade Slots: 5>\n<Random Variance: 30>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 150, 0, 30, 0, 30, 0 ],
+    "price": 180000,
+    "wtypeId": 3
+  },
+  {
+    "id": 147,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 66,
+    "name": "三节棍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 148,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 699,
+    "name": "承天杖",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 149,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 697,
+    "name": "八卦棍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 150,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 698,
+    "name": "金刚杵",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 151,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 694,
+    "name": "烧火棍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 152,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 696,
+    "name": "九龙金棍",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 153,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 695,
+    "name": "韦陀金杵",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 154,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 771,
+    "name": "金钩枪",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 155,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 772,
+    "name": "龙胆枪",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 156,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 773,
+    "name": "惊艳一枪",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 157,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 158,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 762,
+    "name": "血滴子",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 159,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 797,
+    "name": "阎王令",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>\n<Synthesis Ingredients>\nitem 263: 6\nitem 264: 4\nitem 265: 4\nitem 266: 2\ngold: 985000\n</Synthesis Ingredients>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 160,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 769,
+    "name": "追魂箭",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 3
+  },
+  {
+    "id": 161,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 589,
+    "name": "金轮",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 4
+  },
+  {
+    "id": 162,
+    "animationId": 1,
+    "description": "特效：[暴击﹢20%]　[命中﹢10%]　[抗暴﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 590,
+    "name": "伤心小箭",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 264, 0, 20, 1, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 4
+  },
+  {
+    "id": 163,
+    "animationId": 1,
+    "description": "\\c[2][燃烧]\\c[0]　特效：[暴击﹢25%]　[恢复﹢5%]　[怒气获得﹢45%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 8,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.05
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.45
+      }
+    ],
+    "iconIndex": 402,
+    "name": "圣火令",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 277, 0, 1, 50, 1, 1 ],
+    "price": 480000,
+    "wtypeId": 4
+  },
+  {
+    "id": 164,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 165,
+    "animationId": 20,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢5%]　[流血﹢5%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 776,
+    "name": "武士刀",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 75, 0, 10, 0, 10, 0 ],
+    "price": 56000,
+    "wtypeId": 2
+  },
+  {
+    "id": 166,
+    "animationId": 19,
+    "description": "\\c[14][重伤]\\c[0]　特效：[暴击﹢15%]　[命中﹢17%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 13,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.17
+      }
+    ],
+    "iconIndex": 593,
+    "name": "鹿头杖",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 68, 0, 15, 0, 15, 0 ],
+    "price": 1680,
+    "wtypeId": 3
+  },
+  {
+    "id": 167,
+    "animationId": 22,
+    "description": "\\c[12][点穴]\\c[0]　特效：[暴击﹢11%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 14,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.11
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 99,
+    "name": "鹤嘴笔",
+    "note": "<ici:3>\n<Upgrade Slots: 4>\n<Random Variance: 20>\n<Augment Slots>\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 65, 0, 15, 15, 0, 0 ],
+    "price": 1680,
+    "wtypeId": 1
+  },
+  {
+    "id": 168,
+    "animationId": 23,
+    "description": "\\c[14][重伤]\\c[0]　特效：[抗眩晕﹢80%]　[暴击﹢26%]　[命中﹢20%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 13,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.26
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 512,
+    "name": "真武剑",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 240, 0, 1, 50, 1, 1 ],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 169,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "牛犊·[2件]",
+    "note": "",
+    "params": [ 200, 0, 5, 5, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 170,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "牛犊·[3件]",
+    "note": "",
+    "params": [ 200, 0, 5, 5, 10, 10, 10, 10 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 171,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "官兵·[2件]",
+    "note": "",
+    "params": [ 600, 0, 10, 20, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 172,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "官兵·[3件]",
+    "note": "",
+    "params": [ 600, 0, 10, 20, 20, 20, 20, 20 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 173,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "忠义·[2件]",
+    "note": "",
+    "params": [ 2500, 2500, 50, 50, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 174,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "忠义·[3件]",
+    "note": "",
+    "params": [ 2500, 2500, 50, 50, 50, 50, 50, 50 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 175,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "岳家·[2件]",
+    "note": "",
+    "params": [ 1000, 0, 30, 50, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 176,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "岳家·[3件]",
+    "note": "",
+    "params": [ 1000, 500, 30, 50, 30, 30, 30, 30 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 177,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "恶霸·[2件]",
+    "note": "",
+    "params": [ 600, 0, 20, 10, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 178,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "恶霸·[3件]",
+    "note": "",
+    "params": [ 600, 0, 20, 10, 20, 20, 20, 20 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 179,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "西夏·[2件]",
+    "note": "",
+    "params": [ 1000, 0, 50, 30, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 180,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 0,
+    "name": "西夏·[3件]",
+    "note": "",
+    "params": [ 1000, 500, 50, 30, 30, 30, 30, 30 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 181,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "-----------------",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 182,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 183,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 184,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 185,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 186,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 187,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 188,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 189,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 190,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 191,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 192,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 193,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 194,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 195,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 196,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 197,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 198,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 199,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  },
+  {
+    "id": 200,
+    "animationId": 1,
+    "description": "\\c[18][流血]\\c[0]　特效：[暴击﹢35%]　[命中﹢30%]　[怒气获得﹢90%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.35
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 1.9
+      }
+    ],
+    "iconIndex": 948,
+    "name": "极寒[定制]",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 300, 0, 150, 150, 1, 1 ],
+    "price": 480000,
+    "wtypeId": 1
+  },
+  {
+    "id": 201,
+    "animationId": 1,
+    "description": "\\c[14][重伤]\\c[0]　特效：[暴击﹢35%]　[命中﹢30%]　[内力耗损﹣50%]",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.35
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 949,
+    "name": "夏禹剑[定制]",
+    "note": "<ici:6>\n<Upgrade Slots: 6>\n<Random Variance: 50>\n<Augment Slots>\n宝石\n宝石\n宝石\n</Augment Slots>",
+    "params": [ 0, 0, 300, 0, 1, 20, 20, 1 ],
+    "price": 480000,
+    "wtypeId": 1
+  },
+  {
+    "id": 202,
+    "animationId": 0,
+    "description": "",
+    "etypeId": 1,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0
+      }
+    ],
+    "iconIndex": 0,
+    "name": "",
+    "note": "",
+    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "price": 0,
+    "wtypeId": 0
+  }
+]

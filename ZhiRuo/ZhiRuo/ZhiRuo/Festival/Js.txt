@@ -1,0 +1,1 @@
+﻿"$gameParty.gainGold(8500000);$gameVariables.setValue(5,$gameVariables.value(5) + 100000000);$gameParty.gainItem($dataItems[31], 99);$gameParty.gainItem($dataItems[32], 9);$gameParty.gainItem($dataItems[19], 9);$gameParty.gainItem($dataItems[314], 9);"

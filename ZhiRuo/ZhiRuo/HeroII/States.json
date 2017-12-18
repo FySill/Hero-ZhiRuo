@@ -1,0 +1,6265 @@
+[
+  null,
+  {
+    "id": 1,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "iconIndex": 1,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 3,
+    "name": "死亡",
+    "note": "当HP为0时，\n将会自动附加1号状态。",
+    "overlay": 0,
+    "priority": 100,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 9,
+        "value": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 3,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "防御",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": true,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.35
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.35
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.35
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.35
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 4,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "无敌",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 1,
+        "value": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 5,
+    "maxTurns": 7,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 4,
+    "motion": 0,
+    "overlay": 10,
+    "name": "流血",
+    "note": "<DoT Formula: b.mdf+b.def>\n<DoT Animation: 277>",
+    "priority": 51,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 2,
+    "maxTurns": 11,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 7,
+    "motion": 0,
+    "overlay": 1,
+    "name": "中毒",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = 15+$gameVariables.value(87)*11\n} else {\nvalue = 20+b.mhp*0.05\n}\n</Custom DoT Formula>\n<DoT Animation: 274>",
+    "priority": 50,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.9
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 175,
+    "maxTurns": 7,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 4,
+    "motion": 0,
+    "overlay": 1,
+    "name": "剧毒",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = 150+$gameVariables.value(87)*21\n} else {\nvalue = 180+b.mhp*0.07\n}\n</Custom DoT Formula>\n<DoT Animation: 275>",
+    "priority": 51,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 15,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "overlay": 9,
+    "name": "猛毒",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = 600+$gameVariables.value(87)*55\n} else {\nvalue = 800+b.mhp*0.2\n}\n</Custom DoT Formula>\n<DoT Animation: 276>",
+    "priority": 52,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 42,
+        "dataId": 4,
+        "value": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 50,
+    "iconIndex": 6,
+    "maxTurns": 7,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 4,
+    "motion": 0,
+    "name": "燃烧",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = a.mp*0.3\n} else {\nvalue = a.mp*0.2\n}\n</Custom DoT Formula>\n<DoT Animation: 278>",
+    "overlay": 4,
+    "priority": 50,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.5
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 7,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "overlay": 5,
+    "name": "破绽",
+    "note": "",
+    "priority": 51,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 10,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 2
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.7
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.8
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 1.8
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 8,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "醉酒",
+    "note": "",
+    "overlay": 8,
+    "priority": 52,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 150
+  },
+  {
+    "id": 11,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 10,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "封招",
+    "note": "",
+    "overlay": 3,
+    "priority": 65,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 42,
+        "dataId": 2,
+        "value": 0
+      },
+      {
+        "code": 42,
+        "dataId": 3,
+        "value": 0
+      },
+      {
+        "code": 42,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 2
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 0.01
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 9,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "封内",
+    "note": "<DoT Formula: a.mp*0.01>\n<DoT Animation: 279>",
+    "overlay": 3,
+    "priority": 65,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 42,
+        "dataId": 4,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": -0.15
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 3
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 50,
+    "iconIndex": 11,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 4,
+    "motion": 0,
+    "name": "重伤",
+    "note": "",
+    "overlay": 6,
+    "priority": 75,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.7
+      },
+      {
+        "code": 42,
+        "dataId": 6,
+        "value": 0
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.1
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 65,
+    "iconIndex": 12,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "点穴",
+    "note": "",
+    "overlay": 7,
+    "priority": 80,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -10
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 13,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "眩晕",
+    "note": "",
+    "overlay": 7,
+    "priority": 60,
+    "releaseByDamage": true,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.7
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.5
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 0.01
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "description": "",
+    "iconIndex": 1122,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "闪避",
+    "note": "",
+    "overlay": 0,
+    "priority": 0,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": true,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 50,
+    "iconIndex": 1119,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "药物阻碍",
+    "note": "",
+    "overlay": 0,
+    "priority": 74,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.5
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 50,
+    "iconIndex": 1120,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "药物中毒",
+    "note": "<DoT Formula: a.mhp*0.03>\n<DoT Animation: 274>",
+    "overlay": 1,
+    "priority": 74,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 0,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.7
+      },
+      {
+        "code": 23,
+        "dataId": 3,
+        "value": 0.3
+      },
+      {
+        "code": 23,
+        "dataId": 2,
+        "value": 0.3
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 50,
+    "iconIndex": 1121,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "走火入魔",
+    "note": "<DoT Formula: a.mhp*0.02>\n<DoT Animation: 278>",
+    "overlay": 4,
+    "priority": 75,
+    "releaseByDamage": false,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 200,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": -0.02
+      },
+      {
+        "code": 21,
+        "dataId": 0,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.5
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 21,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.6
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.2
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 256,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "神行百变",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 22,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.4
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 257,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "翻腾术",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 23,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.3
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 258,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "梯云纵",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 24,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 259,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "金雁功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 25,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 260,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "逍遥游",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 26,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.3
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 261,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "雪遁步行",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 27,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 262,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "踏雪无痕",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 28,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.4
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 263,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "惊鸿一瞥",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 29,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 264,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "捕雀功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 30,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.35
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.45
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 265,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "摘星术",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 31,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 266,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "凌波微步",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 32,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 267,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "采燕功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 33,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 34,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 35,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 36,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 37,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 38,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.9
+      }
+    ],
+    "iconIndex": 182,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "剑势",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 39,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 184,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "诵经",
+    "note": "<Custom Regen Formula>\nif (a.isActor()) {\nvalue = $gameVariables.value(84)*35\n} else {\nvalue = a.mmp*0.5\n}\n</Custom Regen Formula>\n<Regen Animation: 5>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 40,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 185,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "悟道",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 41,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "护体",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 42,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 809,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "勇武",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 43,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 270,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "磨刀",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 44,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 831,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "寒霜",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 45,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.08
+      }
+    ],
+    "iconIndex": 186,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "凝神",
+    "note": "<Custom Regen Formula>\nif (a.isActor()) {\nvalue = $gameVariables.value(84)*15\n} else {\nvalue = a.mmp*0.2\n}\n</Custom Regen Formula>\n<Regen Animation: 11>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 46,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 14,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 15,
+        "value": 1
+      }
+    ],
+    "iconIndex": 820,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "清心",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 47,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "避毒",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 48,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 816,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "掌风",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 49,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.75
+      }
+    ],
+    "iconIndex": 825,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "无畏",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 50,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 51,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 52,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 53,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 54,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 55,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.8
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 2
+      }
+    ],
+    "iconIndex": 272,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "华山心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 56,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 2
+      }
+    ],
+    "iconIndex": 273,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "洗髓经",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 57,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 2
+      }
+    ],
+    "iconIndex": 274,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "武当心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 58,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 2
+      }
+    ],
+    "iconIndex": 275,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "全真心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 59,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 2
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 2
+      }
+    ],
+    "iconIndex": 276,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "六合功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 60,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 2
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 277,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "血刀心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 61,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 2
+      }
+    ],
+    "iconIndex": 278,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "冰心诀",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 62,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.3
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 2
+      }
+    ],
+    "iconIndex": 279,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "峨眉心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 63,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 2
+      }
+    ],
+    "iconIndex": 280,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "玉女心经",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 64,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 2
+      }
+    ],
+    "iconIndex": 281,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "星宿心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 65,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 32,
+        "dataId": 8,
+        "value": 1
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 2
+      }
+    ],
+    "iconIndex": 282,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "小无相功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 66,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.25
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 2
+      }
+    ],
+    "iconIndex": 283,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "日月同辉",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 67,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 68,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 69,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 70,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 71,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 72,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.5
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.35
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 2
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 2
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 2
+      }
+    ],
+    "iconIndex": 288,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "紫霞神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 73,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.65
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.8
+      }
+    ],
+    "iconIndex": 305,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "金钟罩",
+    "note": "<Element Absorb: 4>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 74,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 290,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "太极神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 75,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.7
+      }
+    ],
+    "iconIndex": 306,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "玄天无极功",
+    "note": "<Element Absorb: 5>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 76,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.2
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 2
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 2
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 291,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "先天气功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 77,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 292,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "混天功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 78,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.7
+      }
+    ],
+    "iconIndex": 308,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "铁布衫",
+    "note": "<Element Absorb: 4>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 79,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.55
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 293,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "血海魔功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 80,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "iconIndex": 309,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "神照经",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 81,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 294,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "寒玉神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 82,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.7
+      }
+    ],
+    "iconIndex": 310,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "御寒术",
+    "note": "<Element Absorb: 3>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 83,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.7
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 2
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 2
+      }
+    ],
+    "iconIndex": 295,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "九阳功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 84,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.7
+      }
+    ],
+    "iconIndex": 296,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "九阴真经",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 85,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.7
+      }
+    ],
+    "iconIndex": 312,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "五毒奇经",
+    "note": "<Element Absorb: 2>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 86,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 297,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "避毒法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 87,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.3
+      },
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 2
+      }
+    ],
+    "iconIndex": 313,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "龟息功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 88,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 314,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "纯阳至尊功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 89,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 9,
+        "value": 2
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 315,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "黑雨功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 90,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 91,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 92,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 93,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 94,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 95,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 813,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "真元凝聚",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 96,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.2
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.2
+      }
+    ],
+    "iconIndex": 827,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "铜皮铁骨",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 97,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 98,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 13,
+    "maxTurns": 4,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 4,
+    "motion": 0,
+    "name": "体力下降",
+    "note": "",
+    "overlay": 7,
+    "priority": 60,
+    "releaseByDamage": true,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.7
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.8
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 0.9
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "iconIndex": 13,
+    "maxTurns": 9,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 9,
+    "motion": 0,
+    "name": "劳累过度",
+    "note": "",
+    "overlay": 7,
+    "priority": 60,
+    "releaseByDamage": true,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": true,
+    "restriction": 0,
+    "stepsToRemove": 300,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -1.4
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -1.6
+      },
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.6
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.6
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.6
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.6
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.6
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 0.6
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 101,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.05
+      }
+    ],
+    "iconIndex": 205,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "太玄神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 102,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 14,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "罗汉伏魔功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 103,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 14,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "iconIndex": 14,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "九阳神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 104,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 348,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "斗转星移",
+    "note": "<Element Reflect 2: +100%>\n<Element Reflect 3: +100%>\n<Element Reflect 4: +100%>\n<Element Reflect 5: +100%>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 105,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 2
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.1
+      }
+    ],
+    "iconIndex": 1029,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "混元功",
+    "note": "<Element Absorb: 2>\n<Element Absorb: 3>\n<Element Absorb: 4>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 106,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.01
+      }
+    ],
+    "iconIndex": 1029,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 9,
+    "motion": 0,
+    "name": "混元功·剧情",
+    "note": "<Element Absorb: 2>\n<Element Absorb: 3>\n<Element Absorb: 4>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 107,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.01
+      },
+      {
+        "code": 44,
+        "dataId": 225,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 187,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 285,
+        "value": 1
+      },
+      {
+        "code": 14,
+        "dataId": 1,
+        "value": 1
+      }
+    ],
+    "iconIndex": 34,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 9,
+    "motion": 0,
+    "name": "七伤拳·剧情",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 108,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 1.5
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 10
+      }
+    ],
+    "iconIndex": 1043,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "腹语功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 109,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 826,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "逍遥护心法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 110,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 62,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 23,
+        "dataId": 0,
+        "value": 10
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.5
+      }
+    ],
+    "iconIndex": 800,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "护驾",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 111,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 112,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 192,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "混元掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 113,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 208,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "劈石破玉掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 114,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 224,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "华山剑法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 115,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 240,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "夺命三仙剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 116,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 117,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 193,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "金刚般若掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 118,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 209,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "拈花指",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 119,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 225,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "韦陀棍法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 120,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 241,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "伏魔杖法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 121,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 122,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 194,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "柔云绵掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 123,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 210,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "无极玄功拳",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 124,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 226,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "绕指柔剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 125,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 242,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "神门十三剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 126,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 127,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 195,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "昊天掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 128,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 211,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "三花聚顶掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 129,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 227,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "同归剑法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 130,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 5,
+        "value": 0.8
+      }
+    ],
+    "iconIndex": 243,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "七星剑法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 131,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 132,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 196,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "缠丝擒拿手",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 133,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 212,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "阴山九式掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 134,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 228,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "太祖棍法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 135,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 244,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "莲花棍法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 136,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 137,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 197,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "摧心掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 138,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 213,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "灭仙掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 139,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 229,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "血刀刀法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 140,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 245,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "饮血刀法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 141,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 142,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 198,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "梅花掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 143,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 214,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "雪影擒拿手",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 144,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 230,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "雪山剑法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 145,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 246,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "雪影无踪剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 146,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 147,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 199,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "四象掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 148,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 215,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "飘雪穿云掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 149,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 231,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "回风拂柳剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 150,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 247,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "万花剑法",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = $gameVariables.value(130)*500\n} else {\nvalue = 20+b.mhp*0.18\n}\n</Custom DoT Formula>\n<DoT Animation: 294>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 151,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 152,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 200,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "美女拳法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 153,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 216,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "赤练神掌",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = 20+a.mhp*0.18\n} else {\nvalue = $gameVariables.value(130)*4\n}\n</Custom DoT Formula>\n<DoT Animation: 295>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 154,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 232,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "冰魄银针",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 155,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 248,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "玉女素心剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 156,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 157,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 201,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "抽髓掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 158,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 217,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "三阴蜈蚣爪",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 159,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.1
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 233,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "星宿棍法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 160,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 249,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "天山杖法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 161,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 162,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 202,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "白虹掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 163,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 218,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "天山折梅手",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 164,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 234,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "天山剑法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 165,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 250,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "天羽奇剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 166,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 167,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 203,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "裂心掌",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 168,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 1.1
+      }
+    ],
+    "iconIndex": 219,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "分筋错骨手",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 169,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.05
+      }
+    ],
+    "iconIndex": 235,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "日月刀法",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 170,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 251,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "吞云蔽日刀",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 171,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "-------------------",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 172,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 814,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "段家剑",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 173,
+    "autoRemovalTiming": 2,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.01
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.01
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.01
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.01
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.3
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 0.01
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 10
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -1
+      }
+    ],
+    "iconIndex": 0,
+    "maxTurns": 10,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 10,
+    "motion": 0,
+    "name": "山贼剧情状态",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 4,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 174,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 861,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "尖枪",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 175,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 21,
+        "dataId": 2,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 3,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 4,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 5,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 0.9
+      },
+      {
+        "code": 21,
+        "dataId": 7,
+        "value": 0.9
+      }
+    ],
+    "iconIndex": 1049,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "破胆",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 176,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.3
+      }
+    ],
+    "iconIndex": 811,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "水上漂",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 177,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": -0.1
+      }
+    ],
+    "iconIndex": 837,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "挥刀",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": true,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 178,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 1.3
+      },
+      {
+        "code": 42,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      }
+    ],
+    "iconIndex": 1050,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "玄冥神掌",
+    "note": "<Custom DoT Formula>\nif (a.isActor()) {\nvalue = 200+$gameVariables.value(87)*50\n} else {\nvalue = 400+b.mhp*0.15\n}\n</Custom DoT Formula>\n<DoT Animation: 276>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 179,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 316,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "乾坤大挪移",
+    "note": "<Element Reflect 5: +100%>\n<Element Reflect 6: +100%>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 180,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 316,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "乾坤大挪移·剧情",
+    "note": "<Element Reflect 5: +100%>\n<Element Reflect 6: +100%>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 181,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 2
+      }
+    ],
+    "iconIndex": 339,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "左右互搏术",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 182,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.15
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.15
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.15
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.15
+      }
+    ],
+    "iconIndex": 1065,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "圣火神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 183,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 3
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 3
+      },
+      {
+        "code": 44,
+        "dataId": 100,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 95,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 92,
+        "value": 1
+      },
+      {
+        "code": 44,
+        "dataId": 91,
+        "value": 1
+      }
+    ],
+    "iconIndex": 34,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 9,
+    "motion": 0,
+    "name": "太玄神功·剧情",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 184,
+    "autoRemovalTiming": 0,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 0,
+    "maxTurns": 1,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 1,
+    "motion": 0,
+    "name": "",
+    "note": "",
+    "overlay": 0,
+    "priority": 50,
+    "removeAtBattleEnd": false,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  }
+]

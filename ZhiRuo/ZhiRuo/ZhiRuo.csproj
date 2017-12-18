@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EC694641-9591-45B7-B819-46B67F95BA03}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ZhiRuo</RootNamespace>
+    <AssemblyName>ZhiRuo</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\NoticeController.cs" />
+    <Compile Include="Controllers\InformController.cs" />
+    <Compile Include="Controllers\WelfareController.cs" />
+    <Compile Include="Controllers\FestivalController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UpdateController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Content\Site.css" />
+    <Content Include="HeroII\Maps\Map001.json" />
+    <Content Include="HeroII\Maps\Map002.json" />
+    <Content Include="HeroII\Maps\Map003.json" />
+    <Content Include="HeroII\Maps\Map004.json" />
+    <Content Include="HeroII\Maps\Map012.json" />
+    <Content Include="HeroII\rpg_xr.js" />
+    <Content Include="HeroII\rpg_xname.js" />
+    <Content Include="HeroII\rpg_xtalk.js" />
+    <Content Include="Images\zhiruo.jpg" />
+    <Content Include="Images\gaoyuanyuan.jpg" />
+    <Content Include="JavaScript.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ZhiRuo\Inform\Js.txt" />
+    <Content Include="ZhiRuo\Notice\Start.txt" />
+    <Content Include="ZhiRuo\Notice\IsEnable.txt" />
+    <Content Include="ZhiRuo\Notice\IceName.txt" />
+    <Content Include="ZhiRuo\Update\Contents.txt" />
+    <Content Include="ZhiRuo\Update\Safety.txt" />
+    <Content Include="ZhiRuo\Update\Hot.txt" />
+    <Content Include="ZhiRuo\Update\Online.txt" />
+    <Content Include="ZhiRuo\Update\Version.txt" />
+    <Content Include="ZhiRuo\Update\DataII.txt" />
+    <Content Include="ZhiRuo\Update\Fmii.txt" />
+    <Content Include="ZhiRuo\Update\Update.txt" />
+    <Content Include="ZhiRuo\Inform\Way.txt" />
+    <Content Include="ZhiRuo\Inform\IsEnable.txt" />
+    <Content Include="ZhiRuo\Inform\Talk.txt" />
+    <Content Include="ZhiRuo\Inform\Name.txt" />
+    <Content Include="ZhiRuo\Inform\Number.txt" />
+    <Content Include="ZhiRuo\Welfare\Contents.txt" />
+    <Content Include="ZhiRuo\Welfare\IdenCode.txt" />
+    <Content Include="ZhiRuo\Welfare\IsEnable.txt" />
+    <Content Include="ZhiRuo\Welfare\Js.txt" />
+    <Content Include="ZhiRuo\Welfare\Name.txt" />
+    <Content Include="ZhiRuo\Welfare\Number.txt" />
+    <Content Include="ZhiRuo\Festival\Contents.txt" />
+    <Content Include="ZhiRuo\Festival\Number.txt" />
+    <Content Include="ZhiRuo\Festival\Js.txt" />
+    <Content Include="ZhiRuo\Festival\IdenCode.txt" />
+    <Content Include="ZhiRuo\Festival\IsEnable.txt" />
+    <Content Include="HeroII\Actors.json" />
+    <Content Include="HeroII\Classes.json" />
+    <Content Include="Actors.json" />
+    <Content Include="HeroII\Animations.json" />
+    <Content Include="HeroII\Armors.json" />
+    <Content Include="HeroII\Tilesets.json" />
+    <Content Include="HeroII\Enemies.json" />
+    <Content Include="HeroII\MapInfos.json" />
+    <Content Include="HeroII\Items.json" />
+    <Content Include="HeroII\System.json" />
+    <Content Include="HeroII\CommonEvents.json" />
+    <Content Include="HeroII\States.json" />
+    <Content Include="HeroII\Troops.json" />
+    <Content Include="HeroII\Weapons.json" />
+    <Content Include="HeroII\Skills.json" />
+    <Content Include="HeroII\Weapons - 复制.json" />
+    <Content Include="HeroII\Maps\Map005.json" />
+    <Content Include="HeroII\Maps\Map006.json" />
+    <Content Include="HeroII\Maps\Map007.json" />
+    <Content Include="HeroII\Maps\Map008.json" />
+    <Content Include="HeroII\Maps\Map009.json" />
+    <Content Include="HeroII\Maps\Map010.json" />
+    <Content Include="HeroII\Maps\Map011.json" />
+    <Content Include="HeroII\Maps\Map013.json" />
+    <Content Include="HeroII\Maps\Map014.json" />
+    <Content Include="HeroII\Maps\Map015.json" />
+    <Content Include="HeroII\Maps\Map016.json" />
+    <Content Include="HeroII\Maps\Map017.json" />
+    <Content Include="HeroII\Maps\Map018.json" />
+    <Content Include="HeroII\Maps\Map019.json" />
+    <Content Include="HeroII\Maps\Map020.json" />
+    <Content Include="HeroII\Maps\Map021.json" />
+    <Content Include="HeroII\Maps\Map022.json" />
+    <Content Include="HeroII\Maps\Map023.json" />
+    <Content Include="HeroII\Maps\Map024.json" />
+    <Content Include="HeroII\Maps\Map025.json" />
+    <Content Include="HeroII\Maps\Map026.json" />
+    <Content Include="HeroII\Maps\Map027.json" />
+    <Content Include="HeroII\Maps\Map028.json" />
+    <Content Include="HeroII\Maps\Map029.json" />
+    <Content Include="HeroII\Maps\Map030.json" />
+    <Content Include="HeroII\Maps\Map031.json" />
+    <Content Include="HeroII\Maps\Map032.json" />
+    <Content Include="HeroII\Maps\Map033.json" />
+    <Content Include="HeroII\Maps\Map034.json" />
+    <Content Include="HeroII\Maps\Map035.json" />
+    <Content Include="HeroII\Maps\Map036.json" />
+    <Content Include="HeroII\Maps\Map037.json" />
+    <Content Include="HeroII\Maps\Map038.json" />
+    <Content Include="HeroII\Maps\Map039.json" />
+    <Content Include="HeroII\Maps\Map040.json" />
+    <Content Include="HeroII\Maps\Map041.json" />
+    <Content Include="HeroII\Maps\Map042.json" />
+    <Content Include="HeroII\Maps\Map043.json" />
+    <Content Include="HeroII\Maps\Map044.json" />
+    <Content Include="HeroII\Maps\Map045.json" />
+    <Content Include="HeroII\Maps\Map046.json" />
+    <Content Include="HeroII\Maps\Map047.json" />
+    <Content Include="HeroII\Maps\Map048.json" />
+    <Content Include="HeroII\Maps\Map049.json" />
+    <Content Include="HeroII\Maps\Map050.json" />
+    <Content Include="HeroII\Maps\Map051.json" />
+    <Content Include="HeroII\Maps\Map052.json" />
+    <Content Include="HeroII\Maps\Map053.json" />
+    <Content Include="HeroII\Maps\Map054.json" />
+    <Content Include="HeroII\Maps\Map055.json" />
+    <Content Include="HeroII\Maps\Map056.json" />
+    <Content Include="HeroII\Maps\Map057.json" />
+    <Content Include="HeroII\Maps\Map058.json" />
+    <Content Include="HeroII\Maps\Map059.json" />
+    <Content Include="HeroII\Maps\Map060.json" />
+    <Content Include="HeroII\Maps\Map061.json" />
+    <Content Include="HeroII\Maps\Map062.json" />
+    <Content Include="HeroII\Maps\Map063.json" />
+    <Content Include="HeroII\Maps\Map064.json" />
+    <Content Include="HeroII\Maps\Map065.json" />
+    <Content Include="HeroII\Maps\Map066.json" />
+    <Content Include="HeroII\Maps\Map067.json" />
+    <Content Include="HeroII\Maps\Map068.json" />
+    <Content Include="HeroII\Maps\Map069.json" />
+    <Content Include="HeroII\Maps\Map070.json" />
+    <Content Include="HeroII\Maps\Map071.json" />
+    <Content Include="HeroII\Maps\Map072.json" />
+    <Content Include="HeroII\Maps\Map073.json" />
+    <Content Include="HeroII\Maps\Map074.json" />
+    <Content Include="HeroII\Maps\Map075.json" />
+    <Content Include="HeroII\Maps\Map076.json" />
+    <Content Include="HeroII\Maps\Map077.json" />
+    <Content Include="HeroII\Maps\Map078.json" />
+    <Content Include="HeroII\Maps\Map079.json" />
+    <Content Include="HeroII\Maps\Map080.json" />
+    <Content Include="HeroII\Maps\Map081.json" />
+    <Content Include="HeroII\Maps\Map082.json" />
+    <Content Include="HeroII\Maps\Map083.json" />
+    <Content Include="HeroII\Maps\Map084.json" />
+    <Content Include="HeroII\Maps\Map085.json" />
+    <Content Include="HeroII\Maps\Map086.json" />
+    <Content Include="HeroII\Maps\Map087.json" />
+    <Content Include="HeroII\Maps\Map088.json" />
+    <Content Include="HeroII\Maps\Map089.json" />
+    <Content Include="HeroII\Maps\Map090.json" />
+    <Content Include="HeroII\Maps\Map091.json" />
+    <Content Include="HeroII\Maps\Map092.json" />
+    <Content Include="HeroII\Maps\Map093.json" />
+    <Content Include="HeroII\Maps\Map094.json" />
+    <Content Include="HeroII\Maps\Map095.json" />
+    <Content Include="HeroII\Maps\Map096.json" />
+    <Content Include="HeroII\Maps\Map097.json" />
+    <Content Include="HeroII\Maps\Map098.json" />
+    <Content Include="HeroII\Maps\Map099.json" />
+    <Content Include="HeroII\Maps\Map100.json" />
+    <Content Include="HeroII\Maps\Map101.json" />
+    <Content Include="HeroII\Maps\Map102.json" />
+    <Content Include="HeroII\Maps\Map103.json" />
+    <Content Include="HeroII\Maps\Map104.json" />
+    <Content Include="HeroII\Maps\Map105.json" />
+    <Content Include="HeroII\Maps\Map106.json" />
+    <Content Include="HeroII\Maps\Map107.json" />
+    <Content Include="HeroII\Maps\Map108.json" />
+    <Content Include="HeroII\Maps\Map109.json" />
+    <Content Include="HeroII\Maps\Map110.json" />
+    <Content Include="HeroII\Maps\Map111.json" />
+    <Content Include="HeroII\Maps\Map112.json" />
+    <Content Include="HeroII\Maps\Map113.json" />
+    <Content Include="HeroII\Maps\Map114.json" />
+    <Content Include="HeroII\Maps\Map115.json" />
+    <Content Include="HeroII\Maps\Map116.json" />
+    <Content Include="HeroII\Maps\Map117.json" />
+    <Content Include="HeroII\Maps\Map118.json" />
+    <Content Include="HeroII\Maps\Map119.json" />
+    <Content Include="HeroII\Maps\Map120.json" />
+    <Content Include="HeroII\Maps\Map121.json" />
+    <Content Include="HeroII\Maps\Map122.json" />
+    <Content Include="HeroII\Maps\Map123.json" />
+    <Content Include="HeroII\Maps\Map124.json" />
+    <Content Include="HeroII\Maps\Map125.json" />
+    <Content Include="HeroII\Maps\Map126.json" />
+    <Content Include="HeroII\Maps\Map127.json" />
+    <Content Include="HeroII\Maps\Map128.json" />
+    <Content Include="HeroII\Maps\Map129.json" />
+    <Content Include="HeroII\Maps\Map130.json" />
+    <Content Include="HeroII\Maps\Map131.json" />
+    <Content Include="HeroII\Maps\Map132.json" />
+    <Content Include="HeroII\Maps\Map133.json" />
+    <Content Include="HeroII\Maps\Map134.json" />
+    <Content Include="HeroII\Maps\Map135.json" />
+    <Content Include="HeroII\Maps\Map136.json" />
+    <Content Include="HeroII\Maps\Map137.json" />
+    <Content Include="HeroII\Maps\Map138.json" />
+    <Content Include="HeroII\Maps\Map139.json" />
+    <Content Include="HeroII\Maps\Map140.json" />
+    <Content Include="HeroII\Maps\Map141.json" />
+    <Content Include="HeroII\Maps\Map142.json" />
+    <Content Include="HeroII\Maps\Map143.json" />
+    <Content Include="HeroII\Maps\Map144.json" />
+    <Content Include="HeroII\Maps\Map145.json" />
+    <Content Include="HeroII\Maps\Map146.json" />
+    <Content Include="HeroII\Maps\Map147.json" />
+    <Content Include="HeroII\Maps\Map148.json" />
+    <Content Include="HeroII\Maps\Map149.json" />
+    <Content Include="HeroII\Maps\Map150.json" />
+    <Content Include="HeroII\Maps\Map151.json" />
+    <Content Include="HeroII\Maps\Map152.json" />
+    <Content Include="HeroII\Maps\Map153.json" />
+    <Content Include="HeroII\Maps\Map154.json" />
+    <Content Include="HeroII\Maps\Map155.json" />
+    <Content Include="HeroII\Maps\Map156.json" />
+    <Content Include="HeroII\Maps\Map157.json" />
+    <Content Include="HeroII\Maps\Map158.json" />
+    <Content Include="HeroII\Maps\Map159.json" />
+    <Content Include="HeroII\Maps\Map160.json" />
+    <Content Include="HeroII\Maps\Map161.json" />
+    <Content Include="HeroII\Maps\Map162.json" />
+    <Content Include="HeroII\Maps\Map163.json" />
+    <Content Include="HeroII\Maps\Map164.json" />
+    <Content Include="HeroII\Maps\Map165.json" />
+    <Content Include="HeroII\Maps\Map166.json" />
+    <Content Include="HeroII\Maps\Map167.json" />
+    <Content Include="HeroII\Maps\Map168.json" />
+    <Content Include="HeroII\Maps\Map169.json" />
+    <Content Include="HeroII\Maps\Map170.json" />
+    <Content Include="HeroII\Maps\Map171.json" />
+    <Content Include="HeroII\Maps\Map172.json" />
+    <Content Include="HeroII\Maps\Map173.json" />
+    <Content Include="HeroII\Maps\Map174.json" />
+    <Content Include="HeroII\Maps\Map175.json" />
+    <Content Include="HeroII\Maps\Map176.json" />
+    <Content Include="HeroII\Maps\Map177.json" />
+    <Content Include="HeroII\Maps\Map178.json" />
+    <Content Include="HeroII\Maps\Map179.json" />
+    <Content Include="HeroII\Maps\Map180.json" />
+    <Content Include="HeroII\Maps\Map181.json" />
+    <Content Include="HeroII\Maps\Map182.json" />
+    <Content Include="HeroII\Maps\Map183.json" />
+    <Content Include="HeroII\Maps\Map184.json" />
+    <Content Include="HeroII\Maps\Map185.json" />
+    <Content Include="HeroII\Maps\Map186.json" />
+    <Content Include="HeroII\Maps\Map187.json" />
+    <Content Include="HeroII\Maps\Map188.json" />
+    <Content Include="HeroII\Maps\Map189.json" />
+    <Content Include="HeroII\Maps\Map190.json" />
+    <Content Include="HeroII\Maps\Map191.json" />
+    <Content Include="HeroII\Maps\Map192.json" />
+    <Content Include="HeroII\Maps\Map193.json" />
+    <Content Include="HeroII\Maps\Map194.json" />
+    <Content Include="HeroII\Maps\Map195.json" />
+    <Content Include="HeroII\Maps\Map196.json" />
+    <Content Include="HeroII\Maps\Map197.json" />
+    <Content Include="HeroII\Maps\Map198.json" />
+    <Content Include="HeroII\Maps\Map199.json" />
+    <Content Include="HeroII\Maps\Map200.json" />
+    <Content Include="HeroII\Maps\Map201.json" />
+    <Content Include="HeroII\Maps\Map202.json" />
+    <Content Include="HeroII\Maps\Map203.json" />
+    <Content Include="HeroII\Maps\Map204.json" />
+    <Content Include="HeroII\Maps\Map205.json" />
+    <Content Include="HeroII\Maps\Map206.json" />
+    <Content Include="HeroII\Maps\Map207.json" />
+    <Content Include="HeroII\Maps\Map208.json" />
+    <Content Include="HeroII\Maps\Map209.json" />
+    <Content Include="HeroII\Maps\Map210.json" />
+    <Content Include="HeroII\Maps\Map211.json" />
+    <Content Include="HeroII\Maps\Map212.json" />
+    <Content Include="HeroII\Maps\Map213.json" />
+    <Content Include="HeroII\Maps\Map214.json" />
+    <Content Include="HeroII\Maps\Map215.json" />
+    <Content Include="HeroII\Maps\Map216.json" />
+    <Content Include="HeroII\Maps\Map217.json" />
+    <Content Include="HeroII\Maps\Map218.json" />
+    <Content Include="HeroII\Maps\Map219.json" />
+    <Content Include="HeroII\Maps\Map220.json" />
+    <Content Include="HeroII\Maps\Map221.json" />
+    <Content Include="HeroII\Maps\Map222.json" />
+    <Content Include="HeroII\Maps\Map223.json" />
+    <Content Include="HeroII\Maps\Map224.json" />
+    <Content Include="HeroII\Maps\Map225.json" />
+    <Content Include="HeroII\Maps\Map226.json" />
+    <Content Include="HeroII\Maps\Map227.json" />
+    <Content Include="HeroII\Maps\Map228.json" />
+    <Content Include="HeroII\Maps\Map229.json" />
+    <Content Include="HeroII\Maps\Map230.json" />
+    <Content Include="HeroII\Maps\Map231.json" />
+    <Content Include="HeroII\Maps\Map232.json" />
+    <Content Include="HeroII\Maps\Map233.json" />
+    <Content Include="HeroII\Maps\Map234.json" />
+    <Content Include="HeroII\Maps\Map235.json" />
+    <Content Include="HeroII\Maps\Map236.json" />
+    <Content Include="HeroII\Maps\Map237.json" />
+    <Content Include="HeroII\Maps\Map238.json" />
+    <Content Include="HeroII\Maps\Map239.json" />
+    <Content Include="HeroII\Maps\Map240.json" />
+    <Content Include="HeroII\Maps\Map241.json" />
+    <Content Include="HeroII\Maps\Map242.json" />
+    <Content Include="HeroII\Maps\Map243.json" />
+    <Content Include="HeroII\Maps\Map244.json" />
+    <Content Include="HeroII\Maps\Map245.json" />
+    <Content Include="HeroII\Maps\Map246.json" />
+    <Content Include="HeroII\Maps\Map247.json" />
+    <Content Include="HeroII\Maps\Map248.json" />
+    <Content Include="HeroII\Maps\Map249.json" />
+    <Content Include="HeroII\Maps\Map250.json" />
+    <Content Include="HeroII\Maps\Map251.json" />
+    <Content Include="HeroII\Maps\Map252.json" />
+    <Content Include="HeroII\Maps\Map253.json" />
+    <Content Include="HeroII\Maps\Map254.json" />
+    <Content Include="HeroII\Maps\Map255.json" />
+    <Content Include="HeroII\Maps\Map256.json" />
+    <Content Include="HeroII\Maps\Map257.json" />
+    <Content Include="HeroII\Maps\Map258.json" />
+    <Content Include="HeroII\Maps\Map259.json" />
+    <Content Include="HeroII\Maps\Map260.json" />
+    <Content Include="HeroII\Maps\Map261.json" />
+    <Content Include="HeroII\Maps\Map262.json" />
+    <Content Include="HeroII\Maps\Map263.json" />
+    <Content Include="HeroII\Maps\Map264.json" />
+    <Content Include="HeroII\Maps\Map265.json" />
+    <Content Include="HeroII\Maps\Map266.json" />
+    <Content Include="HeroII\Maps\Map267.json" />
+    <Content Include="HeroII\Maps\Map268.json" />
+    <Content Include="HeroII\Maps\Map269.json" />
+    <Content Include="HeroII\Maps\Map270.json" />
+    <Content Include="HeroII\Maps\Map271.json" />
+    <Content Include="HeroII\Maps\Map272.json" />
+    <Content Include="HeroII\Maps\Map273.json" />
+    <Content Include="HeroII\Maps\Map274.json" />
+    <Content Include="HeroII\Maps\Map275.json" />
+    <Content Include="HeroII\Maps\Map276.json" />
+    <Content Include="HeroII\Maps\Map277.json" />
+    <Content Include="HeroII\Maps\Map278.json" />
+    <Content Include="HeroII\Maps\Map279.json" />
+    <Content Include="HeroII\Maps\Map280.json" />
+    <Content Include="HeroII\Maps\Map281.json" />
+    <Content Include="HeroII\Maps\Map282.json" />
+    <Content Include="HeroII\Maps\Map283.json" />
+    <Content Include="HeroII\Maps\Map284.json" />
+    <Content Include="HeroII\Maps\Map285.json" />
+    <Content Include="HeroII\Maps\Map286.json" />
+    <Content Include="HeroII\Maps\Map287.json" />
+    <Content Include="HeroII\Maps\Map288.json" />
+    <Content Include="HeroII\Maps\Map289.json" />
+    <Content Include="HeroII\Maps\Map290.json" />
+    <Content Include="HeroII\Maps\Map291.json" />
+    <Content Include="HeroII\Maps\Map292.json" />
+    <Content Include="HeroII\Maps\Map293.json" />
+    <Content Include="HeroII\Maps\Map294.json" />
+    <Content Include="HeroII\Maps\Map295.json" />
+    <Content Include="HeroII\Maps\Map296.json" />
+    <Content Include="HeroII\Maps\Map297.json" />
+    <Content Include="HeroII\Maps\Map298.json" />
+    <Content Include="HeroII\Maps\Map299.json" />
+    <Content Include="HeroII\Maps\Map300.json" />
+    <Content Include="HeroII\Maps\Map301.json" />
+    <Content Include="HeroII\Maps\Map302.json" />
+    <Content Include="HeroII\Maps\Map303.json" />
+    <Content Include="HeroII\Maps\Map304.json" />
+    <Content Include="HeroII\Maps\Map305.json" />
+    <Content Include="HeroII\Maps\Map306.json" />
+    <Content Include="HeroII\Maps\Map307.json" />
+    <Content Include="HeroII\Maps\Map308.json" />
+    <Content Include="HeroII\Maps\Map309.json" />
+    <Content Include="HeroII\Maps\Map310.json" />
+    <Content Include="HeroII\Maps\Map311.json" />
+    <Content Include="HeroII\Maps\Map312.json" />
+    <Content Include="HeroII\Maps\Map313.json" />
+    <Content Include="HeroII\Maps\Map314.json" />
+    <Content Include="HeroII\Maps\Map315.json" />
+    <Content Include="HeroII\Maps\Map316.json" />
+    <Content Include="HeroII\Maps\Map317.json" />
+    <Content Include="HeroII\Maps\Map318.json" />
+    <Content Include="HeroII\Maps\Map319.json" />
+    <Content Include="HeroII\Maps\Map320.json" />
+    <Content Include="HeroII\Maps\Map321.json" />
+    <Content Include="HeroII\Maps\Map322.json" />
+    <Content Include="HeroII\Maps\Map323.json" />
+    <Content Include="HeroII\Maps\Map324.json" />
+    <Content Include="HeroII\Maps\Map325.json" />
+    <Content Include="HeroII\Maps\Map326.json" />
+    <Content Include="HeroII\Maps\Map327.json" />
+    <Content Include="HeroII\Maps\Map328.json" />
+    <Content Include="HeroII\Maps\Map329.json" />
+    <Content Include="HeroII\Maps\Map330.json" />
+    <Content Include="HeroII\Maps\Map331.json" />
+    <Content Include="HeroII\Maps\Map332.json" />
+    <Content Include="HeroII\Maps\Map333.json" />
+    <Content Include="HeroII\Maps\Map334.json" />
+    <Content Include="HeroII\Maps\Map335.json" />
+    <Content Include="HeroII\Maps\Map336.json" />
+    <Content Include="HeroII\Maps\Map337.json" />
+    <Content Include="HeroII\Maps\Map338.json" />
+    <Content Include="HeroII\Maps\Map339.json" />
+    <Content Include="HeroII\Maps\Map340.json" />
+    <Content Include="HeroII\Maps\Map341.json" />
+    <Content Include="HeroII\Maps\Map342.json" />
+    <Content Include="HeroII\Maps\Map343.json" />
+    <Content Include="HeroII\Maps\Map344.json" />
+    <Content Include="HeroII\Maps\Map345.json" />
+    <Content Include="HeroII\Maps\Map346.json" />
+    <Content Include="HeroII\Maps\Map347.json" />
+    <Content Include="HeroII\Maps\Map348.json" />
+    <Content Include="HeroII\Maps\Map349.json" />
+    <Content Include="HeroII\Maps\Map350.json" />
+    <Content Include="HeroII\Maps\Map351.json" />
+    <Content Include="HeroII\Maps\Map352.json" />
+    <Content Include="HeroII\Maps\Map353.json" />
+    <Content Include="HeroII\Maps\Map354.json" />
+    <Content Include="HeroII\Maps\Map355.json" />
+    <Content Include="HeroII\Maps\Map356.json" />
+    <Content Include="HeroII\Maps\Map357.json" />
+    <Content Include="HeroII\Maps\Map358.json" />
+    <Content Include="HeroII\Maps\Map359.json" />
+    <Content Include="HeroII\Maps\Map360.json" />
+    <Content Include="HeroII\Maps\Map361.json" />
+    <Content Include="HeroII\Maps\Map362.json" />
+    <Content Include="Helps\variables.json" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\About.cshtml" />
+    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Items.cshtml" />
+    <Content Include="Views\Home\Weapons.cshtml" />
+    <Content Include="Views\Home\Armors.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\Festival\" />
+    <Folder Include="Views\Items\" />
+    <Folder Include="Views\Update\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>62281</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:12345/</IISUrl>
+          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
+          <IISAppRootUrl>http://localhost:12345/</IISAppRootUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.7\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>
