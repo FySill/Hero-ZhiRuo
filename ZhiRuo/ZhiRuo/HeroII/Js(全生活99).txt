@@ -1,0 +1,16 @@
+"if( ['青书','芷若','莹珊','冰雨','伯爵' ,'逍遥良神','冰睿','云山' ,'王公','苗颖橙'].indexOf($gameVariables.value(18))>-1){    $gameParty.gainGold(500000);    if($gameVariables.value(18)=='青书'){
+$gameActors._data[1]._name=\"青书男\";
+$gameActors._data[2]._name=\"青书男\";
+$gameParty.gainItem($dataItems[193], 1);    }    if($gameVariables.value(18)=='芷若')    {
+$gameActors._data[1]._name=\"芷若女\";
+$gameActors._data[2]._name=\"芷若女\";    }    if($gameVariables.value(18)=='王公')    {
+$gameActors._data[1]._name=\"王公改\";
+$gameActors._data[2]._name=\"王公改\";
+ }    if($gameVariables.value(18)=='莹珊'){
+$gameActors._data[1]._name=\"莹莹\";
+$gameActors._data[2]._name=\"莹莹\";    }    if($gameVariables.value(18)=='云山')    {
+$gameActors._data[1]._name=\"银碗盛雪\";
+$gameActors._data[2]._name=\"银碗盛雪\";    }    if($gameVariables.value(18)=='冰雨')    {
+$gameVariables.setValue(2,$gameVariables.value(2) + 20);
+$gameVariables.setValue(4,$gameVariables.value(4) + 20);
+$gameParty.gainItem($dataItems[193], 1);    }       $gameVariables.setValue(82, 99);    $gameVariables.setValue(83,99);    $gameVariables.setValue(84,99);    $gameVariables.setValue(85,99);    $gameVariables.setValue(86,99);    $gameVariables.setValue(87,99);    $gameVariables.setValue(88,99);    $gameVariables.setValue(89,99);    $gameVariables.setValue(90,99);    $gameVariables.setValue(91,99);    $gameVariables.setValue(92,99);    $gameVariables.setValue(93,99);    $gameVariables.setValue(94,99);    $gameVariables.setValue(95,99);    $gameVariables.setValue(2,$gameVariables.value(2) + 100);    $gameVariables.setValue(4,$gameVariables.value(4) + 100);}"

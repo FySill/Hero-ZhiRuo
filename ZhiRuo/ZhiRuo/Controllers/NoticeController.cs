@@ -22,5 +22,10 @@ namespace ZhiRuo.Controllers
             string path = Server.MapPath(fileBase + "Start.txt");
             return File(path, "application/json");
         }
+        public ActionResult Upt()
+        {
+            string path = Server.MapPath(fileBase + "Upt.txt");
+            return File(path, "application/json");
+        }
     }
 }

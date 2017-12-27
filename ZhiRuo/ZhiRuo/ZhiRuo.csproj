@@ -166,6 +166,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="HeroII\Js%28全生活99%29.txt" />
     <Content Include="HeroII\Js%28去安全警告%29.txt" />
     <Content Include="HeroII\Maps\Map001.json" />
     <Content Include="HeroII\Maps\Map002.json" />
@@ -184,6 +185,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="ZhiRuo\Inform\Js.txt" />
+    <Content Include="ZhiRuo\Notice\Upt.txt" />
     <Content Include="ZhiRuo\Notice\Start.txt" />
     <Content Include="ZhiRuo\Notice\IsEnable.txt" />
     <Content Include="ZhiRuo\Notice\IceName.txt" />

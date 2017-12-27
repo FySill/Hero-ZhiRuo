@@ -1,0 +1,1 @@
+$gameVariables.setValue(550,0);    $gameVariables.setValue(551,0);    $gameVariables.setValue(552,0);     $gameVariables.setValue(553,0);      $gameVariables.setValue(554,0);LocalData.SOS=0;LocalData.SOSvalue=0;LocalData.Finderror=0;$gameVariables.setValue(180,0);
