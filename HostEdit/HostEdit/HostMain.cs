@@ -45,7 +45,7 @@ namespace HostEdit
         private void btnZhiruo_Click(object sender, EventArgs e)
         {
             RestoveDodox();
-            File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} heroii.dodox.com.cn" });
+            File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} game.dodox.com.cn" });
             HostAndTest();
         }
 
