@@ -46,6 +46,7 @@ namespace HostEdit
         {
             RestoveDodox();
             File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} game.dodox.com.cn" });
+            File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} heroii.dodox.com.cn" });
             HostAndTest();
         }
 
@@ -63,6 +64,7 @@ namespace HostEdit
             foreach (var item in cbCurrentIpList.Items)
             {
                 lines.Remove($"{item.ToString()} heroii.dodox.com.cn");
+                lines.Remove($"{item.ToString()} game.dodox.com.cn");
             }
         
             File.WriteAllLines(hostPath, lines.ToArray());
@@ -70,7 +72,7 @@ namespace HostEdit
         private void HostAndTest()
         {
             CloseALLieProcess();
-            ProcessStartInfo pInfo = new ProcessStartInfo("iexplore", "heroii.dodox.com.cn");
+            ProcessStartInfo pInfo = new ProcessStartInfo("iexplore", "game.dodox.com.cn");
             Process.Start(pInfo);
         }
 
