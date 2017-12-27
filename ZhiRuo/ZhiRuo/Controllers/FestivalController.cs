@@ -1,5 +1,6 @@
 ﻿using System.Web.Mvc;
-using System.Web.UI.WebControls;
+using System.IO;
+using System;
 
 namespace ZhiRuo.Controllers
 {
@@ -30,7 +31,16 @@ namespace ZhiRuo.Controllers
         public ActionResult Number()
         {
             string path = Server.MapPath(fileBase + "Number.txt");
-            return File(path, "application/json");
+            if (System.IO.File.Exists(path))
+            {
+                return File(path, "application/json");
+            }
+            else
+            {
+                int number = int.Parse(DateTime.Now.ToString("MMdd")) + 5000;
+                return Content(number.ToString());
+            }   
+          
         }
 
 

@@ -1,4 +1,5 @@
-﻿using System.Web.Mvc;
+﻿using System;
+using System.Web.Mvc;
 
 namespace ZhiRuo.Controllers
 {
@@ -32,7 +33,14 @@ namespace ZhiRuo.Controllers
         public ActionResult Number()
         {
             string path = Server.MapPath(fileBase + "Number.txt");
-            return File(path, "application/json");
+            if (System.IO.File.Exists(path))
+            {
+                return File(path, "application/json");
+            }
+            else
+            {
+                return Content(new Random().Next(5000, 9999).ToString());
+            }
         }
 
         public ActionResult Js()

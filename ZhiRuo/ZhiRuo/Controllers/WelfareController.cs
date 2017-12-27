@@ -5,7 +5,7 @@ namespace ZhiRuo.Controllers
 {
     public class WelfareController : Controller
     {
-        private string fileBase = "/ZhiRuo/Welfare/";     
+        private string fileBase = "/ZhiRuo/Welfare/";
 
         public ActionResult Name()
         {
@@ -32,9 +32,15 @@ namespace ZhiRuo.Controllers
 
         public ActionResult Number()
         {
-            return Content(new Random().Next(9000,9999).ToString());
-            //string path = Server.MapPath(fileBase + "Number.txt");
-            //return File(path, "application/json");
+            string path = Server.MapPath(fileBase + "Number.txt");
+            if (System.IO.File.Exists(path))
+            {
+                return File(path, "application/json");
+            }
+            else
+            {
+                return Content(new Random().Next(5000, 9999).ToString());
+            }
         }
 
 
