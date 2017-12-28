@@ -6240,6 +6240,100 @@
   },
   {
     "id": 184,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [],
+    "iconIndex": 826,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "移花接玉",
+    "note": "<Element Reflect 2: +100%>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 185,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.7
+      }
+    ],
+    "iconIndex": 1034,
+    "maxTurns": 2,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 2,
+    "motion": 0,
+    "name": "明玉功",
+    "note": "<Element Absorb: 2>",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 186,
+    "autoRemovalTiming": 1,
+    "chanceByDamage": 100,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.4
+      },
+      {
+        "code": 21,
+        "dataId": 6,
+        "value": 1.5
+      }
+    ],
+    "iconIndex": 1025,
+    "maxTurns": 3,
+    "message1": "",
+    "message2": "",
+    "message3": "",
+    "message4": "",
+    "minTurns": 3,
+    "motion": 0,
+    "name": "嫁衣神功",
+    "note": "",
+    "overlay": 0,
+    "priority": 71,
+    "removeAtBattleEnd": true,
+    "removeByDamage": false,
+    "removeByRestriction": false,
+    "removeByWalking": false,
+    "restriction": 0,
+    "stepsToRemove": 100
+  },
+  {
+    "id": 187,
     "autoRemovalTiming": 0,
     "chanceByDamage": 100,
     "traits": [],

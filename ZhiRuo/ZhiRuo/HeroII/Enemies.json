@@ -130,7 +130,14 @@
         "conditionParam2": 0,
         "conditionType": 0,
         "rating": 5,
-        "skillId": 312
+        "skillId": 314
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 315
       }
     ],
     "battlerHue": 0,
@@ -66870,5 +66877,954 @@
     "name": "铜人罗汉",
     "note": "Breath Effect\nArrow Offset: 0:-65",
     "params": [ 35000, 9950, 380, 380, 380, 380, 350, 380 ]
+  },
+  {
+    "id": 486,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 1
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "486_NPC",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "486",
+    "note": "",
+    "params": [ 100, 0, 10, 10, 10, 10, 10, 10 ]
+  },
+  {
+    "id": 487,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 1
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "487_NPC",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "487",
+    "note": "",
+    "params": [ 100, 0, 10, 10, 10, 10, 10, 10 ]
+  },
+  {
+    "id": 488,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 1
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "488_NPC",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "488",
+    "note": "",
+    "params": [ 100, 0, 10, 10, 10, 10, 10, 10 ]
+  },
+  {
+    "id": 489,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 1
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "489_NPC",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "489",
+    "note": "",
+    "params": [ 100, 0, 10, 10, 10, 10, 10, 10 ]
+  },
+  {
+    "id": 490,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 5,
+        "skillId": 1
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "490_NPC",
+    "dropItems": [
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      },
+      {
+        "dataId": 1,
+        "denominator": 1,
+        "kind": 0
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 0.95
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.05
+      },
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      }
+    ],
+    "gold": 0,
+    "name": "489",
+    "note": "",
+    "params": [ 100, 0, 10, 10, 10, 10, 10, 10 ]
+  },
+  {
+    "id": 491,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 225
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.9,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 314
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.9,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 315
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.7,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 2
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 3
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.25,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 224
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.25,
+        "conditionType": 3,
+        "rating": 7,
+        "skillId": 234
+      },
+      {
+        "conditionParam1": 13,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 236
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      },
+      {
+        "conditionParam1": 6,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      },
+      {
+        "conditionParam1": 7,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "D7_NPC",
+    "dropItems": [
+      {
+        "kind": 2,
+        "dataId": 18,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 40,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 50
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.3
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.5
+      }
+    ],
+    "gold": 225000,
+    "name": "燕孤魂",
+    "note": "Breath Effect\nArrow Offset: 0:-65",
+    "params": [ 16950, 9950, 340, 840, 540, 840, 300, 540 ]
+  },
+  {
+    "id": 492,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 225
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.9,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 316
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.9,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 317
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.7,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 2
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 3
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.25,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 224
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.25,
+        "conditionType": 3,
+        "rating": 7,
+        "skillId": 234
+      },
+      {
+        "conditionParam1": 13,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 236
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      },
+      {
+        "conditionParam1": 6,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      },
+      {
+        "conditionParam1": 7,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "D17_NPC",
+    "dropItems": [
+      {
+        "kind": 2,
+        "dataId": 65,
+        "denominator": 1
+      },
+      {
+        "kind": 3,
+        "dataId": 50,
+        "denominator": 1
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 50
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 12,
+        "value": 0.03
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.3
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.5
+      }
+    ],
+    "gold": 225000,
+    "name": "沐怜芯",
+    "note": "Breath Effect\nArrow Offset: 0:-65",
+    "params": [ 11950, 9950, 840, 640, 255, 380, 340, 540 ]
+  },
+  {
+    "id": 493,
+    "actions": [
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0,
+        "conditionType": 0,
+        "rating": 2,
+        "skillId": 225
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.9,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 314
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.9,
+        "conditionType": 2,
+        "rating": 5,
+        "skillId": 315
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.7,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 2
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.5,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 3
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.25,
+        "conditionType": 2,
+        "rating": 7,
+        "skillId": 224
+      },
+      {
+        "conditionParam1": 0,
+        "conditionParam2": 0.25,
+        "conditionType": 3,
+        "rating": 7,
+        "skillId": 234
+      },
+      {
+        "conditionParam1": 13,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 236
+      },
+      {
+        "conditionParam1": 5,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      },
+      {
+        "conditionParam1": 6,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      },
+      {
+        "conditionParam1": 7,
+        "conditionParam2": 0,
+        "conditionType": 4,
+        "rating": 7,
+        "skillId": 235
+      }
+    ],
+    "battlerHue": 0,
+    "battlerName": "D18_NPC",
+    "dropItems": [
+      {
+        "kind": 2,
+        "dataId": 18,
+        "denominator": 20
+      },
+      {
+        "kind": 3,
+        "dataId": 40,
+        "denominator": 10
+      },
+      {
+        "kind": 0,
+        "dataId": 0,
+        "denominator": 50
+      }
+    ],
+    "exp": 0,
+    "traits": [
+      {
+        "code": 31,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 32,
+        "dataId": 4,
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 0,
+        "value": 1
+      },
+      {
+        "code": 22,
+        "dataId": 1,
+        "value": 0.15
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.25
+      },
+      {
+        "code": 22,
+        "dataId": 3,
+        "value": 0.18
+      },
+      {
+        "code": 13,
+        "dataId": 4,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 5,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 6,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 7,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 8,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 9,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 11,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 12,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 13,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 14,
+        "value": 0.89
+      },
+      {
+        "code": 13,
+        "dataId": 15,
+        "value": 0.89
+      },
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.8
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.3
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.3
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.3
+      },
+      {
+        "code": 23,
+        "dataId": 4,
+        "value": 0.5
+      }
+    ],
+    "gold": 225000,
+    "name": "程嫣",
+    "note": "Breath Effect\nArrow Offset: 0:-65",
+    "params": [ 16950, 9950, 340, 840, 540, 840, 300, 540 ]
   }
 ]

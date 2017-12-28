@@ -5039,39 +5039,69 @@
   },
   {
     "id": 180,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
+    "atypeId": 1,
+    "description": "特效：[命中﹢10%]　[闪避﹢5%]　[暴击﹢5%]　[回血﹢3%]",
+    "etypeId": 5,
     "traits": [
       {
         "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 22,
         "dataId": 1,
-        "value": 0
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.03
       }
     ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "price": 0
+    "iconIndex": 1168,
+    "name": "英雄徽章",
+    "note": "<ici:6>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 30, 0, 30, 0 ],
+    "price": 50000
   },
   {
     "id": 181,
-    "atypeId": 0,
-    "description": "",
-    "etypeId": 2,
+    "atypeId": 1,
+    "description": "特效：[命中﹢10%]　[闪避﹢5%]　[暴击﹢5%]　[回内﹢3%]",
+    "etypeId": 5,
     "traits": [
       {
         "code": 22,
+        "dataId": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.05
+      },
+      {
+        "code": 22,
         "dataId": 1,
-        "value": 0
+        "value": 0.05
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.03
       }
     ],
-    "iconIndex": 0,
-    "name": "",
-    "note": "",
-    "params": [ 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "price": 0
+    "iconIndex": 1174,
+    "name": "英雄徽章",
+    "note": "<ici:6>\n<No Augment Slots>",
+    "params": [ 0, 0, 0, 0, 0, 30, 0, 30 ],
+    "price": 50000
   },
   {
     "id": 182,

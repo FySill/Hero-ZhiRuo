@@ -79338,6 +79338,96 @@
         "parameters": []
       },
       {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "我现在有一些私事需要处理，不方便带着你！" ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "你先回\\c[2]茅山\\c[0]的青阳观，等我办完事再来找你！" ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "NPC15", 7, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "\\>\\c[4]燕孤魂\\c[0]  \\}[友善度: \\v[213]]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "也好，我也很久没回去看看师傅和师娘了。" ]
+      },
+      {
+        "code": 129,
+        "indent": 3,
+        "parameters": [ 30, 1, false ]
+      },
+      {
+        "code": 121,
+        "indent": 3,
+        "parameters": [ 162, 162, 1 ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [ 424, 424, 2, 0, 1 ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 0, 1 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "                          \\c[4] 燕孤魂 \\c[0]离开队伍！" ]
+      },
+      {
         "code": 0,
         "indent": 3,
         "parameters": []
@@ -79501,6 +79591,21 @@
         "code": 122,
         "indent": 3,
         "parameters": [ 424, 424, 2, 0, 1 ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 0, 1 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "                          \\c[4] 陆剑寒 \\c[0]离开队伍！" ]
       },
       {
         "code": 0,
@@ -79681,6 +79786,96 @@
         "code": 411,
         "indent": 2,
         "parameters": []
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "我现在有一些私事需要处理，不方便带着你！" ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "你先回\\c[2]茅山\\c[0]的青阳观，等我办完事再来找你！" ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "NPC14", 5, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "\\>\\c[4]沐怜芯\\c[0]  \\}[友善度: \\v[214]]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "我也很久没有回去看过姐姐了，正好回去探望一下她。" ]
+      },
+      {
+        "code": 129,
+        "indent": 3,
+        "parameters": [ 33, 1, false ]
+      },
+      {
+        "code": 121,
+        "indent": 3,
+        "parameters": [ 165, 165, 1 ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [ 424, 424, 2, 0, 1 ]
+      },
+      {
+        "code": 101,
+        "indent": 3,
+        "parameters": [ "", 0, 0, 1 ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 3,
+        "parameters": [ "                          \\c[4] 沐怜芯 \\c[0]离开队伍！" ]
       },
       {
         "code": 0,
@@ -84783,12 +84978,267 @@
     "id": 248,
     "list": [
       {
+        "code": 324,
+        "indent": 0,
+        "parameters": [ 4, "嫁衣神功" ]
+      },
+      {
+        "code": 111,
+        "indent": 0,
+        "parameters": [ 0, 221, 0 ]
+      },
+      {
+        "code": 108,
+        "indent": 1,
+        "parameters": [ "学过武功提示" ]
+      },
+      {
+        "code": 122,
+        "indent": 1,
+        "parameters": [ 78, 78, 0, 0, 15 ]
+      },
+      {
+        "code": 117,
+        "indent": 1,
+        "parameters": [ 46 ]
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 0,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 1,
+        "parameters": [ 1, 96, 0, 60, 4 ]
+      },
+      {
+        "code": 108,
+        "indent": 2,
+        "parameters": [ "读书识字不足提示" ]
+      },
+      {
+        "code": 324,
+        "indent": 2,
+        "parameters": [ 9, "60" ]
+      },
+      {
+        "code": 122,
+        "indent": 2,
+        "parameters": [ 78, 78, 0, 0, 19 ]
+      },
+      {
+        "code": 117,
+        "indent": 2,
+        "parameters": [ 46 ]
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 2,
+        "parameters": [ 1, 53, 0, 8, 4 ]
+      },
+      {
+        "code": 108,
+        "indent": 3,
+        "parameters": [ "【基本功】不足提示" ]
+      },
+      {
+        "code": 324,
+        "indent": 3,
+        "parameters": [ 7, "内功" ]
+      },
+      {
+        "code": 324,
+        "indent": 3,
+        "parameters": [ 8, "基本内功" ]
+      },
+      {
+        "code": 324,
+        "indent": 3,
+        "parameters": [ 9, "8" ]
+      },
+      {
+        "code": 122,
+        "indent": 3,
+        "parameters": [ 78, 78, 0, 0, 20 ]
+      },
+      {
+        "code": 117,
+        "indent": 3,
+        "parameters": [ 46 ]
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 111,
+        "indent": 3,
+        "parameters": [ 1, 7, 0, 22000, 4 ]
+      },
+      {
+        "code": 101,
+        "indent": 4,
+        "parameters": [ "", 0, 1, 2 ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [ "\\af[\\v[62]]\\>\\c[5]\\v[18]\\c[0]  \\}\\an[1]\\{" ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [ "" ]
+      },
+      {
+        "code": 401,
+        "indent": 4,
+        "parameters": [ "\\c[14]修为\\c[0]不足 \\c[10]22000\\c[0] ，练武不可心浮气躁还得循序渐进啊！" ]
+      },
+      {
+        "code": 0,
+        "indent": 4,
+        "parameters": []
+      },
+      {
+        "code": 411,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 122,
+        "indent": 4,
+        "parameters": [ 80, 80, 0, 0, 1 ]
+      },
+      {
+        "code": 122,
+        "indent": 4,
+        "parameters": [ 78, 78, 0, 0, 24 ]
+      },
+      {
+        "code": 117,
+        "indent": 4,
+        "parameters": [ 26 ]
+      },
+      {
+        "code": 117,
+        "indent": 4,
+        "parameters": [ 50 ]
+      },
+      {
+        "code": 122,
+        "indent": 4,
+        "parameters": [ 80, 80, 0, 0, 1 ]
+      },
+      {
+        "code": 122,
+        "indent": 4,
+        "parameters": [ 78, 78, 0, 0, 1 ]
+      },
+      {
+        "code": 117,
+        "indent": 4,
+        "parameters": [ 26 ]
+      },
+      {
+        "code": 318,
+        "indent": 4,
+        "parameters": [ 1, 62, 0, 321 ]
+      },
+      {
+        "code": 121,
+        "indent": 4,
+        "parameters": [ 221, 221, 0 ]
+      },
+      {
+        "code": 108,
+        "indent": 4,
+        "parameters": [ "学会武功提示" ]
+      },
+      {
+        "code": 122,
+        "indent": 4,
+        "parameters": [ 79, 79, 0, 0, 11 ]
+      },
+      {
+        "code": 117,
+        "indent": 4,
+        "parameters": [ 47 ]
+      },
+      {
+        "code": 324,
+        "indent": 4,
+        "parameters": [ 1, "[燕南天的传人]" ]
+      },
+      {
+        "code": 0,
+        "indent": 4,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 3,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 2,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 0,
+        "indent": 1,
+        "parameters": []
+      },
+      {
+        "code": 412,
+        "indent": 0,
+        "parameters": []
+      },
+      {
         "code": 0,
         "indent": 0,
         "parameters": []
       }
     ],
-    "name": "",
+    "name": "秘籍·嫁衣神功",
     "switchId": 1,
     "trigger": 0
   },
@@ -86033,7 +86483,7 @@
         "parameters": []
       }
     ],
-    "name": "[读取存档时候加载]",
+    "name": "[读取存档时候加载]1",
     "switchId": 1,
     "trigger": 0
   },
@@ -86531,31 +86981,6 @@
         "code": 117,
         "indent": 5,
         "parameters": [ 219 ]
-      },
-      {
-        "code": 111,
-        "indent": 5,
-        "parameters": [ 1, 550, 0, 0, 0 ]
-      },
-      {
-        "code": 355,
-        "indent": 6,
-        "parameters": [ "LocalData.Finderror=0" ]
-      },
-      {
-        "code": 122,
-        "indent": 6,
-        "parameters": [ 180, 180, 0, 0, 0 ]
-      },
-      {
-        "code": 0,
-        "indent": 6,
-        "parameters": []
-      },
-      {
-        "code": 412,
-        "indent": 5,
-        "parameters": []
       },
       {
         "code": 0,
@@ -93997,14 +94422,9 @@
     "id": 278,
     "list": [
       {
-        "code": 355,
-        "indent": 0,
-        "parameters": [ "Xiao_ol();" ]
-      },
-      {
         "code": 111,
         "indent": 0,
-        "parameters": [ 0, 9, 0 ]
+        "parameters": [ 12, "parseInt(SessionData.opengame)==1" ]
       },
       {
         "code": 111,
@@ -94120,11 +94540,6 @@
         "code": 412,
         "indent": 0,
         "parameters": []
-      },
-      {
-        "code": 121,
-        "indent": 0,
-        "parameters": [ 9, 9, 1 ]
       },
       {
         "code": 0,

@@ -10578,5 +10578,333 @@
     "speed": 0,
     "successRate": 100,
     "tpGain": 0
+  },
+  {
+    "id": 365,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "-----------------",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 366,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "使用之后可以穿上\\c[14]捕快\\c[0]的衣服，改变自己的外观。",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 281,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 1169,
+    "itypeId": 2,
+    "name": "套装·捕快",
+    "note": "<ici:3>",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 367,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "使用之后可以穿上\\c[14]捕快\\c[0]的衣服，改变自己的外观。",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 281,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 1170,
+    "itypeId": 2,
+    "name": "套装·捕快",
+    "note": "<ici:3>",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 368,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "使用之后可以穿上\\c[14]捕快\\c[0]的衣服，改变自己的外观。",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 281,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 1171,
+    "itypeId": 2,
+    "name": "套装·捕快",
+    "note": "<ici:3>",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 369,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "使用之后可以穿上\\c[14]捕快\\c[0]的衣服，改变自己的外观。",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 281,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 1172,
+    "itypeId": 2,
+    "name": "套装·捕快",
+    "note": "<ici:3>",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 370,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "使用之后可以穿上\\c[14]捕快\\c[0]的衣服，改变自己的外观。",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 281,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 1173,
+    "itypeId": 2,
+    "name": "套装·捕快",
+    "note": "<ici:3>",
+    "occasion": 2,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 371,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "-----------------",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 372,
+    "animationId": 0,
+    "consumable": false,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "记载了大侠\\c[4]燕南天\\c[0]所怀绝世内功的 \\c[14][嫁衣神功]\\c[0] 。",
+    "effects": [
+      {
+        "code": 44,
+        "dataId": 248,
+        "value1": 1,
+        "value2": 0
+      }
+    ],
+    "hitType": 0,
+    "iconIndex": 495,
+    "itypeId": 1,
+    "name": "《禅宗心经》",
+    "note": "<ici:6>\n<Max Item: 1>",
+    "occasion": 2,
+    "price": 155000,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 373,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 374,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  },
+  {
+    "id": 375,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 0,
+    "itypeId": 1,
+    "name": "",
+    "note": "",
+    "occasion": 0,
+    "price": 0,
+    "repeats": 1,
+    "scope": 7,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
   }
 ]

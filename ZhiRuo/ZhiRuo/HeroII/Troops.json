@@ -32241,8 +32241,15 @@
   },
   {
     "id": 486,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 486,
+        "x": 174,
+        "y": 259,
+        "hidden": false
+      }
+    ],
+    "name": "486",
     "pages": [
       {
         "conditions": {
@@ -32272,8 +32279,15 @@
   },
   {
     "id": 487,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 487,
+        "x": 159,
+        "y": 268,
+        "hidden": false
+      }
+    ],
+    "name": "487",
     "pages": [
       {
         "conditions": {
@@ -32303,8 +32317,15 @@
   },
   {
     "id": 488,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 488,
+        "x": 186,
+        "y": 262,
+        "hidden": false
+      }
+    ],
+    "name": "488",
     "pages": [
       {
         "conditions": {
@@ -32334,8 +32355,15 @@
   },
   {
     "id": 489,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 489,
+        "x": 207,
+        "y": 256,
+        "hidden": false
+      }
+    ],
+    "name": "489",
     "pages": [
       {
         "conditions": {
@@ -32365,8 +32393,15 @@
   },
   {
     "id": 490,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 490,
+        "x": 186,
+        "y": 256,
+        "hidden": false
+      }
+    ],
+    "name": "489",
     "pages": [
       {
         "conditions": {
@@ -32396,8 +32431,15 @@
   },
   {
     "id": 491,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 491,
+        "x": 225,
+        "y": 253,
+        "hidden": false
+      }
+    ],
+    "name": "燕孤魂",
     "pages": [
       {
         "conditions": {
@@ -32427,8 +32469,15 @@
   },
   {
     "id": 492,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 492,
+        "x": 222,
+        "y": 226,
+        "hidden": false
+      }
+    ],
+    "name": "沐怜芯",
     "pages": [
       {
         "conditions": {
@@ -32458,8 +32507,15 @@
   },
   {
     "id": 493,
-    "members": [],
-    "name": "",
+    "members": [
+      {
+        "enemyId": 493,
+        "x": 225,
+        "y": 220,
+        "hidden": false
+      }
+    ],
+    "name": "程嫣",
     "pages": [
       {
         "conditions": {
