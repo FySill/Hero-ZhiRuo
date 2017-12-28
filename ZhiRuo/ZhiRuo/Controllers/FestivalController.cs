@@ -37,7 +37,7 @@ namespace ZhiRuo.Controllers
             }
             else
             {
-                int number = int.Parse(DateTime.Now.ToString("MMdd")) + 5000;
+                int number = int.Parse(DateTime.Now.ToLocalTime().ToString("MMdd")) + 5000;
                 return Content(number.ToString());
             }   
           
