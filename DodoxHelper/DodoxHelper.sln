@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostEdit", "..\HostEdit\Hos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodoxHelper", "DodoxHelper\DodoxHelper.csproj", "{ED9C53F5-CF89-4315-BB6C-89BCDBDCC2B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroSqlite", "HeroSqlite\HeroSqlite.csproj", "{7CB8C7C8-DB79-473B-889C-E53F0AEA8DE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED9C53F5-CF89-4315-BB6C-89BCDBDCC2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED9C53F5-CF89-4315-BB6C-89BCDBDCC2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED9C53F5-CF89-4315-BB6C-89BCDBDCC2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB8C7C8-DB79-473B-889C-E53F0AEA8DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB8C7C8-DB79-473B-889C-E53F0AEA8DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB8C7C8-DB79-473B-889C-E53F0AEA8DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB8C7C8-DB79-473B-889C-E53F0AEA8DE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
