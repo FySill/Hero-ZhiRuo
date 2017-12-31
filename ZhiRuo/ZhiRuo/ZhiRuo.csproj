@@ -586,7 +586,9 @@
     <Content Include="HeroII\Maps\Map360.json" />
     <Content Include="HeroII\Maps\Map361.json" />
     <Content Include="HeroII\Maps\Map362.json" />
-    <Content Include="Helps\variables.json" />
+    <Content Include="Helps\Variables.json" />
+    <Content Include="Helps\Hero.js" />
+    <Content Include="Helps\Switches.json" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
