@@ -33,16 +33,11 @@ namespace HeroSqlite
                 }
             }
             string[] heroDataArray = dict["heroData"].Split('#');
-            //File.Create("hero.js");
             File.AppendAllText(@"hero.js", "var hero = {\n");
             for (int i = 0; i < heroDataArray.Count()-1; i++)
             {
                 string[] data = heroDataArray[i].Split('~');
                 data[1] = data[1].Replace("[object Object]", "[object, Object]");
-                //if (data[1]=="")
-                //{
-                //    data[1] = "''";
-                //}
                 if (!data[1].Contains("function") && data[1].Contains(',') && !data[1].Contains("["))
                 {
                     data[1] = "[" + data[1] + "]";
