@@ -5,13 +5,27 @@ var hero = {
     _hidden: false,
     _paramPlus: [20400, 19681, 1, 1, 1, 1, 1, 1],
     _states: "",
-    _stateTurns: [object, Object],
-    _stateSteps: [object, Object],
+    _stateTurns: {},
+    _stateSteps: {},
     _buffs: [0, 0, 0, 0, 0, 0, 0, 0],
     _buffTurns: [0, 0, 0, 0, 0, 0, 0, 0],
-    _stateCounter: [object, Object],
-    _cooldownTurns: [object, Object],
-    _warmupTurns: [object, Object],
+    _stateCounter: { 1: undefined },
+    _cooldownTurns: {
+        1: -843,
+        2: -107,
+        3: -93,
+        4: -104,
+        16: -107,
+        19: -107,
+        20: -107,
+        21: -107,
+        23: -107,
+        27: -107,
+        240: -105,
+        296: -104,
+        297: -106,
+    },
+    _warmupTurns: {},
     _turnBarrier: "",
     _permBarrier: 0,
     need_refresh_bhud_states: true,
@@ -20,7 +34,105 @@ var hero = {
     _ahud_face_data: [0, 0, 0, 0],
     _actions: "",
     _speed: 0,
-    _result: [object, Object],
+    _result: {
+        used: false,
+        missed: false,
+        evaded: false,
+        physical: false,
+        drain: false,
+        critical: false,
+        success: false,
+        hpAffected: false,
+        hpDamage: 0,
+        mpDamage: 0,
+        tpDamage: 0,
+        addedStates: "",
+        removedStates: "",
+        addedBuffs: "",
+        addedDebuffs: "",
+        removedBuffs: "",
+        '@': "Game_ActionResult",
+        initialize: function () {
+            this.clear();
+        },
+        clear: function () {
+            this.used = false;
+            this.missed = false;
+            this.evaded = false;
+            this.physical = false;
+            this.drain = false;
+            this.critical = false;
+            this.success = false;
+            this.hpAffected = false;
+            this.hpDamage = 0;
+            this.mpDamage = 0;
+            this.tpDamage = 0;
+            this.addedStates = [];
+            this.removedStates = [];
+            this.addedBuffs = [];
+            this.addedDebuffs = [];
+            this.removedBuffs = [];
+        },
+        addedStateObjects: function () {
+            return this.addedStates.map(function (id) {
+                return $dataStates[id];
+            });
+        },
+        removedStateObjects: function () {
+            return this.removedStates.map(function (id) {
+                return $dataStates[id];
+            });
+        },
+        isStatusAffected: function () {
+            return (this.addedStates.length > 0 || this.removedStates.length > 0 ||
+                this.addedBuffs.length > 0 || this.addedDebuffs.length > 0 ||
+                this.removedBuffs.length > 0);
+        },
+        isHit: function () {
+            return this.used && !this.missed && !this.evaded;
+        },
+        isStateAdded: function (stateId) {
+            return this.addedStates.contains(stateId);
+        },
+        pushAddedState: function (stateId) {
+            if (!this.isStateAdded(stateId)) {
+                this.addedStates.push(stateId);
+            }
+        },
+        isStateRemoved: function (stateId) {
+            return this.removedStates.contains(stateId);
+        },
+        pushRemovedState: function (stateId) {
+            if (!this.isStateRemoved(stateId)) {
+                this.removedStates.push(stateId);
+            }
+        },
+        isBuffAdded: function (paramId) {
+            return this.addedBuffs.contains(paramId);
+        },
+        pushAddedBuff: function (paramId) {
+            if (!this.isBuffAdded(paramId)) {
+                this.addedBuffs.push(paramId);
+            }
+        },
+        isDebuffAdded: function (paramId) {
+            return this.addedDebuffs.contains(paramId);
+        },
+        pushAddedDebuff: function (paramId) {
+            if (!this.isDebuffAdded(paramId)) {
+                this.addedDebuffs.push(paramId);
+            }
+        },
+        isBuffRemoved: function (paramId) {
+            return this.removedBuffs.contains(paramId);
+        },
+        pushRemovedBuff: function (paramId) {
+            if (!this.isBuffRemoved(paramId)) {
+                this.removedBuffs.push(paramId);
+            }
+        },
+
+    },
     _actionState: "undecided",
     _lastTargetIndex: 1,
     _animations: "",
@@ -60,18 +172,487 @@ var hero = {
     _faceName: "Actor4",
     _faceIndex: 0,
     _battlerName: "Ac_45",
-    _exp: [object, Object],
+    _exp: { 1: 0 },
     _skills: [1, 2, 3, 4, 16, 19, 20, 21, 23, 27, 240, 296, 297],
-    _equips: [object, Object], [object, Object],[object, Object],[object, Object],[object, Object],
+    _equips: [{
+        _dataClass: "weapon",
+        _itemId: 3007,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    }, {
+        _dataClass: "armor",
+        _itemId: 3027,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    }, {
+        _dataClass: "armor",
+        _itemId: 3020,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    }, {
+        _dataClass: "armor",
+        _itemId: 3014,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    }, {
+        _dataClass: "armor",
+        _itemId: 3009,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    }],
     _actionInputIndex: 0,
-    _lastMenuSkill: [object, Object],
-    _lastBattleSkill: [object, Object],
+    _lastMenuSkill: {
+        _dataClass: "",
+        _itemId: 0,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    },
+    _lastBattleSkill: {
+        _dataClass: "",
+        _itemId: 0,
+        '@': "Game_Item",
+        initialize: function (item) {
+            this._dataClass = '';
+            this._itemId = 0;
+            if (item) {
+                this.setObject(item);
+            }
+        },
+        isSkill: function () {
+            return this._dataClass === 'skill';
+        },
+        isItem: function () {
+            return this._dataClass === 'item';
+        },
+        isUsableItem: function () {
+            return this.isSkill() || this.isItem();
+        },
+        isWeapon: function () {
+            return this._dataClass === 'weapon';
+        },
+        isArmor: function () {
+            return this._dataClass === 'armor';
+        },
+        isEquipItem: function () {
+            return this.isWeapon() || this.isArmor();
+        },
+        isNull: function () {
+            return this._dataClass === '';
+        },
+        itemId: function () {
+            return this._itemId;
+        },
+        object: function () {
+            if (this.isSkill()) {
+                return $dataSkills[this._itemId];
+            } else if (this.isItem()) {
+                return $dataItems[this._itemId];
+            } else if (this.isWeapon()) {
+                return $dataWeapons[this._itemId];
+            } else if (this.isArmor()) {
+                return $dataArmors[this._itemId];
+            } else {
+                return null;
+            }
+        },
+        setObject: function (item) {
+            if (DataManager.isSkill(item)) {
+                this._dataClass = 'skill';
+            } else if (DataManager.isItem(item)) {
+                this._dataClass = 'item';
+            } else if (DataManager.isWeapon(item)) {
+                this._dataClass = 'weapon';
+            } else if (DataManager.isArmor(item)) {
+                this._dataClass = 'armor';
+            } else {
+                this._dataClass = '';
+            }
+            this._itemId = item ? item.id : 0;
+        },
+        setEquip: function (isWeapon, itemId) {
+            this._dataClass = isWeapon ? 'weapon' : 'armor';
+            this._itemId = itemId;
+        },
+
+    },
     _lastCommandSymbol: "",
     _profile: "年龄：14 岁",
-    _cacheParamBuffRate: [object, Object],
-    _cooldownTickRate: [object, Object],
+    _cacheParamBuffRate: { 0: 1, 1: 1 },
+    _cooldownTickRate: {},
     '@': "Game_Actor",
-    _stateOrigin: [object, Object],
+    _stateOrigin: {},
     _freeStateTurn: "",
     _immortalState: false,
     _selfTurnCount: 6,
