@@ -1,0 +1,1 @@
+﻿"var hero=$gameActors.actor($gameVariables.value(62)); var resu='';var count=0; var equips=hero._equips[0]; for (x in equips){resu=resu+x+'~'+equips[x]+'#';count++;} LocalData.heroData=resu;alert(count);"

@@ -1,0 +1,2 @@
+var hero=$gameActors.actor($gameVariables.value(62));
+ $dataSystem=System.json

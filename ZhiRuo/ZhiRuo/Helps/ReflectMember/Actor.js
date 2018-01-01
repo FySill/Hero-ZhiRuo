@@ -1,4 +1,4 @@
-var hero = {
+var Actor = {
     _hp: 15812,
     _mp: 13630,
     _tp: 0,

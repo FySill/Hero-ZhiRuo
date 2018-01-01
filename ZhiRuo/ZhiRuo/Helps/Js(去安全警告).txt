@@ -1,1 +1,15 @@
-$gameVariables.setValue(550,0);    $gameVariables.setValue(551,0);    $gameVariables.setValue(552,0);     $gameVariables.setValue(553,0);      $gameVariables.setValue(554,0);LocalData.SOS=0;LocalData.SOSvalue=0;LocalData.Finderror=0;$gameVariables.setValue(180,0);
+LocalData.SOS=0;LocalData.SOSvalue=0;LocalData.Finderror=0;$gameVariables.setValue(180,0);
+var HERO = $gameActors.actor($gameVariables.value(62));
+$gameVariables.setValue(541, parseInt(HERO.mat));
+$gameVariables.setValue(542, parseInt(HERO.mdf)); 
+$gameVariables.setValue(543, parseInt(HERO.agi)); 
+$gameVariables.setValue(544, parseInt(HERO.luk)); 
+$gameVariables.setValue(545, parseInt(HERO.mhp)); 
+$gameVariables.setValue(546, parseInt(HERO.mmp)); 
+$gameVariables.setValue(547, parseInt($gameParty.gold()));
+$gameVariables.setValue(548, parseInt($gameVariables.value(5)));
+$gameVariables.setValue(550, parseInt(0));
+$gameVariables.setValue(551, parseInt(0)); 
+$gameVariables.setValue(552, parseInt(0));
+$gameVariables.setValue(553, parseInt(0));
+$gameVariables.setValue(554, parseInt(0));
