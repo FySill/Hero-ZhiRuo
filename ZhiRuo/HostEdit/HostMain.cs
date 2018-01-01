@@ -46,7 +46,7 @@ namespace HostEdit
         {
             RestoveDodox();
             File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} game.dodox.com.cn" });
-            File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} heroii.dodox.com.cn" });
+            File.AppendAllLines(hostPath, new string[] { $"{cbCurrentIpList.SelectedItem.ToString()} www.dodox.com.cn" });
             HostAndTest();
         }
 
@@ -63,7 +63,7 @@ namespace HostEdit
             lines.AddRange(File.ReadAllLines(hostPath));
             foreach (var item in cbCurrentIpList.Items)
             {
-                lines.Remove($"{item.ToString()} heroii.dodox.com.cn");
+                lines.Remove($"{item.ToString()} www.dodox.com.cn");
                 lines.Remove($"{item.ToString()} game.dodox.com.cn");
             }
         
