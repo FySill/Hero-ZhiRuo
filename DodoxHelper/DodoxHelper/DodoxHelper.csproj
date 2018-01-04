@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Coding.cs" />
+    <Compile Include="Decrypter.cs" />
+    <Compile Include="Lz-String.cs" />
     <Compile Include="Models\Damage.cs" />
     <Compile Include="Models\Effect.cs" />
     <Compile Include="GenerateDoDoxCode.cs" />
