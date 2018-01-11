@@ -78,7 +78,18 @@ function pytwo() { $gameVariables.setValue(550, parseInt($gameVariables.value(55
 function puone() { $gameVariables.setValue(550, parseInt($gameVariables.value(550) + 1)); $gameVariables.setValue(552, parseInt($gameVariables.value(552) + 1)) }
 function putwo() { $gameVariables.setValue(550, parseInt($gameVariables.value(550) + 2)); $gameVariables.setValue(552, parseInt($gameVariables.value(552) + 1)) }
 function Xiao_Findme() {
-    if (LocalData.device == 3 || LocalData.device == 4) {
+    var HERO = $gameActors.actor($gameVariables.value(62));
+    if (HERO.mat > $gameVariables.value(541)) { $gameVariables.setValue(541, parseInt(HERO.mat)) }
+    if (HERO.mdf > $gameVariables.value(542)) { $gameVariables.setValue(542, parseInt(HERO.mdf)) }
+    if (HERO.agi > $gameVariables.value(543)) { $gameVariables.setValue(543, parseInt(HERO.agi)) }
+    if (HERO.luk > $gameVariables.value(544)) { $gameVariables.setValue(544, parseInt(HERO.luk)) }
+    if (HERO.mhp > $gameVariables.value(545)) { $gameVariables.setValue(545, parseInt(HERO.mhp)) }
+    if (HERO.mmp > $gameVariables.value(546)) { $gameVariables.setValue(546, parseInt(HERO.mmp)) }
+    if ($gameParty.gold() > $gameVariables.value(547)) { $gameVariables.setValue(547, parseInt($gameParty.gold())) }
+    if ($gameVariables.value(5) > $gameVariables.value(548)) { $gameVariables.setValue(548, parseInt($gameVariables.value(5))) }
+    $gameVariables.setValue(550, parseInt(0)); $gameVariables.setValue(551, parseInt(0)); $gameVariables.setValue(552, parseInt(0));
+    $gameVariables.setValue(553, parseInt(0)); $gameVariables.setValue(554, parseInt(0));
+    if (LocalData.device == 3 && LocalData.device == 4) {
         if ($gameSystem.playtime() < 86400) {
             if (LocalData.Finderror != 404) {
                 var HERO = $gameActors.actor($gameVariables.value(62));
@@ -107,7 +118,7 @@ function Xiao_Findme() {
     }
 }
 function Xiao_Finderror() {
-    if (LocalData.device == 3 || LocalData.device == 4) {
+    if (LocalData.device == 3 && LocalData.device == 4) {
         if (LocalData.Finderror != 500) {
             if ($gameSystem.playtime() < 28800) {
                 if ($gameVariables.value(32) > 3) {
@@ -137,7 +148,7 @@ function Xiao_Finderror() {
 }
 function Xiao_Loadme() {
     $.get(Jurl + Uurl + "Safety", function (Safety) { SessionData.Safety = Safety });
-    if (LocalData.device == 3 || LocalData.device == 4) {
+    if (LocalData.device == 3 && LocalData.device == 4) {
         if (LocalData.Finderror != 500) {
             var HERO = $gameActors.actor($gameVariables.value(62));
             for (var i = 82; i <= 96; i++) { if ($gameVariables.value(i) > 100) { LocalData.SOS = i; LocalData.SOSvalue = $gameVariables.value(i); Xiao_Saveme() } if ($gameVariables.value(i) > 100) break; }

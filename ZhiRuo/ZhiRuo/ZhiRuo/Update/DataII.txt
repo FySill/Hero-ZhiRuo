@@ -1,1 +1,1 @@
-﻿"http://0fashion.jios.org:8333/HeroII/"
+﻿"http://www.emeizhiruo.cn/heroii/data/"
